@@ -629,3 +629,15 @@ engine, print CSS, polish pass, Cloudflare Pages deploy. Custom
 SVG charts, click-to-pin callouts, global time-range filter,
 dimension toggles, code-split Recharts. 218 KB initial / 371 KB
 lazy chunk. Deployed to shortships.lailarallc.com.
+
+---
+
+## Improvement History
+
+### 2026-09-23 — Audit (health check only)
+- **Findings:** 1 critical, 4 important, 4 nice-to-have
+- **Top concerns:** The parameter panel produces contradictory figures: `summaryFromMonthly` scales fines by an unweighted average of the 9 per-channel ratios while the retailer drilldown uses each channel's own ratio, so setting the Costco fine to $0 shows compliance fines of $24K in the drilldown but $146K in the headline (baseline $165K); no test covers the scaling functions. `requirements.txt` claims stdlib-only though the pipeline imports psycopg2 (and optionally python-dotenv), and `client-mode.yml` still tells the reader to set a repo-level secret on `MsShawnP/<repo>` and says v0.2.1 while installing v0.2.2.
+- **Other items:** HANDOFF.md misses the 2026-09-05 OG fix and 2026-09-23 hook commit, and its top two entries are out of order. Three remote branches from May carry unmerged commits and five more are fully merged. `deploy.yml` hardcodes Node 24 instead of reading `web/.nvmrc`. Actions are pinned to tags, not SHAs. PLAN.md carries about 600 lines of completed-arc detail.
+- **Verified OK:** vitest 23/23 and demo golden 4/4 pass, the canonical drift gate is clean, all five CI workflows were green on 2026-09-05, gitleaks config covers both DSN forms, and the pipeline has no string-built SQL. Manual security, code-quality and data-correctness passes replaced the automated reviews. `tests/test_client_mode.py` was skipped because it writes to the system temp dir.
+- **Action taken:** Audit only — no fixes this session
+- **Next review:** 2026-12-22
