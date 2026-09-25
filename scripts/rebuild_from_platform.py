@@ -67,8 +67,14 @@ CHANNEL_MAP = {
     "DIST-DPI": "DPI Northwest",
 }
 
+# Walmart: 3% of manufacturing cost on short units, every month, with no
+# monthly pass/fail gate (anchor A5.17), so it has no threshold. Two open gaps
+# against the registry (see HANDOFF.md): A5.15 prices the fine at wholesale,
+# not manufacturing cost, and Walmart fines whole non-compliant cases, not
+# units. Walmart also fines late cases; that is a lateness cost, not a
+# short-ship cost, and is left to otif-blind-spot.
 FINE_SCHEDULE = {
-    "Walmart":    ("line_cogs",       0.03,  0.98),
+    "Walmart":    ("short_cogs",      0.03,  0.0),
     "Costco":     ("flat",            250.0, 0.0),
     "Whole Foods":("po_cogs",         0.02,  0.95),
     "Sprouts":    ("po_cogs",         0.01,  0.90),
@@ -228,18 +234,15 @@ def compute_compliance_fines(conn, po_data: dict | None = None) -> dict:
         shorted_value = po_demand_value - po_shipped_value
         po_fill = po_shipped_value / po_demand_value if po_demand_value else 1.0
 
-        if basis_kind == "line_cogs":
+        if basis_kind == "short_cogs":
             for L in lines:
-                if L["units_ordered"] == 0:
-                    continue
-                line_fill = L["units_shipped"] / L["units_ordered"]
-                if line_fill < target:
-                    line_cogs = L["units_ordered"] * L["cogs"]
+                units_short = L["units_ordered"] - L["units_shipped"]
+                if units_short > 0:
                     rows.append({
                         "retailer": channel,
                         "sku": L["sku"],
                         "month": month,
-                        "cost": rate * line_cogs,
+                        "cost": rate * units_short * L["cogs"],
                     })
 
         elif basis_kind == "flat":
@@ -723,13 +726,11 @@ def _simulate_fines_at(po_data: dict, target: float) -> dict:
         shorted_value = po_demand_value - po_shipped_value
         po_fill = po_shipped_value / po_demand_value if po_demand_value else 1.0
 
-        if basis_kind == "line_cogs":
+        if basis_kind == "short_cogs":
             for L in sim_lines:
-                if L["units_ordered"] == 0:
-                    continue
-                line_fill = L["units_shipped"] / L["units_ordered"]
-                if line_fill < threshold:
-                    total += rate * L["units_ordered"] * L["cogs"]
+                units_short = L["units_ordered"] - L["units_shipped"]
+                if units_short > 0:
+                    total += rate * units_short * L["cogs"]
 
         elif basis_kind == "flat":
             if po_shipped_value < po_demand_value:
@@ -836,7 +837,7 @@ def write_cost_db(results: dict, rev_info: dict, scenarios: list[dict]) -> None:
             "INSERT INTO cost_parameters VALUES (?, ?, ?, ?, ?, ?, ?)",
             (f"fine_{name.lower().replace(' ', '_')}",
              rate, "USD" if basis_kind == "flat" else "fraction",
-             basis_kind, "PO" if basis_kind != "line_cogs" else "line",
+             basis_kind, "unit" if basis_kind == "short_cogs" else "PO",
              f"{name} compliance fine schedule",
              "docs/cost-engine-benchmarks.md"),
         )
@@ -959,7 +960,7 @@ def _build_meta(rev_info: dict, start_date: str, end_date: str, total_skus: int 
             "value": rate,
             "unit": "USD" if basis_kind == "flat" else "fraction",
             "basis": basis_kind,
-            "level": "PO" if basis_kind != "line_cogs" else "line",
+            "level": "unit" if basis_kind == "short_cogs" else "PO",
             "description": f"{name} compliance fine schedule",
         }
     return {

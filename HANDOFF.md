@@ -919,3 +919,26 @@ to FAILURES.md; one decision added.
    the holding shell exits; `rmdir` it if it survives.
 
 ---
+
+## 2026-09-25 — Walmart fine rule (Later #3, option b): engine only, not published
+
+**Started from:** Later #3 in `../the-question-engine/HANDOFF.md`. The engine fined Walmart 3% of the whole PO line's COGS whenever line fill fell below 98% (Walmart's 2021 rule).
+
+**Did:**
+- `scripts/rebuild_from_platform.py`: Walmart fine is now 3% of manufacturing cost on short units, every month, no monthly pass/fail gate (anchor A5.17). Same rule in the what-if simulation. Walmart `level` label is now "unit". Late-case fines deliberately excluded (a lateness cost; belongs to otif-blind-spot). Other retailers unchanged.
+- `tests/test_walmart_fine.py`: runs the fine logic on synthetic POs, no database. Fails on the old engine ($6.00 vs $0.66). Not run in CI (only the golden and client-mode test files run there; psycopg2 is not in requirements.txt).
+- Read-only figures from a 2026-09-25 tunnel session (exploratory script, not the rebuild): Walmart fine $12,981 → $1,489 over 3 years; total $894,174 → $882,682; $298K/yr → $294K/yr. What-if totals: 95% $575K (34.9%), 97% $477K (46.0%), 98% $428K (51.5%), 99% $371K (58.0%).
+
+**Not done (deliberately):** outputs NOT regenerated; `web/public/data/*.json`, `data/short_ship_cost.db`, README, docs, web copy and the golden SHAs still show the old $894K / $298K model. Nothing pushed or published. The public $298K stands until the gaps below are closed.
+
+**Open gaps (block stage 2):**
+1. **Wholesale basis.** Anchor A5.15 and `cinderhaven-data-realism/docs/anchors/sourcing/group-5-po-lifecycle.md` (Walmart row: "cost = wholesale"; open item 3) price Walmart's fine at Cinderhaven's wholesale price to Walmart (`unit_price`), not manufacturing cost (`cogs_per_unit`). Wholesale averages ~2.08× manufacturing cost.
+2. **Whole-case rounding.** Walmart fines whole non-compliant cases. The seed orders in eaches (24–144) and shorts partial cases (`units - ceil(units * U(0.03, 0.12))`), so a short line should be fined on ceil(short / case_pack_qty) × case_pack_qty units. The engine does not load `product_master.case_pack_qty`. Estimated ~2.08×.
+- Closing both is estimated (not measured) at ~$6K over 3 years for Walmart, ~$296K/yr headline. "$296K" is on the canonical retired list (`reference/supersedes.txt`), so that figure needs a canonical ruling. Closing needs one read-only tunnel session.
+
+**Also open, outside this repo:**
+- Monthly-check question (A5.17 "every month regardless" vs 8th & Walton "a full month to meet the goal") — settle with q13.
+- The "99.1% case-weighted in-full" figure from the exploratory script is unit-weighted and tested every month at 95% (A5.16: 98% before 2024-03). Do not use it in q13 until recomputed.
+- Platform: `int_loaded_contribution_by_sku.sql` treats `units_ordered` as cases (× case_pack_qty × cogs_per_unit) while the seed writes eaches. Unverified; read-only check is next.
+
+**Next:** the platform units-vs-cases check (read-only). Then q13's in-full claim. Then close gaps 1–2 and do short-ship stage 2 (regenerate outputs, re-baseline golden, ~20 downstream places).
