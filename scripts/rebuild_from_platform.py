@@ -22,6 +22,8 @@ from pathlib import Path
 import psycopg2
 import psycopg2.extras
 
+import prod_guard
+
 REPO = Path(__file__).resolve().parent.parent
 COST_DB = REPO / "data" / "short_ship_cost.db"
 JSON_DIR = REPO / "web" / "public" / "data"
@@ -87,6 +89,7 @@ FINE_SCHEDULE = {
 
 
 def pg_connect():
+    prod_guard.check(DATABASE_URL)
     return psycopg2.connect(DATABASE_URL)
 
 
