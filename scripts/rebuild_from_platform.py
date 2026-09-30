@@ -69,14 +69,14 @@ CHANNEL_MAP = {
     "DIST-DPI": "DPI Northwest",
 }
 
-# Walmart: 3% of manufacturing cost on short units, every month, with no
-# monthly pass/fail gate (anchor A5.17), so it has no threshold. Two open gaps
-# against the registry (see HANDOFF.md): A5.15 prices the fine at wholesale,
-# not manufacturing cost, and Walmart fines whole non-compliant cases, not
-# units. Walmart also fines late cases; that is a lateness cost, not a
-# short-ship cost, and is left to otif-blind-spot.
+# Walmart: 3% of Cinderhaven's wholesale price to Walmart (A5.15) on each
+# short line's shortfall rounded up to whole cases, since Walmart fines whole
+# non-compliant cases. Modeling assumption: the fine applies every month with
+# no monthly pass/fail gate (registry A5.17), so it has no threshold; 8th &
+# Walton describes a monthly goal instead. Walmart also fines late cases; that
+# is a lateness cost, not a short-ship cost, and is left to otif-blind-spot.
 FINE_SCHEDULE = {
-    "Walmart":    ("short_cogs",      0.03,  0.0),
+    "Walmart":    ("short_cases_wholesale", 0.03,  0.0),
     "Costco":     ("flat",            250.0, 0.0),
     "Whole Foods":("po_cogs",         0.02,  0.95),
     "Sprouts":    ("po_cogs",         0.01,  0.90),
@@ -177,12 +177,14 @@ def _load_po_lines(conn) -> dict:
             sl.units_ordered,
             sl.units_shipped,
             ol.unit_price,
-            sc.cogs_per_unit
+            sc.cogs_per_unit,
+            pm.case_pack_qty
         FROM raw.retailer_shipment_lines sl
         JOIN raw.retailer_shipments s  ON sl.shipment_id = s.shipment_id
         JOIN raw.retailer_orders o     ON s.order_id = o.order_id
         JOIN raw.retailer_order_lines ol ON o.order_id = ol.order_id AND sl.sku = ol.sku
         JOIN raw.sku_costs sc          ON sl.sku = sc.sku
+        JOIN raw.product_master pm     ON sl.sku = pm.sku
     """
     sql_distributor = """
         SELECT
@@ -193,12 +195,14 @@ def _load_po_lines(conn) -> dict:
             sl.units_ordered,
             sl.units_shipped,
             ol.unit_price,
-            sc.cogs_per_unit
+            sc.cogs_per_unit,
+            pm.case_pack_qty
         FROM raw.distributor_shipment_lines sl
         JOIN raw.distributor_shipments s  ON sl.shipment_id = s.shipment_id
         JOIN raw.distributor_orders o     ON s.order_id = o.order_id
         JOIN raw.distributor_order_lines ol ON o.order_id = ol.order_id AND sl.sku = ol.sku
         JOIN raw.sku_costs sc             ON sl.sku = sc.sku
+        JOIN raw.product_master pm        ON sl.sku = pm.sku
     """
     with conn.cursor(cursor_factory=psycopg2.extras.DictCursor) as cur:
         for sql in (sql_retailer, sql_distributor):
@@ -211,10 +215,20 @@ def _load_po_lines(conn) -> dict:
                     "units_shipped": int(r["units_shipped"]),
                     "unit_price": float(r["unit_price"]),
                     "cogs": float(r["cogs_per_unit"]),
+                    "case_pack": int(r["case_pack_qty"]),
                 })
                 po_data[oid]["channel"] = ch(r["partner_id"])
                 po_data[oid]["month"] = r["month"]
     return dict(po_data)
+
+
+def _short_units_in_whole_cases(L: dict) -> int:
+    """Short units rounded up to whole cases, capped at the units ordered."""
+    units_short = L["units_ordered"] - L["units_shipped"]
+    if units_short <= 0:
+        return 0
+    cases = -(-units_short // L["case_pack"])
+    return min(cases * L["case_pack"], L["units_ordered"])
 
 
 def compute_compliance_fines(conn, po_data: dict | None = None) -> dict:
@@ -237,15 +251,15 @@ def compute_compliance_fines(conn, po_data: dict | None = None) -> dict:
         shorted_value = po_demand_value - po_shipped_value
         po_fill = po_shipped_value / po_demand_value if po_demand_value else 1.0
 
-        if basis_kind == "short_cogs":
+        if basis_kind == "short_cases_wholesale":
             for L in lines:
-                units_short = L["units_ordered"] - L["units_shipped"]
-                if units_short > 0:
+                units_fined = _short_units_in_whole_cases(L)
+                if units_fined > 0:
                     rows.append({
                         "retailer": channel,
                         "sku": L["sku"],
                         "month": month,
-                        "cost": rate * units_short * L["cogs"],
+                        "cost": rate * units_fined * L["unit_price"],
                     })
 
         elif basis_kind == "flat":
@@ -729,11 +743,9 @@ def _simulate_fines_at(po_data: dict, target: float) -> dict:
         shorted_value = po_demand_value - po_shipped_value
         po_fill = po_shipped_value / po_demand_value if po_demand_value else 1.0
 
-        if basis_kind == "short_cogs":
+        if basis_kind == "short_cases_wholesale":
             for L in sim_lines:
-                units_short = L["units_ordered"] - L["units_shipped"]
-                if units_short > 0:
-                    total += rate * units_short * L["cogs"]
+                total += rate * _short_units_in_whole_cases(L) * L["unit_price"]
 
         elif basis_kind == "flat":
             if po_shipped_value < po_demand_value:
@@ -840,7 +852,7 @@ def write_cost_db(results: dict, rev_info: dict, scenarios: list[dict]) -> None:
             "INSERT INTO cost_parameters VALUES (?, ?, ?, ?, ?, ?, ?)",
             (f"fine_{name.lower().replace(' ', '_')}",
              rate, "USD" if basis_kind == "flat" else "fraction",
-             basis_kind, "unit" if basis_kind == "short_cogs" else "PO",
+             basis_kind, "case" if basis_kind == "short_cases_wholesale" else "PO",
              f"{name} compliance fine schedule",
              "docs/cost-engine-benchmarks.md"),
         )
@@ -963,7 +975,7 @@ def _build_meta(rev_info: dict, start_date: str, end_date: str, total_skus: int 
             "value": rate,
             "unit": "USD" if basis_kind == "flat" else "fraction",
             "basis": basis_kind,
-            "level": "unit" if basis_kind == "short_cogs" else "PO",
+            "level": "case" if basis_kind == "short_cases_wholesale" else "PO",
             "description": f"{name} compliance fine schedule",
         }
     return {
