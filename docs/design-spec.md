@@ -3,8 +3,8 @@
 > **SUPERSEDED (2026-07-30).** This document describes the retired synthetic
 > 8-dimension cost engine ($18.7M-lineage figures). The shipped tool reads
 > platform shipment lines at 99.2%/99.5% fill and reports the 4-dimension
-> $894K/36-month stack ($523K forgone revenue + $165K fines + $119K
-> chargebacks + $87K deductions; $643K economic loss at margin basis).
+> $888K/36-month stack ($523K forgone revenue + $158K fines + $119K
+> chargebacks + $87K deductions; $637K economic loss at margin basis).
 > See README.md "Provenance" for the retirement of the $33.1M and $6.6M
 > lineages. Kept for design history only.
 
@@ -140,7 +140,7 @@ The palette is sequential by magnitude rank, not categorical. The same dimension
   background shading with label).
 - **Chart 2:** Small multiples or table showing per-dimension
   recovery at each scenario. Emphasize that OTIF stays sticky
-  (Walmart's 98% threshold) while deauth drops off a cliff
+  (Walmart's per-case fine shrinks steadily, with no threshold) while deauth drops off a cliff
   at 90%.
 - **Chart title:** e.g., "At 90% fill rate, $18.7M in costs
   disappear — most of it from distributor deauthorization"

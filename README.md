@@ -18,7 +18,7 @@ Platform (Postgres).
   compliance fines, chargebacks, and deductions — directly from
   platform shipment, chargeback, and deduction records
 - Models compliance fines from published retailer schedules
-  (Walmart 3% of COGS, Costco $250 flat fee per any-short PO, etc.)
+  (Walmart 3% of the wholesale price on each short case, Costco $250 flat fee per any-short PO, etc.)
   applied to real shortfall events
 - Simulates line-level fill-floor buffers (95–99%) and recomputes
   all four dimensions to show what a fill-rate lift recovers
@@ -28,12 +28,12 @@ Platform (Postgres).
 ## Why it matters
 
 At a 99.3% portfolio fill rate (99.2% retailer / 99.5% distributor),
-Cinderhaven still loses $894K over three years ($298K/yr):
+Cinderhaven still loses $888K over three years ($296K/yr):
 
 | Dimension | 3-Year | Annual | % of Shipped |
 |---|---|---|---|
 | Forgone revenue | $523K | $174K | 0.69% |
-| Compliance fines | $165K | $55K | 0.22% |
+| Compliance fines | $158K | $53K | 0.21% |
 | Chargebacks | $119K | $40K | 0.16% |
 | Deductions | $87K | $29K | 0.12% |
 
@@ -43,21 +43,21 @@ $91K/yr, roughly 52% of the forgone revenue figure.
 
 Two findings a fill-rate KPI alone would miss:
 
-- **Fine structure beats fill rate.** Costco generates 85% of all
-  compliance fines ($140K of $165K) because its $250 flat fee fires
+- **Fine structure beats fill rate.** Costco generates 89% of all
+  compliance fines ($140K of $158K) because its $250 flat fee fires
   on any shorted line, even at 99%+ fill. Costco is also the largest
   single-retailer cost contributor at $212K (24% of total).
 - **The floor matters more than the average.** At 99.3% average
   fill, individual lines still fall short. Lifting the line-level
-  floor to 99% recovers $523K — 58.5% of total shortfall cost:
+  floor to 99% recovers $514K — 57.9% of total shortfall cost:
 
 | Floor | Total Cost | Recovery | Recovery % |
 |---|---|---|---|
-| Baseline (99.3% avg) | $894K | — | — |
-| 95% floor | $587K | $307K | 34.3% |
-| 97% floor | $490K | $405K | 45.3% |
-| 98% floor | $436K | $458K | 51.2% |
-| 99% floor | $371K | $523K | 58.5% |
+| Baseline (99.3% avg) | $888K | — | — |
+| 95% floor | $580K | $308K | 34.7% |
+| 97% floor | $482K | $406K | 45.7% |
+| 98% floor | $433K | $455K | 51.2% |
+| 99% floor | $374K | $514K | 57.9% |
 
 Chargebacks and deductions are unaffected by the fill-rate lift
 because they are actual platform events, not modeled from the gap.
@@ -126,7 +126,7 @@ three incompatible fulfillment realities coexisted in the portfolio.
 The first rebuild replaced the synthetic engine with platform
 queries and landed at $6.6M / 92.7% fill across 4 dimensions. A
 subsequent cinderhaven-data-platform reseed recalibrated fill rates
-upward to 99.3%, producing the current $894K figure. Eight
+upward to 99.3%, producing the current $888K figure. Eight
 dimensions became four. Every dollar now has a receipt.
 
 ---

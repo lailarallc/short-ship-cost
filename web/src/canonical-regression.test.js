@@ -29,7 +29,7 @@ function loadData(filename) {
 const CANONICAL = {
   shipped_revenue: 75_543_979.99,
   total_skus: 50,
-  total_cost: 894_173.83,
+  total_cost: 887_699.01,
   expected_dimensions: [
     'forgone_revenue',
     'compliance_fines',

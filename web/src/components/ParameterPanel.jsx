@@ -6,7 +6,7 @@ const GROUPS = [
   {
     title: 'Compliance fine rates',
     fields: [
-      { key: 'fine_walmart', label: 'Walmart (line COGS)', type: 'pct', min: 0, max: 0.1, step: 0.001 },
+      { key: 'fine_walmart', label: 'Walmart (wholesale, per case)', type: 'pct', min: 0, max: 0.1, step: 0.001 },
       { key: 'fine_costco', label: 'Costco (flat per PO)', type: 'usd', min: 0, max: 1000, step: 25 },
       { key: 'fine_whole_foods', label: 'Whole Foods (PO COGS)', type: 'pct', min: 0, max: 0.1, step: 0.001 },
       { key: 'fine_unfi', label: 'UNFI (shorted value)', type: 'pct', min: 0, max: 0.1, step: 0.001 },

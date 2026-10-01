@@ -7,7 +7,7 @@ orders in a specialty food business. Uses Cinderhaven Provisions
 (~$25M fictional brand, 50 SKUs) to show what happens when a
 business can't fulfill retail partner orders as submitted. Four cost
 dimensions — forgone revenue, compliance fines, chargebacks,
-deductions — totaling $894K over 3 years ($298K/yr) at 99.3%
+deductions — totaling $888K over 3 years ($296K/yr) at 99.3%
 portfolio fill (99.2% retailer / 99.5% distributor). Every dollar
 traces to a platform event or a published fine schedule. The core
 insight is that the business can't even see this cost because their

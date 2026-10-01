@@ -3,14 +3,14 @@
 > **SUPERSEDED (2026-07-30).** This document describes the retired synthetic
 > 8-dimension cost engine ($18.7M-lineage figures). The shipped tool reads
 > platform shipment lines at 99.2%/99.5% fill and reports the 4-dimension
-> $894K/36-month stack ($523K forgone revenue + $165K fines + $119K
-> chargebacks + $87K deductions; $643K economic loss at margin basis).
+> $888K/36-month stack ($523K forgone revenue + $158K fines + $119K
+> chargebacks + $87K deductions; $637K economic loss at margin basis).
 > See README.md "Provenance" for the retirement of the $33.1M and $6.6M
 > lineages. Kept for design history only.
 
 
 These are industry-average defaults for a ~$25M make-to-order specialty
-food company. Walmart's 3% COGS fine schedule is well-documented;
+food company. Walmart's 3% fine on late or short cases is well-documented;
 Costco, Whole Foods, UNFI, KeHE, and regional fine rates are reasonable
 estimates from published ranges. DTC cancellation behavior and
 distributor return rates are modeled assumptions. Every parameter
@@ -25,7 +25,7 @@ retailer's fill-rate target.
 
 | Retailer | Rate | Basis | Compliance target |
 |---|---|---|---|
-| Walmart | 3% | of COGS, per non-compliant PO line | 98% |
+| Walmart | 3% | of wholesale price, per short case (rounded up to whole cases) | none — every month (A5.17, modeling assumption) |
 | Costco | $250 flat | per short event (missed appointment window) | n/a — event-based |
 | Whole Foods | 2% | of COGS, per non-compliant PO | 95% |
 | UNFI | 3% | of shorted goods value, per PO below fill-rate target | 95% |

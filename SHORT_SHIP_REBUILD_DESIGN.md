@@ -2,7 +2,7 @@
 
 > **OUTCOME NOTE (2026-07-30).** The rebuild shipped. Measured results came in
 > well below this document's expected ranges: forgone revenue $523K/3yr, total
-> cost $894K/3yr (~$298K/yr), fill rates 99.2% retailer / 99.5% distributor
+> cost $888K/3yr (~$296K/yr), fill rates 99.2% retailer / 99.5% distributor
 > (this doc's 92.0%/94.2% "confirmed" pair predates the platform reseed).
 > The expected-value table below is design history — do NOT propagate it to
 > CINDERHAVEN_CANONICAL.md; the shipped figures are canonical.
@@ -154,6 +154,8 @@ line COGS below 98% fill, Costco $250 flat per shorted PO, etc.)
 applied to every PO in the synthetic order data. Produced $2.1M
 (6.3% of total) — $690K/yr. The canonical OTIF figure says
 $136K/yr fines — a 5× contradiction the plausibility audit flagged.
+
+(Superseded 2026-09-30: Walmart fine is now 3% of wholesale price on short cases, rounded to whole cases, no threshold — see 431e644.)
 
 **What it becomes:** Same contractual fine logic, but applied to
 **real shortfall events from platform shipment lines** instead of
@@ -448,6 +450,7 @@ GROUP BY o.order_id, o.retailer_id
 Fine logic applied in Python (not in SQL — the schedules are
 configuration, not data):
 - Walmart: 3% of line COGS where line fill < 98%
+  (Superseded 2026-09-30: Walmart fine is now 3% of wholesale price on short cases, rounded to whole cases, no threshold — see 431e644.)
 - Costco: $250 flat per PO where PO fill < 95%
 - Whole Foods: 2% of PO COGS where PO fill < 95%
 - UNFI: 3% of shorted value where PO fill < 95%

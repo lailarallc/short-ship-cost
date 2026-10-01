@@ -14,7 +14,7 @@ queries causal fulfillment data from the Cinderhaven Data Platform
 (Postgres), computes four cost dimensions (forgone revenue, compliance
 fines, chargebacks, deductions), and presents findings through a
 polished interactive tool with an exportable Economist-style analysis.
-Total: $894K over 3 years ($298K/yr) at 99.3% portfolio fill
+Total: $888K over 3 years ($296K/yr) at 99.3% portfolio fill
 (99.2% retailer / 99.5% distributor). The interactive tool is built
 in React 19 (Vite), deployed on Cloudflare Workers at
 shortships.lailarallc.com, and designed to look like a product —

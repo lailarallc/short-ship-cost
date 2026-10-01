@@ -3,8 +3,8 @@
 > **SUPERSEDED (2026-07-30).** This document describes the retired synthetic
 > 8-dimension cost engine ($18.7M-lineage figures). The shipped tool reads
 > platform shipment lines at 99.2%/99.5% fill and reports the 4-dimension
-> $894K/36-month stack ($523K forgone revenue + $165K fines + $119K
-> chargebacks + $87K deductions; $643K economic loss at margin basis).
+> $888K/36-month stack ($523K forgone revenue + $158K fines + $119K
+> chargebacks + $87K deductions; $637K economic loss at margin basis).
 > See README.md "Provenance" for the retirement of the $33.1M and $6.6M
 > lineages. Kept for design history only.
 
@@ -259,7 +259,7 @@ a direct sum.
 
 Retailer-specific fines per the schedule in
 `docs/cost-engine-benchmarks.md`:
-- Walmart: 3% of line COGS, **per non-compliant PO line** (line fill < 98%). Parameter `otif_walmart_rate`.
+- Walmart: 3% of wholesale price on every short case (shorts rounded up to whole cases, capped at units ordered), every month with no fill threshold — a modeling assumption per registry A5.17. Parameter `otif_walmart_rate`.
 - Costco: $250 flat per PO with any short. Parameter `otif_costco_flat_fee`.
 - Whole Foods: 2% of PO COGS when PO fill < 95%. Parameter `otif_whole_foods_rate`.
 - UNFI: 3% of **shorted goods value** when PO fill < 95%. Parameter `otif_unfi_rate`. (Different basis than the others.)
@@ -404,14 +404,13 @@ baseline within $1 per dimension. This is verified in
 These are honest items the interactive tool should surface or work
 around, not bugs to fix:
 
-### OTIF stickiness at Walmart
+### Walmart fines have no threshold
 
-OTIF fines drop only ~38% at the 95% scenario, not "near zero" as one
-might expect. The reason is structural: Walmart's OTIF threshold is
-**98%**, applied per PO line. Lifting lines to 95% leaves them
-non-compliant, so per-line fines persist. To eliminate Walmart fines
-we'd need a 98%+ scenario. Worth adding one if the tool needs that
-view.
+Walmart's fine in this model has no fill threshold: 3% of the wholesale
+price on every short case, every month (registry A5.17; a modeling
+assumption, since public sources disagree on whether a monthly target
+gates the fine). Walmart fines therefore fall with every case recovered
+at any floor, instead of disappearing only above 98%.
 
 ### Deauth noise at the 85% scenario
 
