@@ -3,10 +3,10 @@
     "sku": "CHP-PS-009",
     "product_name": "Maple Syrup Grade A",
     "product_line": "Pantry Staples",
-    "total_cost": 29304.16,
+    "total_cost": 28906.45,
     "by_dimension": {
       "chargebacks": 4419.01,
-      "compliance_fines": 5802.3,
+      "compliance_fines": 5404.59,
       "deductions": 2490.34,
       "forgone_revenue": 16592.51
     },
@@ -18,7 +18,7 @@
       "Regional": 953.08,
       "Sprouts": 2488.79,
       "UNFI": 2143.24,
-      "Walmart": 5732.35,
+      "Walmart": 5334.64,
       "Whole Foods": 2764.39
     },
     "by_month": [
@@ -30,131 +30,131 @@
       {
         "month": "2023-02",
         "chargebacks": 150.0,
-        "compliance_fines": 39.92,
+        "compliance_fines": 12.92,
         "deductions": 19.75,
         "forgone_revenue": 306.64
       },
       {
         "month": "2023-03",
-        "compliance_fines": 265.89,
+        "compliance_fines": 257.43,
         "deductions": 57.75,
         "forgone_revenue": 243.56
       },
       {
         "month": "2023-04",
         "chargebacks": 150.0,
-        "compliance_fines": 272.46,
+        "compliance_fines": 264.0,
         "deductions": 59.3,
         "forgone_revenue": 369.78
       },
       {
         "month": "2023-05",
-        "compliance_fines": 264.06,
+        "compliance_fines": 263.61,
         "deductions": 68.24,
         "forgone_revenue": 191.59
       },
       {
         "month": "2023-06",
         "chargebacks": 100.0,
-        "compliance_fines": 18.65,
+        "compliance_fines": 18.2,
         "deductions": 74.57,
         "forgone_revenue": 857.1
       },
       {
         "month": "2023-07",
         "chargebacks": 50.0,
-        "compliance_fines": 510.08,
+        "compliance_fines": 504.59,
         "deductions": 61.46,
         "forgone_revenue": 114.06
       },
       {
         "month": "2023-08",
         "chargebacks": 150.0,
-        "compliance_fines": 19.14,
+        "compliance_fines": 6.09,
         "deductions": 48.14,
         "forgone_revenue": 678.85
       },
       {
         "month": "2023-09",
         "chargebacks": 50.0,
-        "compliance_fines": 270.12,
+        "compliance_fines": 257.07,
         "deductions": 60.57,
         "forgone_revenue": 227.57
       },
       {
         "month": "2023-10",
         "chargebacks": 150.0,
-        "compliance_fines": 277.68,
+        "compliance_fines": 258.69,
         "deductions": 50.21,
         "forgone_revenue": 329.2
       },
       {
         "month": "2023-11",
         "chargebacks": 190.0,
-        "compliance_fines": 44.06,
+        "compliance_fines": 20.03,
         "deductions": 69.55,
         "forgone_revenue": 574.11
       },
       {
         "month": "2023-12",
         "chargebacks": 100.0,
-        "compliance_fines": 37.27,
+        "compliance_fines": 31.78,
         "deductions": 108.76,
         "forgone_revenue": 552.23
       },
       {
         "month": "2024-01",
         "chargebacks": 200.0,
-        "compliance_fines": 296.3,
+        "compliance_fines": 272.27,
         "deductions": 149.83,
         "forgone_revenue": 414.47
       },
       {
         "month": "2024-02",
         "chargebacks": 50.0,
-        "compliance_fines": 257.56,
+        "compliance_fines": 252.07,
         "deductions": 52.3,
         "forgone_revenue": 158.06
       },
       {
         "month": "2024-03",
         "chargebacks": 50.0,
-        "compliance_fines": 29.12,
+        "compliance_fines": 18.14,
         "deductions": 41.02,
         "forgone_revenue": 243.63
       },
       {
         "month": "2024-04",
         "chargebacks": 100.0,
-        "compliance_fines": 10.72,
+        "compliance_fines": 2.71,
         "deductions": 61.32,
         "forgone_revenue": 150.95
       },
       {
         "month": "2024-05",
         "chargebacks": 50.0,
-        "compliance_fines": 35.08,
+        "compliance_fines": 18.61,
         "deductions": 26.17,
         "forgone_revenue": 365.62
       },
       {
         "month": "2024-06",
         "chargebacks": 100.0,
-        "compliance_fines": 259.27,
+        "compliance_fines": 253.78,
         "deductions": 69.64,
         "forgone_revenue": 153.22
       },
       {
         "month": "2024-07",
         "chargebacks": 100.0,
-        "compliance_fines": 52.71,
+        "compliance_fines": 41.73,
         "deductions": 30.56,
         "forgone_revenue": 505.98
       },
       {
         "month": "2024-08",
         "chargebacks": 50.0,
-        "compliance_fines": 268.24,
+        "compliance_fines": 257.26,
         "deductions": 62.56,
         "forgone_revenue": 291.81
       },
@@ -168,21 +168,21 @@
       {
         "month": "2024-10",
         "chargebacks": 100.0,
-        "compliance_fines": 285.95,
+        "compliance_fines": 269.93,
         "deductions": 44.04,
         "forgone_revenue": 347.66
       },
       {
         "month": "2024-11",
         "chargebacks": 240.0,
-        "compliance_fines": 322.46,
+        "compliance_fines": 305.99,
         "deductions": 93.67,
         "forgone_revenue": 708.0
       },
       {
         "month": "2024-12",
         "chargebacks": 340.0,
-        "compliance_fines": 331.21,
+        "compliance_fines": 297.37,
         "deductions": 150.01,
         "forgone_revenue": 764.73
       },
@@ -195,27 +195,27 @@
       {
         "month": "2025-02",
         "chargebacks": 50.0,
-        "compliance_fines": 12.58,
+        "compliance_fines": 6.64,
         "deductions": 80.4,
         "forgone_revenue": 240.15
       },
       {
         "month": "2025-03",
         "chargebacks": 150.0,
-        "compliance_fines": 272.68,
+        "compliance_fines": 256.21,
         "deductions": 51.1,
         "forgone_revenue": 273.67
       },
       {
         "month": "2025-04",
-        "compliance_fines": 27.45,
+        "compliance_fines": 8.46,
         "deductions": 73.36,
         "forgone_revenue": 124.17
       },
       {
         "month": "2025-05",
         "chargebacks": 312.33,
-        "compliance_fines": 304.28,
+        "compliance_fines": 305.54,
         "deductions": 64.04,
         "forgone_revenue": 1217.55
       },
@@ -226,48 +226,48 @@
       {
         "month": "2025-07",
         "chargebacks": 176.67,
-        "compliance_fines": 43.88,
+        "compliance_fines": 35.42,
         "deductions": 40.76,
         "forgone_revenue": 1378.68
       },
       {
         "month": "2025-08",
         "chargebacks": 240.0,
-        "compliance_fines": 21.65,
+        "compliance_fines": 15.71,
         "deductions": 46.2,
         "forgone_revenue": 1003.21
       },
       {
         "month": "2025-09",
         "chargebacks": 200.0,
-        "compliance_fines": 9.65,
+        "compliance_fines": 4.16,
         "deductions": 86.69,
         "forgone_revenue": 294.46
       },
       {
         "month": "2025-10",
         "chargebacks": 100.0,
-        "compliance_fines": 257.18,
+        "compliance_fines": 256.73,
         "deductions": 85.76,
         "forgone_revenue": 211.8
       },
       {
         "month": "2025-11",
         "chargebacks": 330.01,
-        "compliance_fines": 301.35,
+        "compliance_fines": 298.38,
         "deductions": 58.77,
         "forgone_revenue": 967.36
       },
       {
         "month": "2025-12",
         "chargebacks": 300.0,
-        "compliance_fines": 96.43,
+        "compliance_fines": 46.3,
         "deductions": 170.75,
         "forgone_revenue": 1399.36
       },
       {
         "month": "2026-01",
-        "compliance_fines": 2.52,
+        "compliance_fines": 2.07,
         "forgone_revenue": 88.09
       }
     ]
@@ -276,10 +276,10 @@
     "sku": "CHP-PS-004",
     "product_name": "Extra Virgin Olive Oil",
     "product_line": "Pantry Staples",
-    "total_cost": 29023.42,
+    "total_cost": 28471.54,
     "by_dimension": {
       "chargebacks": 4305.17,
-      "compliance_fines": 7319.79,
+      "compliance_fines": 6767.91,
       "deductions": 2618.94,
       "forgone_revenue": 14779.52
     },
@@ -291,7 +291,7 @@
       "Regional": 1289.75,
       "Sprouts": 1965.04,
       "UNFI": 1009.95,
-      "Walmart": 8688.01,
+      "Walmart": 8136.13,
       "Whole Foods": 2838.41
     },
     "by_month": [
@@ -304,41 +304,41 @@
       {
         "month": "2023-02",
         "chargebacks": 100.0,
-        "compliance_fines": 272.68,
+        "compliance_fines": 253.51,
         "deductions": 32.3,
         "forgone_revenue": 213.89
       },
       {
         "month": "2023-03",
         "chargebacks": 50.0,
-        "compliance_fines": 19.44,
+        "compliance_fines": 3.51,
         "deductions": 35.5,
         "forgone_revenue": 197.75
       },
       {
         "month": "2023-04",
-        "compliance_fines": 6.48,
+        "compliance_fines": 1.17,
         "deductions": 56.89,
         "forgone_revenue": 82.34
       },
       {
         "month": "2023-05",
         "chargebacks": 50.0,
-        "compliance_fines": 509.72,
+        "compliance_fines": 502.34,
         "deductions": 31.14,
         "forgone_revenue": 217.03
       },
       {
         "month": "2023-06",
         "chargebacks": 100.0,
-        "compliance_fines": 538.16,
+        "compliance_fines": 513.68,
         "deductions": 50.16,
         "forgone_revenue": 553.98
       },
       {
         "month": "2023-07",
         "chargebacks": 50.0,
-        "compliance_fines": 272.82,
+        "compliance_fines": 265.44,
         "deductions": 55.38,
         "forgone_revenue": 290.61
       },
@@ -352,21 +352,21 @@
       {
         "month": "2023-09",
         "chargebacks": 200.0,
-        "compliance_fines": 548.56,
+        "compliance_fines": 512.29,
         "deductions": 48.1,
         "forgone_revenue": 395.4
       },
       {
         "month": "2023-10",
         "chargebacks": 90.0,
-        "compliance_fines": 34.15,
+        "compliance_fines": 12.91,
         "deductions": 116.04,
         "forgone_revenue": 261.72
       },
       {
         "month": "2023-11",
         "chargebacks": 634.89,
-        "compliance_fines": 363.55,
+        "compliance_fines": 308.47,
         "deductions": 68.29,
         "forgone_revenue": 1904.26
       },
@@ -380,14 +380,14 @@
       {
         "month": "2024-01",
         "chargebacks": 50.0,
-        "compliance_fines": 31.11,
+        "compliance_fines": 17.25,
         "deductions": 121.24,
         "forgone_revenue": 328.94
       },
       {
         "month": "2024-02",
         "chargebacks": 200.0,
-        "compliance_fines": 13.58,
+        "compliance_fines": 5.03,
         "deductions": 78.69,
         "forgone_revenue": 433.05
       },
@@ -407,62 +407,62 @@
       },
       {
         "month": "2024-05",
-        "compliance_fines": 14.28,
+        "compliance_fines": 5.73,
         "deductions": 84.52,
         "forgone_revenue": 245.1
       },
       {
         "month": "2024-06",
         "chargebacks": 50.0,
-        "compliance_fines": 13.23,
+        "compliance_fines": 5.85,
         "deductions": 38.02,
         "forgone_revenue": 263.93
       },
       {
         "month": "2024-07",
         "chargebacks": 100.0,
-        "compliance_fines": 281.68,
+        "compliance_fines": 260.44,
         "deductions": 41.39,
         "forgone_revenue": 196.97
       },
       {
         "month": "2024-08",
         "chargebacks": 150.0,
-        "compliance_fines": 29.79,
+        "compliance_fines": 11.79,
         "deductions": 58.37,
         "forgone_revenue": 263.93
       },
       {
         "month": "2024-09",
-        "compliance_fines": 283.05,
+        "compliance_fines": 265.95,
         "deductions": 49.45,
         "forgone_revenue": 311.76
       },
       {
         "month": "2024-10",
         "chargebacks": 150.0,
-        "compliance_fines": 293.2,
+        "compliance_fines": 280.51,
         "deductions": 74.56,
         "forgone_revenue": 724.85
       },
       {
         "month": "2024-11",
         "chargebacks": 300.0,
-        "compliance_fines": 59.84,
+        "compliance_fines": 33.29,
         "deductions": 126.24,
         "forgone_revenue": 748.18
       },
       {
         "month": "2024-12",
         "chargebacks": 350.28,
-        "compliance_fines": 557.02,
+        "compliance_fines": 538.57,
         "deductions": 131.48,
         "forgone_revenue": 1256.83
       },
       {
         "month": "2025-01",
         "chargebacks": 50.0,
-        "compliance_fines": 12.96,
+        "compliance_fines": 2.34,
         "deductions": 163.48,
         "forgone_revenue": 142.62
       },
@@ -476,76 +476,76 @@
       {
         "month": "2025-03",
         "chargebacks": 100.0,
-        "compliance_fines": 278.34,
+        "compliance_fines": 270.96,
         "deductions": 25.31,
         "forgone_revenue": 303.7
       },
       {
         "month": "2025-04",
         "chargebacks": 100.0,
-        "compliance_fines": 31.52,
+        "compliance_fines": 9.11,
         "deductions": 63.88,
         "forgone_revenue": 306.74
       },
       {
         "month": "2025-05",
         "chargebacks": 100.0,
-        "compliance_fines": 23.94,
+        "compliance_fines": 14.76,
         "deductions": 84.25,
         "forgone_revenue": 443.81
       },
       {
         "month": "2025-06",
         "chargebacks": 150.0,
-        "compliance_fines": 34.31,
+        "compliance_fines": 23.69,
         "deductions": 54.35,
         "forgone_revenue": 257.17
       },
       {
         "month": "2025-07",
         "chargebacks": 100.0,
-        "compliance_fines": 27.81,
+        "compliance_fines": 9.81,
         "deductions": 34.56,
         "forgone_revenue": 191.75
       },
       {
         "month": "2025-08",
         "chargebacks": 80.0,
-        "compliance_fines": 32.4,
+        "compliance_fines": 4.68,
         "deductions": 74.67,
         "forgone_revenue": 436.79
       },
       {
         "month": "2025-09",
         "chargebacks": 50.0,
-        "compliance_fines": 262.94,
+        "compliance_fines": 254.39,
         "deductions": 79.06,
         "forgone_revenue": 173.28
       },
       {
         "month": "2025-10",
         "chargebacks": 100.0,
-        "compliance_fines": 294.08,
+        "compliance_fines": 265.46,
         "deductions": 51.78,
         "forgone_revenue": 453.43
       },
       {
         "month": "2025-11",
         "chargebacks": 150.0,
-        "compliance_fines": 40.26,
+        "compliance_fines": 14.88,
         "deductions": 79.08,
         "forgone_revenue": 338.3
       },
       {
         "month": "2025-12",
         "chargebacks": 200.0,
-        "compliance_fines": 328.42,
+        "compliance_fines": 298.18,
         "deductions": 133.7,
         "forgone_revenue": 1187.66
       },
       {
         "month": "2026-01",
-        "compliance_fines": 9.72,
+        "compliance_fines": 1.17,
         "deductions": 1.83,
         "forgone_revenue": 59.5
       }
@@ -555,10 +555,10 @@
     "sku": "CHP-AS-009",
     "product_name": "Truffle Mushroom Sauce",
     "product_line": "Artisan Sauces",
-    "total_cost": 25637.38,
+    "total_cost": 25314.53,
     "by_dimension": {
       "chargebacks": 4126.18,
-      "compliance_fines": 5625.94,
+      "compliance_fines": 5303.1,
       "deductions": 2415.79,
       "forgone_revenue": 13469.46
     },
@@ -570,7 +570,7 @@
       "Regional": 1111.28,
       "Sprouts": 2979.27,
       "UNFI": 977.88,
-      "Walmart": 5469.14,
+      "Walmart": 5146.3,
       "Whole Foods": 2494.77
     },
     "by_month": [
@@ -582,14 +582,14 @@
       {
         "month": "2023-02",
         "chargebacks": 50.0,
-        "compliance_fines": 280.35,
+        "compliance_fines": 270.85,
         "deductions": 22.15,
         "forgone_revenue": 217.44
       },
       {
         "month": "2023-03",
         "chargebacks": 100.0,
-        "compliance_fines": 15.08,
+        "compliance_fines": 10.33,
         "deductions": 49.83,
         "forgone_revenue": 157.06
       },
@@ -601,91 +601,91 @@
       },
       {
         "month": "2023-05",
-        "compliance_fines": 9.84,
+        "compliance_fines": 5.08,
         "deductions": 46.74,
         "forgone_revenue": 85.11
       },
       {
         "month": "2023-06",
         "chargebacks": 150.0,
-        "compliance_fines": 33.18,
+        "compliance_fines": 21.22,
         "deductions": 41.58,
         "forgone_revenue": 677.75
       },
       {
         "month": "2023-07",
         "chargebacks": 50.0,
-        "compliance_fines": 23.04,
+        "compliance_fines": 6.48,
         "deductions": 94.55,
         "forgone_revenue": 184.8
       },
       {
         "month": "2023-08",
         "chargebacks": 50.0,
-        "compliance_fines": 297.92,
+        "compliance_fines": 281.36,
         "deductions": 58.54,
         "forgone_revenue": 301.29
       },
       {
         "month": "2023-09",
         "chargebacks": 150.0,
-        "compliance_fines": 32.62,
+        "compliance_fines": 15.91,
         "deductions": 61.41,
         "forgone_revenue": 268.34
       },
       {
         "month": "2023-10",
         "chargebacks": 250.0,
-        "compliance_fines": 289.42,
+        "compliance_fines": 272.72,
         "deductions": 41.33,
         "forgone_revenue": 431.4
       },
       {
         "month": "2023-11",
         "chargebacks": 100.0,
-        "compliance_fines": 278.44,
+        "compliance_fines": 268.94,
         "deductions": 103.84,
         "forgone_revenue": 541.14
       },
       {
         "month": "2023-12",
         "chargebacks": 351.07,
-        "compliance_fines": 52.49,
+        "compliance_fines": 45.29,
         "deductions": 80.28,
         "forgone_revenue": 1143.8
       },
       {
         "month": "2024-01",
         "chargebacks": 90.0,
-        "compliance_fines": 288.11,
+        "compliance_fines": 276.3,
         "deductions": 211.74,
         "forgone_revenue": 361.4
       },
       {
         "month": "2024-02",
         "chargebacks": 50.0,
-        "compliance_fines": 264.74,
+        "compliance_fines": 259.85,
         "deductions": 72.27,
         "forgone_revenue": 164.63
       },
       {
         "month": "2024-03",
         "chargebacks": 50.0,
-        "compliance_fines": 24.29,
+        "compliance_fines": 14.5,
         "deductions": 66.24,
         "forgone_revenue": 200.66
       },
       {
         "month": "2024-04",
         "chargebacks": 200.0,
-        "compliance_fines": 509.22,
+        "compliance_fines": 504.32,
         "deductions": 49.69,
         "forgone_revenue": 250.19
       },
       {
         "month": "2024-05",
         "chargebacks": 50.0,
-        "compliance_fines": 20.6,
+        "compliance_fines": 13.4,
         "deductions": 71.14,
         "forgone_revenue": 175.02
       },
@@ -697,14 +697,14 @@
       {
         "month": "2024-07",
         "chargebacks": 50.0,
-        "compliance_fines": 274.41,
+        "compliance_fines": 260.3,
         "deductions": 22.12,
         "forgone_revenue": 123.12
       },
       {
         "month": "2024-08",
         "chargebacks": 50.0,
-        "compliance_fines": 516.66,
+        "compliance_fines": 504.99,
         "deductions": 32.49,
         "forgone_revenue": 288.61
       },
@@ -718,21 +718,21 @@
       {
         "month": "2024-10",
         "chargebacks": 200.0,
-        "compliance_fines": 22.76,
+        "compliance_fines": 15.42,
         "deductions": 114.75,
         "forgone_revenue": 322.07
       },
       {
         "month": "2024-11",
         "chargebacks": 300.0,
-        "compliance_fines": 52.62,
+        "compliance_fines": 31.17,
         "deductions": 61.39,
         "forgone_revenue": 701.57
       },
       {
         "month": "2024-12",
         "chargebacks": 168.81,
-        "compliance_fines": 294.55,
+        "compliance_fines": 291.1,
         "deductions": 155.03,
         "forgone_revenue": 1021.08
       },
@@ -753,70 +753,70 @@
       {
         "month": "2025-03",
         "chargebacks": 50.0,
-        "compliance_fines": 13.69,
+        "compliance_fines": 8.93,
         "deductions": 14.17,
         "forgone_revenue": 229.75
       },
       {
         "month": "2025-04",
         "chargebacks": 40.0,
-        "compliance_fines": 12.82,
+        "compliance_fines": 5.62,
         "deductions": 40.06,
         "forgone_revenue": 143.92
       },
       {
         "month": "2025-05",
         "chargebacks": 200.0,
-        "compliance_fines": 269.08,
+        "compliance_fines": 257.13,
         "deductions": 41.97,
         "forgone_revenue": 351.78
       },
       {
         "month": "2025-06",
         "chargebacks": 190.0,
-        "compliance_fines": 303.86,
+        "compliance_fines": 287.45,
         "deductions": 130.74,
         "forgone_revenue": 605.31
       },
       {
         "month": "2025-07",
         "chargebacks": 50.0,
-        "compliance_fines": 262.75,
+        "compliance_fines": 258.0,
         "deductions": 77.51,
         "forgone_revenue": 227.78
       },
       {
         "month": "2025-08",
         "chargebacks": 150.0,
-        "compliance_fines": 21.55,
+        "compliance_fines": 16.79,
         "deductions": 52.76,
         "forgone_revenue": 335.92
       },
       {
         "month": "2025-09",
         "chargebacks": 100.0,
-        "compliance_fines": 10.52,
+        "compliance_fines": 7.93,
         "deductions": 77.26,
         "forgone_revenue": 216.05
       },
       {
         "month": "2025-10",
         "chargebacks": 190.0,
-        "compliance_fines": 18.68,
+        "compliance_fines": 11.34,
         "deductions": 45.2,
         "forgone_revenue": 421.36
       },
       {
         "month": "2025-11",
         "chargebacks": 190.0,
-        "compliance_fines": 56.51,
+        "compliance_fines": 39.81,
         "deductions": 74.12,
         "forgone_revenue": 912.09
       },
       {
         "month": "2025-12",
         "chargebacks": 100.0,
-        "compliance_fines": 64.94,
+        "compliance_fines": 29.37,
         "deductions": 149.47,
         "forgone_revenue": 708.71
       },
@@ -830,10 +830,10 @@
     "sku": "CHP-SC-001",
     "product_name": "Bourbon Bacon Jam",
     "product_line": "Specialty Condiments",
-    "total_cost": 23998.27,
+    "total_cost": 23802.43,
     "by_dimension": {
       "chargebacks": 3539.08,
-      "compliance_fines": 4309.35,
+      "compliance_fines": 4113.51,
       "deductions": 2121.84,
       "forgone_revenue": 14027.99
     },
@@ -845,7 +845,7 @@
       "Regional": 1158.23,
       "Sprouts": 2174.87,
       "UNFI": 1732.44,
-      "Walmart": 3867.68,
+      "Walmart": 3671.84,
       "Whole Foods": 2274.71
     },
     "by_month": [
@@ -863,21 +863,21 @@
       {
         "month": "2023-03",
         "chargebacks": 200.0,
-        "compliance_fines": 11.23,
+        "compliance_fines": 3.6,
         "deductions": 33.03,
         "forgone_revenue": 215.42
       },
       {
         "month": "2023-04",
         "chargebacks": 200.0,
-        "compliance_fines": 266.57,
+        "compliance_fines": 258.87,
         "deductions": 61.15,
         "forgone_revenue": 426.52
       },
       {
         "month": "2023-05",
         "chargebacks": 100.0,
-        "compliance_fines": 4.14,
+        "compliance_fines": 4.07,
         "deductions": 108.3,
         "forgone_revenue": 202.75
       },
@@ -890,91 +890,91 @@
       },
       {
         "month": "2023-07",
-        "compliance_fines": 12.19,
+        "compliance_fines": 6.5,
         "deductions": 48.51,
         "forgone_revenue": 96.89
       },
       {
         "month": "2023-08",
         "chargebacks": 50.0,
-        "compliance_fines": 5.62,
+        "compliance_fines": 1.8,
         "deductions": 36.41,
         "forgone_revenue": 151.63
       },
       {
         "month": "2023-09",
         "chargebacks": 140.0,
-        "compliance_fines": 28.49,
+        "compliance_fines": 16.97,
         "deductions": 43.62,
         "forgone_revenue": 450.42
       },
       {
         "month": "2023-10",
         "chargebacks": 100.0,
-        "compliance_fines": 21.17,
+        "compliance_fines": 9.65,
         "deductions": 55.02,
         "forgone_revenue": 278.22
       },
       {
         "month": "2023-11",
         "chargebacks": 100.0,
-        "compliance_fines": 263.22,
+        "compliance_fines": 259.41,
         "deductions": 77.19,
         "forgone_revenue": 362.65
       },
       {
         "month": "2023-12",
         "chargebacks": 231.46,
-        "compliance_fines": 31.73,
+        "compliance_fines": 20.35,
         "deductions": 111.9,
         "forgone_revenue": 806.07
       },
       {
         "month": "2024-01",
         "chargebacks": 50.0,
-        "compliance_fines": 23.66,
+        "compliance_fines": 17.98,
         "deductions": 54.43,
         "forgone_revenue": 240.51
       },
       {
         "month": "2024-02",
         "chargebacks": 150.0,
-        "compliance_fines": 261.57,
+        "compliance_fines": 257.68,
         "deductions": 41.16,
         "forgone_revenue": 273.06
       },
       {
         "month": "2024-03",
         "chargebacks": 150.0,
-        "compliance_fines": 273.81,
+        "compliance_fines": 268.12,
         "deductions": 91.75,
         "forgone_revenue": 430.84
       },
       {
         "month": "2024-04",
         "chargebacks": 100.0,
-        "compliance_fines": 18.22,
+        "compliance_fines": 12.53,
         "deductions": 38.92,
         "forgone_revenue": 360.48
       },
       {
         "month": "2024-05",
         "chargebacks": 150.0,
-        "compliance_fines": 10.21,
+        "compliance_fines": 6.39,
         "deductions": 72.7,
         "forgone_revenue": 331.09
       },
       {
         "month": "2024-06",
         "chargebacks": 50.0,
-        "compliance_fines": 26.54,
+        "compliance_fines": 16.96,
         "deductions": 54.97,
         "forgone_revenue": 189.01
       },
       {
         "month": "2024-07",
         "chargebacks": 50.0,
-        "compliance_fines": 20.59,
+        "compliance_fines": 7.2,
         "deductions": 43.67,
         "forgone_revenue": 181.0
       },
@@ -988,28 +988,28 @@
       {
         "month": "2024-09",
         "chargebacks": 58.45,
-        "compliance_fines": 257.44,
+        "compliance_fines": 255.42,
         "deductions": 69.33,
         "forgone_revenue": 433.25
       },
       {
         "month": "2024-10",
         "chargebacks": 150.0,
-        "compliance_fines": 255.62,
+        "compliance_fines": 251.8,
         "deductions": 38.73,
         "forgone_revenue": 149.33
       },
       {
         "month": "2024-11",
         "chargebacks": 50.0,
-        "compliance_fines": 767.01,
+        "compliance_fines": 761.33,
         "deductions": 57.6,
         "forgone_revenue": 970.28
       },
       {
         "month": "2024-12",
         "chargebacks": 327.78,
-        "compliance_fines": 314.53,
+        "compliance_fines": 285.81,
         "deductions": 171.79,
         "forgone_revenue": 1788.16
       },
@@ -1029,14 +1029,14 @@
       {
         "month": "2025-03",
         "chargebacks": 50.0,
-        "compliance_fines": 11.23,
+        "compliance_fines": 3.6,
         "deductions": 59.54,
         "forgone_revenue": 75.0
       },
       {
         "month": "2025-04",
         "chargebacks": 50.0,
-        "compliance_fines": 12.0,
+        "compliance_fines": 8.11,
         "deductions": 14.64,
         "forgone_revenue": 153.9
       },
@@ -1055,318 +1055,49 @@
       {
         "month": "2025-07",
         "chargebacks": 111.39,
-        "compliance_fines": 540.98,
+        "compliance_fines": 536.52,
         "deductions": 33.8,
         "forgone_revenue": 1262.26
       },
       {
         "month": "2025-08",
         "chargebacks": 100.0,
-        "compliance_fines": 5.62,
+        "compliance_fines": 1.8,
         "deductions": 53.79,
         "forgone_revenue": 141.84
       },
       {
         "month": "2025-09",
-        "compliance_fines": 7.24,
+        "compliance_fines": 5.3,
         "deductions": 66.07,
         "forgone_revenue": 64.33
       },
       {
         "month": "2025-10",
         "chargebacks": 150.0,
-        "compliance_fines": 33.66,
+        "compliance_fines": 16.59,
         "deductions": 26.54,
         "forgone_revenue": 388.43
       },
       {
         "month": "2025-11",
         "chargebacks": 190.0,
-        "compliance_fines": 19.32,
+        "compliance_fines": 15.43,
         "deductions": 33.71,
         "forgone_revenue": 424.06
       },
       {
         "month": "2025-12",
         "chargebacks": 240.0,
-        "compliance_fines": 258.01,
+        "compliance_fines": 256.07,
         "deductions": 104.0,
         "forgone_revenue": 563.08
       },
       {
         "month": "2026-01",
-        "compliance_fines": 9.95,
+        "compliance_fines": 9.88,
         "deductions": 3.8,
         "forgone_revenue": 908.63
-      }
-    ]
-  },
-  {
-    "sku": "CHP-DG-005",
-    "product_name": "Sun-Dried Tomatoes",
-    "product_line": "Dried Goods",
-    "total_cost": 23935.23,
-    "by_dimension": {
-      "chargebacks": 3364.08,
-      "compliance_fines": 3964.91,
-      "deductions": 2225.83,
-      "forgone_revenue": 14380.41
-    },
-    "by_retailer": {
-      "Costco": 4977.19,
-      "DPI Northwest": 502.24,
-      "KeHE": 1217.1,
-      "Kroger": 2491.94,
-      "Regional": 1658.2,
-      "Sprouts": 2134.17,
-      "UNFI": 3589.84,
-      "Walmart": 4644.24,
-      "Whole Foods": 2720.32
-    },
-    "by_month": [
-      {
-        "month": "2023-02",
-        "compliance_fines": 258.85,
-        "forgone_revenue": 306.9
-      },
-      {
-        "month": "2023-03",
-        "chargebacks": 100.0,
-        "compliance_fines": 22.46,
-        "deductions": 32.35,
-        "forgone_revenue": 177.62
-      },
-      {
-        "month": "2023-04",
-        "chargebacks": 100.0,
-        "compliance_fines": 7.89,
-        "deductions": 58.04,
-        "forgone_revenue": 228.64
-      },
-      {
-        "month": "2023-05",
-        "chargebacks": 180.0,
-        "compliance_fines": 270.18,
-        "deductions": 42.27,
-        "forgone_revenue": 401.66
-      },
-      {
-        "month": "2023-06",
-        "chargebacks": 50.0,
-        "compliance_fines": 273.34,
-        "deductions": 76.8,
-        "forgone_revenue": 728.32
-      },
-      {
-        "month": "2023-07",
-        "compliance_fines": 21.08,
-        "deductions": 85.89,
-        "forgone_revenue": 169.65
-      },
-      {
-        "month": "2023-08",
-        "deductions": 26.98,
-        "forgone_revenue": 54.18
-      },
-      {
-        "month": "2023-09",
-        "chargebacks": 100.0,
-        "compliance_fines": 14.14,
-        "deductions": 13.44,
-        "forgone_revenue": 263.36
-      },
-      {
-        "month": "2023-10",
-        "chargebacks": 50.0,
-        "compliance_fines": 19.86,
-        "deductions": 51.11,
-        "forgone_revenue": 219.99
-      },
-      {
-        "month": "2023-11",
-        "chargebacks": 100.0,
-        "compliance_fines": 24.39,
-        "deductions": 93.19,
-        "forgone_revenue": 457.23
-      },
-      {
-        "month": "2023-12",
-        "chargebacks": 150.0,
-        "compliance_fines": 25.55,
-        "deductions": 80.95,
-        "forgone_revenue": 644.2
-      },
-      {
-        "month": "2024-01",
-        "chargebacks": 50.0,
-        "compliance_fines": 12.62,
-        "deductions": 91.43,
-        "forgone_revenue": 239.39
-      },
-      {
-        "month": "2024-02",
-        "chargebacks": 50.0,
-        "compliance_fines": 16.24,
-        "deductions": 61.98,
-        "forgone_revenue": 170.55
-      },
-      {
-        "month": "2024-03",
-        "chargebacks": 100.0,
-        "compliance_fines": 28.32,
-        "deductions": 40.06,
-        "forgone_revenue": 413.15
-      },
-      {
-        "month": "2024-04",
-        "chargebacks": 100.0,
-        "compliance_fines": 18.4,
-        "deductions": 51.62,
-        "forgone_revenue": 359.63
-      },
-      {
-        "month": "2024-05",
-        "chargebacks": 200.0,
-        "compliance_fines": 523.0,
-        "deductions": 62.2,
-        "forgone_revenue": 303.46
-      },
-      {
-        "month": "2024-06",
-        "chargebacks": 140.0,
-        "compliance_fines": 47.89,
-        "deductions": 66.7,
-        "forgone_revenue": 391.35
-      },
-      {
-        "month": "2024-07",
-        "chargebacks": 150.0,
-        "compliance_fines": 26.64,
-        "deductions": 94.66,
-        "forgone_revenue": 133.89
-      },
-      {
-        "month": "2024-08",
-        "chargebacks": 100.0,
-        "compliance_fines": 23.68,
-        "deductions": 49.4,
-        "forgone_revenue": 489.26
-      },
-      {
-        "month": "2024-09",
-        "chargebacks": 200.0,
-        "compliance_fines": 274.78,
-        "deductions": 62.08,
-        "forgone_revenue": 391.39
-      },
-      {
-        "month": "2024-10",
-        "chargebacks": 50.0,
-        "compliance_fines": 16.04,
-        "deductions": 76.55,
-        "forgone_revenue": 112.11
-      },
-      {
-        "month": "2024-11",
-        "compliance_fines": 49.05,
-        "deductions": 41.29,
-        "forgone_revenue": 886.27
-      },
-      {
-        "month": "2024-12",
-        "chargebacks": 50.0,
-        "compliance_fines": 278.52,
-        "deductions": 150.44,
-        "forgone_revenue": 705.89
-      },
-      {
-        "month": "2025-01",
-        "chargebacks": 100.0,
-        "compliance_fines": 253.65,
-        "deductions": 126.02,
-        "forgone_revenue": 159.33
-      },
-      {
-        "month": "2025-02",
-        "chargebacks": 100.0,
-        "compliance_fines": 270.12,
-        "deductions": 41.67,
-        "forgone_revenue": 262.55
-      },
-      {
-        "month": "2025-03",
-        "compliance_fines": 15.3,
-        "deductions": 42.56,
-        "forgone_revenue": 214.19
-      },
-      {
-        "month": "2025-04",
-        "chargebacks": 121.84,
-        "compliance_fines": 275.06,
-        "deductions": 53.48,
-        "forgone_revenue": 869.32
-      },
-      {
-        "month": "2025-05",
-        "chargebacks": 282.24,
-        "compliance_fines": 56.04,
-        "deductions": 60.1,
-        "forgone_revenue": 2566.43
-      },
-      {
-        "month": "2025-06",
-        "compliance_fines": 2.18,
-        "deductions": 81.49,
-        "forgone_revenue": 269.7
-      },
-      {
-        "month": "2025-07",
-        "chargebacks": 50.0,
-        "compliance_fines": 15.49,
-        "deductions": 10.8,
-        "forgone_revenue": 284.56
-      },
-      {
-        "month": "2025-08",
-        "chargebacks": 50.0,
-        "compliance_fines": 259.62,
-        "deductions": 91.54,
-        "forgone_revenue": 141.19
-      },
-      {
-        "month": "2025-09",
-        "chargebacks": 150.0,
-        "compliance_fines": 267.0,
-        "deductions": 50.64,
-        "forgone_revenue": 229.89
-      },
-      {
-        "month": "2025-10",
-        "chargebacks": 100.0,
-        "compliance_fines": 6.66,
-        "deductions": 69.26,
-        "forgone_revenue": 211.08
-      },
-      {
-        "month": "2025-11",
-        "chargebacks": 190.0,
-        "compliance_fines": 13.43,
-        "deductions": 53.11,
-        "forgone_revenue": 363.2
-      },
-      {
-        "month": "2025-12",
-        "chargebacks": 150.0,
-        "compliance_fines": 275.76,
-        "deductions": 133.96,
-        "forgone_revenue": 428.4
-      },
-      {
-        "month": "2026-01",
-        "chargebacks": 50.0,
-        "compliance_fines": 1.69,
-        "deductions": 1.79,
-        "forgone_revenue": 132.48
       }
     ]
   },
@@ -1374,10 +1105,10 @@
     "sku": "CHP-AS-010",
     "product_name": "Carolina Gold BBQ",
     "product_line": "Artisan Sauces",
-    "total_cost": 23918.31,
+    "total_cost": 23761.32,
     "by_dimension": {
       "chargebacks": 2854.99,
-      "compliance_fines": 3862.98,
+      "compliance_fines": 3705.99,
       "deductions": 2099.33,
       "forgone_revenue": 15101.01
     },
@@ -1389,7 +1120,7 @@
       "Regional": 775.7,
       "Sprouts": 1616.71,
       "UNFI": 2719.87,
-      "Walmart": 3198.33,
+      "Walmart": 3041.34,
       "Whole Foods": 3138.09
     },
     "by_month": [
@@ -1401,34 +1132,34 @@
       },
       {
         "month": "2023-02",
-        "compliance_fines": 252.95,
+        "compliance_fines": 251.53,
         "deductions": 29.5,
         "forgone_revenue": 107.99
       },
       {
         "month": "2023-03",
         "chargebacks": 50.0,
-        "compliance_fines": 11.6,
+        "compliance_fines": 7.22,
         "deductions": 41.87,
         "forgone_revenue": 205.18
       },
       {
         "month": "2023-04",
         "chargebacks": 50.0,
-        "compliance_fines": 4.43,
+        "compliance_fines": 3.06,
         "deductions": 28.53,
         "forgone_revenue": 144.73
       },
       {
         "month": "2023-05",
-        "compliance_fines": 5.74,
+        "compliance_fines": 5.8,
         "deductions": 35.4,
         "forgone_revenue": 119.96
       },
       {
         "month": "2023-06",
         "chargebacks": 150.0,
-        "compliance_fines": 272.98,
+        "compliance_fines": 270.14,
         "deductions": 39.82,
         "forgone_revenue": 204.63
       },
@@ -1442,7 +1173,7 @@
       {
         "month": "2023-08",
         "chargebacks": 50.0,
-        "compliance_fines": 6.7,
+        "compliance_fines": 5.28,
         "deductions": 72.49,
         "forgone_revenue": 106.63
       },
@@ -1455,21 +1186,21 @@
       {
         "month": "2023-10",
         "chargebacks": 140.0,
-        "compliance_fines": 30.55,
+        "compliance_fines": 27.71,
         "deductions": 28.3,
         "forgone_revenue": 375.58
       },
       {
         "month": "2023-11",
         "chargebacks": 232.56,
-        "compliance_fines": 283.88,
+        "compliance_fines": 278.19,
         "deductions": 57.96,
         "forgone_revenue": 1395.89
       },
       {
         "month": "2023-12",
         "chargebacks": 290.0,
-        "compliance_fines": 35.28,
+        "compliance_fines": 26.59,
         "deductions": 109.1,
         "forgone_revenue": 782.96
       },
@@ -1493,13 +1224,13 @@
       },
       {
         "month": "2024-04",
-        "compliance_fines": 13.07,
+        "compliance_fines": 5.79,
         "deductions": 17.63,
         "forgone_revenue": 80.01
       },
       {
         "month": "2024-05",
-        "compliance_fines": 14.67,
+        "compliance_fines": 7.45,
         "deductions": 25.97,
         "forgone_revenue": 213.31
       },
@@ -1513,134 +1244,403 @@
       {
         "month": "2024-07",
         "chargebacks": 50.0,
-        "compliance_fines": 11.32,
+        "compliance_fines": 4.05,
         "deductions": 22.84,
         "forgone_revenue": 78.14
       },
       {
         "month": "2024-08",
         "chargebacks": 50.0,
-        "compliance_fines": 11.27,
+        "compliance_fines": 9.85,
         "deductions": 59.16,
         "forgone_revenue": 174.94
       },
       {
         "month": "2024-09",
         "chargebacks": 50.0,
-        "compliance_fines": 19.53,
+        "compliance_fines": 12.31,
         "deductions": 37.85,
         "forgone_revenue": 185.1
       },
       {
         "month": "2024-10",
         "chargebacks": 100.0,
-        "compliance_fines": 11.79,
+        "compliance_fines": 6.0,
         "deductions": 67.07,
         "forgone_revenue": 169.79
       },
       {
         "month": "2024-11",
         "chargebacks": 350.0,
-        "compliance_fines": 294.06,
+        "compliance_fines": 275.14,
         "deductions": 54.46,
         "forgone_revenue": 821.37
       },
       {
         "month": "2024-12",
         "chargebacks": 100.0,
-        "compliance_fines": 29.58,
+        "compliance_fines": 25.37,
         "deductions": 139.46,
         "forgone_revenue": 580.25
       },
       {
         "month": "2025-01",
         "chargebacks": 50.0,
-        "compliance_fines": 263.24,
+        "compliance_fines": 254.49,
         "deductions": 180.64,
         "forgone_revenue": 196.91
       },
       {
         "month": "2025-02",
         "chargebacks": 40.0,
-        "compliance_fines": 7.43,
+        "compliance_fines": 9.01,
         "deductions": 56.34,
         "forgone_revenue": 289.56
       },
       {
         "month": "2025-03",
         "chargebacks": 100.0,
-        "compliance_fines": 21.85,
+        "compliance_fines": 10.2,
         "deductions": 56.34,
         "forgone_revenue": 358.9
       },
       {
         "month": "2025-04",
         "chargebacks": 50.0,
-        "compliance_fines": 9.26,
+        "compliance_fines": 4.94,
         "deductions": 95.3,
         "forgone_revenue": 136.73
       },
       {
         "month": "2025-05",
         "chargebacks": 50.0,
-        "compliance_fines": 13.67,
+        "compliance_fines": 6.34,
         "deductions": 54.95,
         "forgone_revenue": 291.95
       },
       {
         "month": "2025-06",
         "chargebacks": 100.0,
-        "compliance_fines": 15.78,
+        "compliance_fines": 8.45,
         "deductions": 52.46,
         "forgone_revenue": 130.04
       },
       {
         "month": "2025-07",
         "chargebacks": 114.64,
-        "compliance_fines": 310.78,
+        "compliance_fines": 306.52,
         "deductions": 44.8,
         "forgone_revenue": 1621.75
       },
       {
         "month": "2025-08",
         "chargebacks": 50.0,
-        "compliance_fines": 514.65,
+        "compliance_fines": 511.81,
         "deductions": 78.71,
         "forgone_revenue": 722.48
       },
       {
         "month": "2025-09",
-        "compliance_fines": 9.28,
+        "compliance_fines": 4.96,
         "deductions": 58.54,
         "forgone_revenue": 107.68
       },
       {
         "month": "2025-10",
         "chargebacks": 50.0,
-        "compliance_fines": 17.57,
+        "compliance_fines": 10.35,
         "deductions": 52.14,
         "forgone_revenue": 415.44
       },
       {
         "month": "2025-11",
         "chargebacks": 87.79,
-        "compliance_fines": 33.61,
+        "compliance_fines": 27.82,
         "deductions": 39.1,
         "forgone_revenue": 1571.83
       },
       {
         "month": "2025-12",
         "chargebacks": 200.0,
-        "compliance_fines": 43.84,
+        "compliance_fines": 38.37,
         "deductions": 115.46,
         "forgone_revenue": 1055.14
       },
       {
         "month": "2026-01",
         "chargebacks": 50.0,
-        "compliance_fines": 12.06,
+        "compliance_fines": 10.69,
         "deductions": 8.96,
         "forgone_revenue": 351.35
+      }
+    ]
+  },
+  {
+    "sku": "CHP-DG-005",
+    "product_name": "Sun-Dried Tomatoes",
+    "product_line": "Dried Goods",
+    "total_cost": 23703.1,
+    "by_dimension": {
+      "chargebacks": 3364.08,
+      "compliance_fines": 3732.78,
+      "deductions": 2225.83,
+      "forgone_revenue": 14380.41
+    },
+    "by_retailer": {
+      "Costco": 4977.19,
+      "DPI Northwest": 502.24,
+      "KeHE": 1217.1,
+      "Kroger": 2491.94,
+      "Regional": 1658.2,
+      "Sprouts": 2134.17,
+      "UNFI": 3589.84,
+      "Walmart": 4412.12,
+      "Whole Foods": 2720.32
+    },
+    "by_month": [
+      {
+        "month": "2023-02",
+        "compliance_fines": 256.91,
+        "forgone_revenue": 306.9
+      },
+      {
+        "month": "2023-03",
+        "chargebacks": 100.0,
+        "compliance_fines": 7.2,
+        "deductions": 32.35,
+        "forgone_revenue": 177.62
+      },
+      {
+        "month": "2023-04",
+        "chargebacks": 100.0,
+        "compliance_fines": 4.07,
+        "deductions": 58.04,
+        "forgone_revenue": 228.64
+      },
+      {
+        "month": "2023-05",
+        "chargebacks": 180.0,
+        "compliance_fines": 258.73,
+        "deductions": 42.27,
+        "forgone_revenue": 401.66
+      },
+      {
+        "month": "2023-06",
+        "chargebacks": 50.0,
+        "compliance_fines": 272.62,
+        "deductions": 76.8,
+        "forgone_revenue": 728.32
+      },
+      {
+        "month": "2023-07",
+        "compliance_fines": 9.7,
+        "deductions": 85.89,
+        "forgone_revenue": 169.65
+      },
+      {
+        "month": "2023-08",
+        "deductions": 26.98,
+        "forgone_revenue": 54.18
+      },
+      {
+        "month": "2023-09",
+        "chargebacks": 100.0,
+        "compliance_fines": 10.32,
+        "deductions": 13.44,
+        "forgone_revenue": 263.36
+      },
+      {
+        "month": "2023-10",
+        "chargebacks": 50.0,
+        "compliance_fines": 10.36,
+        "deductions": 51.11,
+        "forgone_revenue": 219.99
+      },
+      {
+        "month": "2023-11",
+        "chargebacks": 100.0,
+        "compliance_fines": 14.82,
+        "deductions": 93.19,
+        "forgone_revenue": 457.23
+      },
+      {
+        "month": "2023-12",
+        "chargebacks": 150.0,
+        "compliance_fines": 14.03,
+        "deductions": 80.95,
+        "forgone_revenue": 644.2
+      },
+      {
+        "month": "2024-01",
+        "chargebacks": 50.0,
+        "compliance_fines": 8.8,
+        "deductions": 91.43,
+        "forgone_revenue": 239.39
+      },
+      {
+        "month": "2024-02",
+        "chargebacks": 50.0,
+        "compliance_fines": 6.66,
+        "deductions": 61.98,
+        "forgone_revenue": 170.55
+      },
+      {
+        "month": "2024-03",
+        "chargebacks": 100.0,
+        "compliance_fines": 15.0,
+        "deductions": 40.06,
+        "forgone_revenue": 413.15
+      },
+      {
+        "month": "2024-04",
+        "chargebacks": 100.0,
+        "compliance_fines": 14.58,
+        "deductions": 51.62,
+        "forgone_revenue": 359.63
+      },
+      {
+        "month": "2024-05",
+        "chargebacks": 200.0,
+        "compliance_fines": 509.61,
+        "deductions": 62.2,
+        "forgone_revenue": 303.46
+      },
+      {
+        "month": "2024-06",
+        "chargebacks": 140.0,
+        "compliance_fines": 34.43,
+        "deductions": 66.7,
+        "forgone_revenue": 391.35
+      },
+      {
+        "month": "2024-07",
+        "chargebacks": 150.0,
+        "compliance_fines": 7.71,
+        "deductions": 94.66,
+        "forgone_revenue": 133.89
+      },
+      {
+        "month": "2024-08",
+        "chargebacks": 100.0,
+        "compliance_fines": 15.83,
+        "deductions": 49.4,
+        "forgone_revenue": 489.26
+      },
+      {
+        "month": "2024-09",
+        "chargebacks": 200.0,
+        "compliance_fines": 267.14,
+        "deductions": 62.08,
+        "forgone_revenue": 391.39
+      },
+      {
+        "month": "2024-10",
+        "chargebacks": 50.0,
+        "compliance_fines": 10.28,
+        "deductions": 76.55,
+        "forgone_revenue": 112.11
+      },
+      {
+        "month": "2024-11",
+        "compliance_fines": 33.71,
+        "deductions": 41.29,
+        "forgone_revenue": 886.27
+      },
+      {
+        "month": "2024-12",
+        "chargebacks": 50.0,
+        "compliance_fines": 274.71,
+        "deductions": 150.44,
+        "forgone_revenue": 705.89
+      },
+      {
+        "month": "2025-01",
+        "chargebacks": 100.0,
+        "compliance_fines": 253.65,
+        "deductions": 126.02,
+        "forgone_revenue": 159.33
+      },
+      {
+        "month": "2025-02",
+        "chargebacks": 100.0,
+        "compliance_fines": 262.49,
+        "deductions": 41.67,
+        "forgone_revenue": 262.55
+      },
+      {
+        "month": "2025-03",
+        "compliance_fines": 11.49,
+        "deductions": 42.56,
+        "forgone_revenue": 214.19
+      },
+      {
+        "month": "2025-04",
+        "chargebacks": 121.84,
+        "compliance_fines": 271.24,
+        "deductions": 53.48,
+        "forgone_revenue": 869.32
+      },
+      {
+        "month": "2025-05",
+        "chargebacks": 282.24,
+        "compliance_fines": 56.04,
+        "deductions": 60.1,
+        "forgone_revenue": 2566.43
+      },
+      {
+        "month": "2025-06",
+        "compliance_fines": 2.18,
+        "deductions": 81.49,
+        "forgone_revenue": 269.7
+      },
+      {
+        "month": "2025-07",
+        "chargebacks": 50.0,
+        "compliance_fines": 9.73,
+        "deductions": 10.8,
+        "forgone_revenue": 284.56
+      },
+      {
+        "month": "2025-08",
+        "chargebacks": 50.0,
+        "compliance_fines": 255.81,
+        "deductions": 91.54,
+        "forgone_revenue": 141.19
+      },
+      {
+        "month": "2025-09",
+        "chargebacks": 150.0,
+        "compliance_fines": 265.05,
+        "deductions": 50.64,
+        "forgone_revenue": 229.89
+      },
+      {
+        "month": "2025-10",
+        "chargebacks": 100.0,
+        "compliance_fines": 6.66,
+        "deductions": 69.26,
+        "forgone_revenue": 211.08
+      },
+      {
+        "month": "2025-11",
+        "chargebacks": 190.0,
+        "compliance_fines": 11.42,
+        "deductions": 53.11,
+        "forgone_revenue": 363.2
+      },
+      {
+        "month": "2025-12",
+        "chargebacks": 150.0,
+        "compliance_fines": 268.12,
+        "deductions": 133.96,
+        "forgone_revenue": 428.4
+      },
+      {
+        "month": "2026-01",
+        "chargebacks": 50.0,
+        "compliance_fines": 1.69,
+        "deductions": 1.79,
+        "forgone_revenue": 132.48
       }
     ]
   },
@@ -1648,10 +1648,10 @@
     "sku": "CHP-AS-007",
     "product_name": "Lemon Herb Chimichurri",
     "product_line": "Artisan Sauces",
-    "total_cost": 23555.09,
+    "total_cost": 23424.59,
     "by_dimension": {
       "chargebacks": 3206.88,
-      "compliance_fines": 5295.26,
+      "compliance_fines": 5164.76,
       "deductions": 2010.8,
       "forgone_revenue": 13042.15
     },
@@ -1663,7 +1663,7 @@
       "Regional": 1693.4,
       "Sprouts": 2069.4,
       "UNFI": 821.81,
-      "Walmart": 4121.26,
+      "Walmart": 3990.76,
       "Whole Foods": 2118.06
     },
     "by_month": [
@@ -1675,20 +1675,20 @@
       {
         "month": "2023-02",
         "chargebacks": 50.0,
-        "compliance_fines": 264.32,
+        "compliance_fines": 260.45,
         "deductions": 18.4,
         "forgone_revenue": 303.45
       },
       {
         "month": "2023-03",
-        "compliance_fines": 18.19,
+        "compliance_fines": 14.68,
         "deductions": 88.03,
         "forgone_revenue": 440.54
       },
       {
         "month": "2023-04",
         "chargebacks": 100.0,
-        "compliance_fines": 258.24,
+        "compliance_fines": 254.1,
         "deductions": 42.14,
         "forgone_revenue": 131.38
       },
@@ -1702,7 +1702,7 @@
       {
         "month": "2023-06",
         "chargebacks": 50.0,
-        "compliance_fines": 22.65,
+        "compliance_fines": 10.05,
         "deductions": 52.26,
         "forgone_revenue": 233.57
       },
@@ -1715,47 +1715,47 @@
       {
         "month": "2023-08",
         "chargebacks": 50.0,
-        "compliance_fines": 754.87,
+        "compliance_fines": 753.52,
         "deductions": 37.18,
         "forgone_revenue": 779.17
       },
       {
         "month": "2023-09",
-        "compliance_fines": 19.08,
+        "compliance_fines": 17.73,
         "deductions": 29.11,
         "forgone_revenue": 163.84
       },
       {
         "month": "2023-10",
         "chargebacks": 150.0,
-        "compliance_fines": 16.81,
+        "compliance_fines": 15.46,
         "deductions": 37.73,
         "forgone_revenue": 190.42
       },
       {
         "month": "2023-11",
         "chargebacks": 150.0,
-        "compliance_fines": 27.01,
+        "compliance_fines": 22.96,
         "deductions": 39.02,
         "forgone_revenue": 462.64
       },
       {
         "month": "2023-12",
         "chargebacks": 50.0,
-        "compliance_fines": 271.79,
+        "compliance_fines": 270.44,
         "deductions": 84.29,
         "forgone_revenue": 378.21
       },
       {
         "month": "2024-01",
         "chargebacks": 140.0,
-        "compliance_fines": 513.37,
+        "compliance_fines": 506.26,
         "deductions": 121.07,
         "forgone_revenue": 479.03
       },
       {
         "month": "2024-02",
-        "compliance_fines": 13.81,
+        "compliance_fines": 9.67,
         "deductions": 75.0,
         "forgone_revenue": 58.6
       },
@@ -1768,7 +1768,7 @@
       {
         "month": "2024-04",
         "chargebacks": 150.0,
-        "compliance_fines": 4.32,
+        "compliance_fines": 7.65,
         "deductions": 27.32,
         "forgone_revenue": 313.93
       },
@@ -1782,68 +1782,68 @@
       {
         "month": "2024-06",
         "chargebacks": 150.0,
-        "compliance_fines": 21.83,
+        "compliance_fines": 14.81,
         "deductions": 46.65,
         "forgone_revenue": 162.83
       },
       {
         "month": "2024-07",
-        "compliance_fines": 14.79,
+        "compliance_fines": 13.44,
         "deductions": 45.13,
         "forgone_revenue": 160.14
       },
       {
         "month": "2024-08",
         "chargebacks": 100.0,
-        "compliance_fines": 21.55,
+        "compliance_fines": 10.48,
         "deductions": 37.19,
         "forgone_revenue": 175.75
       },
       {
         "month": "2024-09",
         "chargebacks": 200.0,
-        "compliance_fines": 21.71,
+        "compliance_fines": 12.08,
         "deductions": 65.38,
         "forgone_revenue": 181.68
       },
       {
         "month": "2024-10",
         "chargebacks": 50.0,
-        "compliance_fines": 19.71,
+        "compliance_fines": 11.25,
         "deductions": 48.43,
         "forgone_revenue": 207.99
       },
       {
         "month": "2024-11",
-        "compliance_fines": 512.69,
+        "compliance_fines": 508.55,
         "deductions": 57.5,
         "forgone_revenue": 389.65
       },
       {
         "month": "2024-12",
         "chargebacks": 250.0,
-        "compliance_fines": 779.4,
+        "compliance_fines": 771.21,
         "deductions": 91.57,
         "forgone_revenue": 1111.03
       },
       {
         "month": "2025-01",
         "chargebacks": 100.0,
-        "compliance_fines": 262.79,
+        "compliance_fines": 260.0,
         "deductions": 87.0,
         "forgone_revenue": 676.36
       },
       {
         "month": "2025-02",
         "chargebacks": 96.88,
-        "compliance_fines": 10.51,
+        "compliance_fines": 20.23,
         "deductions": 91.04,
         "forgone_revenue": 707.16
       },
       {
         "month": "2025-03",
         "chargebacks": 200.0,
-        "compliance_fines": 13.95,
+        "compliance_fines": 6.93,
         "deductions": 31.15,
         "forgone_revenue": 348.58
       },
@@ -1857,62 +1857,62 @@
       {
         "month": "2025-05",
         "chargebacks": 100.0,
-        "compliance_fines": 258.6,
+        "compliance_fines": 255.81,
         "deductions": 38.23,
         "forgone_revenue": 343.22
       },
       {
         "month": "2025-06",
         "chargebacks": 90.0,
-        "compliance_fines": 4.32,
+        "compliance_fines": 1.53,
         "deductions": 49.67,
         "forgone_revenue": 268.85
       },
       {
         "month": "2025-07",
         "chargebacks": 240.0,
-        "compliance_fines": 8.65,
+        "compliance_fines": 5.86,
         "deductions": 36.34,
         "forgone_revenue": 533.61
       },
       {
         "month": "2025-08",
         "chargebacks": 150.0,
-        "compliance_fines": 25.85,
+        "compliance_fines": 14.6,
         "deductions": 79.42,
         "forgone_revenue": 250.24
       },
       {
         "month": "2025-09",
         "chargebacks": 50.0,
-        "compliance_fines": 18.44,
+        "compliance_fines": 18.62,
         "deductions": 56.7,
         "forgone_revenue": 444.06
       },
       {
         "month": "2025-10",
         "chargebacks": 40.0,
-        "compliance_fines": 20.86,
+        "compliance_fines": 9.52,
         "deductions": 59.11,
         "forgone_revenue": 243.78
       },
       {
         "month": "2025-11",
         "chargebacks": 100.0,
-        "compliance_fines": 538.5,
+        "compliance_fines": 535.71,
         "deductions": 40.13,
         "forgone_revenue": 1223.88
       },
       {
         "month": "2025-12",
         "chargebacks": 150.0,
-        "compliance_fines": 516.06,
+        "compliance_fines": 511.92,
         "deductions": 136.23,
         "forgone_revenue": 456.71
       },
       {
         "month": "2026-01",
-        "compliance_fines": 2.88,
+        "compliance_fines": 1.53,
         "deductions": 8.41,
         "forgone_revenue": 171.36
       }
@@ -1922,10 +1922,10 @@
     "sku": "CHP-DG-010",
     "product_name": "Mixed Nut Butter Granola",
     "product_line": "Dried Goods",
-    "total_cost": 22828.2,
+    "total_cost": 22622.62,
     "by_dimension": {
       "chargebacks": 2909.09,
-      "compliance_fines": 4626.59,
+      "compliance_fines": 4421.01,
       "deductions": 2073.6,
       "forgone_revenue": 13218.92
     },
@@ -1937,28 +1937,28 @@
       "Regional": 1529.84,
       "Sprouts": 2000.27,
       "UNFI": 1198.2,
-      "Walmart": 4846.01,
+      "Walmart": 4640.43,
       "Whole Foods": 2342.0
     },
     "by_month": [
       {
         "month": "2023-01",
         "chargebacks": 170.98,
-        "compliance_fines": 18.1,
+        "compliance_fines": 24.72,
         "deductions": 3.5,
         "forgone_revenue": 663.74
       },
       {
         "month": "2023-02",
         "chargebacks": 50.0,
-        "compliance_fines": 15.97,
+        "compliance_fines": 8.81,
         "deductions": 23.5,
         "forgone_revenue": 246.99
       },
       {
         "month": "2023-03",
         "chargebacks": 90.0,
-        "compliance_fines": 23.27,
+        "compliance_fines": 10.76,
         "deductions": 18.19,
         "forgone_revenue": 361.6
       },
@@ -1970,87 +1970,87 @@
       },
       {
         "month": "2023-05",
-        "compliance_fines": 19.46,
+        "compliance_fines": 12.24,
         "deductions": 28.72,
         "forgone_revenue": 371.76
       },
       {
         "month": "2023-06",
         "chargebacks": 150.0,
-        "compliance_fines": 262.26,
+        "compliance_fines": 258.68,
         "deductions": 110.61,
         "forgone_revenue": 284.19
       },
       {
         "month": "2023-07",
-        "compliance_fines": 262.7,
+        "compliance_fines": 257.24,
         "deductions": 97.45,
         "forgone_revenue": 189.72
       },
       {
         "month": "2023-08",
         "chargebacks": 100.0,
-        "compliance_fines": 263.74,
+        "compliance_fines": 256.58,
         "deductions": 54.58,
         "forgone_revenue": 247.28
       },
       {
         "month": "2023-09",
         "chargebacks": 50.0,
-        "compliance_fines": 7.44,
+        "compliance_fines": 12.35,
         "deductions": 53.59,
         "forgone_revenue": 369.06
       },
       {
         "month": "2023-10",
         "chargebacks": 150.0,
-        "compliance_fines": 35.75,
+        "compliance_fines": 17.95,
         "deductions": 36.48,
         "forgone_revenue": 644.15
       },
       {
         "month": "2023-11",
         "chargebacks": 250.0,
-        "compliance_fines": 525.45,
+        "compliance_fines": 521.87,
         "deductions": 79.19,
         "forgone_revenue": 1231.66
       },
       {
         "month": "2023-12",
         "chargebacks": 50.0,
-        "compliance_fines": 42.43,
+        "compliance_fines": 40.62,
         "deductions": 122.66,
         "forgone_revenue": 543.31
       },
       {
         "month": "2024-01",
-        "compliance_fines": 5.23,
+        "compliance_fines": 3.41,
         "deductions": 48.7,
         "forgone_revenue": 394.84
       },
       {
         "month": "2024-02",
-        "compliance_fines": 5.29,
+        "compliance_fines": 1.71,
         "deductions": 42.1,
         "forgone_revenue": 43.29
       },
       {
         "month": "2024-03",
-        "compliance_fines": 7.58,
+        "compliance_fines": 4.0,
         "deductions": 24.69,
         "forgone_revenue": 149.9
       },
       {
         "month": "2024-04",
         "chargebacks": 50.0,
-        "compliance_fines": 13.74,
+        "compliance_fines": 4.87,
         "deductions": 44.15,
         "forgone_revenue": 219.58
       },
       {
         "month": "2024-05",
         "chargebacks": 200.0,
-        "compliance_fines": 283.52,
+        "compliance_fines": 260.26,
         "deductions": 48.58,
         "forgone_revenue": 332.54
       },
@@ -2064,49 +2064,49 @@
       {
         "month": "2024-07",
         "chargebacks": 50.0,
-        "compliance_fines": 7.73,
+        "compliance_fines": 7.68,
         "deductions": 58.45,
         "forgone_revenue": 148.58
       },
       {
         "month": "2024-08",
         "chargebacks": 100.0,
-        "compliance_fines": 13.84,
+        "compliance_fines": 6.68,
         "deductions": 27.15,
         "forgone_revenue": 142.67
       },
       {
         "month": "2024-09",
         "chargebacks": 50.0,
-        "compliance_fines": 270.04,
+        "compliance_fines": 257.59,
         "deductions": 44.39,
         "forgone_revenue": 203.53
       },
       {
         "month": "2024-10",
         "chargebacks": 300.0,
-        "compliance_fines": 291.34,
+        "compliance_fines": 266.37,
         "deductions": 41.63,
         "forgone_revenue": 373.54
       },
       {
         "month": "2024-11",
         "chargebacks": 50.0,
-        "compliance_fines": 38.71,
+        "compliance_fines": 27.96,
         "deductions": 86.1,
         "forgone_revenue": 652.05
       },
       {
         "month": "2024-12",
         "chargebacks": 100.0,
-        "compliance_fines": 270.3,
+        "compliance_fines": 266.61,
         "deductions": 131.72,
         "forgone_revenue": 515.47
       },
       {
         "month": "2025-01",
         "chargebacks": 100.0,
-        "compliance_fines": 5.29,
+        "compliance_fines": 1.71,
         "deductions": 103.22,
         "forgone_revenue": 131.49
       },
@@ -2127,14 +2127,14 @@
       {
         "month": "2025-04",
         "chargebacks": 50.0,
-        "compliance_fines": 262.86,
+        "compliance_fines": 255.64,
         "deductions": 19.51,
         "forgone_revenue": 119.38
       },
       {
         "month": "2025-05",
         "chargebacks": 100.0,
-        "compliance_fines": 13.9,
+        "compliance_fines": 8.5,
         "deductions": 42.08,
         "forgone_revenue": 324.77
       },
@@ -2148,7 +2148,7 @@
       {
         "month": "2025-07",
         "chargebacks": 50.0,
-        "compliance_fines": 10.02,
+        "compliance_fines": 6.44,
         "deductions": 27.01,
         "forgone_revenue": 234.5
       },
@@ -2161,27 +2161,27 @@
       },
       {
         "month": "2025-09",
-        "compliance_fines": 15.88,
+        "compliance_fines": 15.5,
         "deductions": 62.58,
         "forgone_revenue": 402.23
       },
       {
         "month": "2025-10",
-        "compliance_fines": 19.91,
+        "compliance_fines": 10.93,
         "deductions": 15.12,
         "forgone_revenue": 234.64
       },
       {
         "month": "2025-11",
         "chargebacks": 178.11,
-        "compliance_fines": 25.59,
+        "compliance_fines": 20.13,
         "deductions": 90.07,
         "forgone_revenue": 1280.21
       },
       {
         "month": "2025-12",
         "chargebacks": 100.0,
-        "compliance_fines": 40.55,
+        "compliance_fines": 24.51,
         "deductions": 93.78,
         "forgone_revenue": 601.52
       },
@@ -2196,10 +2196,10 @@
     "sku": "CHP-SC-004",
     "product_name": "Sun-Dried Tomato Tapenade",
     "product_line": "Specialty Condiments",
-    "total_cost": 22593.69,
+    "total_cost": 22376.64,
     "by_dimension": {
       "chargebacks": 3123.42,
-      "compliance_fines": 4138.88,
+      "compliance_fines": 3921.84,
       "deductions": 1945.47,
       "forgone_revenue": 13385.92
     },
@@ -2211,13 +2211,13 @@
       "Regional": 724.67,
       "Sprouts": 1694.45,
       "UNFI": 1660.85,
-      "Walmart": 5174.24,
+      "Walmart": 4957.19,
       "Whole Foods": 1600.48
     },
     "by_month": [
       {
         "month": "2023-01",
-        "compliance_fines": 7.18,
+        "compliance_fines": 3.84,
         "forgone_revenue": 475.32
       },
       {
@@ -2230,35 +2230,35 @@
       {
         "month": "2023-03",
         "chargebacks": 140.0,
-        "compliance_fines": 264.9,
+        "compliance_fines": 254.86,
         "deductions": 48.96,
         "forgone_revenue": 215.42
       },
       {
         "month": "2023-04",
         "chargebacks": 100.0,
-        "compliance_fines": 510.48,
+        "compliance_fines": 505.44,
         "deductions": 52.08,
         "forgone_revenue": 177.25
       },
       {
         "month": "2023-05",
         "chargebacks": 100.0,
-        "compliance_fines": 12.82,
+        "compliance_fines": 9.43,
         "deductions": 35.81,
         "forgone_revenue": 1161.52
       },
       {
         "month": "2023-06",
         "chargebacks": 100.0,
-        "compliance_fines": 30.81,
+        "compliance_fines": 12.42,
         "deductions": 84.97,
         "forgone_revenue": 235.94
       },
       {
         "month": "2023-07",
         "chargebacks": 100.0,
-        "compliance_fines": 267.58,
+        "compliance_fines": 257.5,
         "deductions": 71.87,
         "forgone_revenue": 182.93
       },
@@ -2269,35 +2269,35 @@
       {
         "month": "2023-09",
         "chargebacks": 90.0,
-        "compliance_fines": 19.78,
+        "compliance_fines": 18.09,
         "deductions": 31.84,
         "forgone_revenue": 195.53
       },
       {
         "month": "2023-10",
         "chargebacks": 180.0,
-        "compliance_fines": 510.23,
+        "compliance_fines": 506.88,
         "deductions": 28.43,
         "forgone_revenue": 347.39
       },
       {
         "month": "2023-11",
         "chargebacks": 200.0,
-        "compliance_fines": 54.0,
+        "compliance_fines": 32.25,
         "deductions": 71.08,
         "forgone_revenue": 588.77
       },
       {
         "month": "2023-12",
         "chargebacks": 213.42,
-        "compliance_fines": 285.41,
+        "compliance_fines": 290.01,
         "deductions": 89.81,
         "forgone_revenue": 844.33
       },
       {
         "month": "2024-01",
         "chargebacks": 100.0,
-        "compliance_fines": 263.99,
+        "compliance_fines": 255.63,
         "deductions": 125.95,
         "forgone_revenue": 186.05
       },
@@ -2309,34 +2309,34 @@
       {
         "month": "2024-03",
         "chargebacks": 150.0,
-        "compliance_fines": 14.38,
+        "compliance_fines": 4.37,
         "deductions": 21.68,
         "forgone_revenue": 170.58
       },
       {
         "month": "2024-04",
         "chargebacks": 150.0,
-        "compliance_fines": 16.56,
+        "compliance_fines": 4.86,
         "deductions": 20.78,
         "forgone_revenue": 154.53
       },
       {
         "month": "2024-05",
         "chargebacks": 90.0,
-        "compliance_fines": 24.56,
+        "compliance_fines": 14.51,
         "deductions": 53.54,
         "forgone_revenue": 370.53
       },
       {
         "month": "2024-06",
         "chargebacks": 200.0,
-        "compliance_fines": 3.31,
+        "compliance_fines": 6.48,
         "deductions": 55.59,
         "forgone_revenue": 322.79
       },
       {
         "month": "2024-07",
-        "compliance_fines": 269.07,
+        "compliance_fines": 265.73,
         "deductions": 69.78,
         "forgone_revenue": 1211.51
       },
@@ -2356,28 +2356,28 @@
       {
         "month": "2024-10",
         "chargebacks": 100.0,
-        "compliance_fines": 28.12,
+        "compliance_fines": 13.07,
         "deductions": 58.47,
         "forgone_revenue": 297.61
       },
       {
         "month": "2024-11",
         "chargebacks": 100.0,
-        "compliance_fines": 285.1,
+        "compliance_fines": 266.56,
         "deductions": 62.9,
         "forgone_revenue": 541.07
       },
       {
         "month": "2024-12",
         "chargebacks": 130.0,
-        "compliance_fines": 33.09,
+        "compliance_fines": 26.4,
         "deductions": 83.35,
         "forgone_revenue": 672.48
       },
       {
         "month": "2025-01",
         "chargebacks": 40.0,
-        "compliance_fines": 40.38,
+        "compliance_fines": 40.34,
         "deductions": 58.37,
         "forgone_revenue": 822.5
       },
@@ -2389,68 +2389,68 @@
       },
       {
         "month": "2025-03",
-        "compliance_fines": 6.62,
+        "compliance_fines": 3.24,
         "deductions": 16.5,
         "forgone_revenue": 87.4
       },
       {
         "month": "2025-04",
         "chargebacks": 150.0,
-        "compliance_fines": 10.93,
+        "compliance_fines": 7.58,
         "deductions": 13.27,
         "forgone_revenue": 239.34
       },
       {
         "month": "2025-05",
         "chargebacks": 50.0,
-        "compliance_fines": 268.0,
+        "compliance_fines": 257.95,
         "deductions": 53.48,
         "forgone_revenue": 270.25
       },
       {
         "month": "2025-06",
         "chargebacks": 50.0,
-        "compliance_fines": 506.98,
+        "compliance_fines": 503.63,
         "deductions": 48.21,
         "forgone_revenue": 318.32
       },
       {
         "month": "2025-07",
-        "compliance_fines": 12.7,
+        "compliance_fines": 9.35,
         "deductions": 55.68,
         "forgone_revenue": 197.17
       },
       {
         "month": "2025-08",
         "chargebacks": 100.0,
-        "compliance_fines": 3.63,
+        "compliance_fines": 3.59,
         "deductions": 53.51,
         "forgone_revenue": 159.16
       },
       {
         "month": "2025-09",
-        "compliance_fines": 3.31,
+        "compliance_fines": 6.48,
         "deductions": 52.03,
         "forgone_revenue": 258.03
       },
       {
         "month": "2025-10",
         "chargebacks": 100.0,
-        "compliance_fines": 23.49,
+        "compliance_fines": 10.06,
         "deductions": 49.85,
         "forgone_revenue": 249.12
       },
       {
         "month": "2025-11",
         "chargebacks": 200.0,
-        "compliance_fines": 36.25,
+        "compliance_fines": 21.13,
         "deductions": 57.34,
         "forgone_revenue": 1144.11
       },
       {
         "month": "2025-12",
         "chargebacks": 40.0,
-        "compliance_fines": 52.3,
+        "compliance_fines": 37.21,
         "deductions": 122.79,
         "forgone_revenue": 594.05
       },
@@ -2466,10 +2466,10 @@
     "sku": "CHP-SB-008",
     "product_name": "Maple Pecan Clusters",
     "product_line": "Snack Bites",
-    "total_cost": 22265.61,
+    "total_cost": 22072.83,
     "by_dimension": {
       "chargebacks": 2896.98,
-      "compliance_fines": 5321.65,
+      "compliance_fines": 5128.87,
       "deductions": 1900.01,
       "forgone_revenue": 12146.97
     },
@@ -2481,90 +2481,90 @@
       "Regional": 899.97,
       "Sprouts": 1008.34,
       "UNFI": 2469.51,
-      "Walmart": 3874.69,
+      "Walmart": 3681.91,
       "Whole Foods": 2323.92
     },
     "by_month": [
       {
         "month": "2023-01",
-        "compliance_fines": 254.75,
+        "compliance_fines": 253.13,
         "deductions": 3.91,
         "forgone_revenue": 88.56
       },
       {
         "month": "2023-02",
         "chargebacks": 100.0,
-        "compliance_fines": 255.97,
+        "compliance_fines": 257.59,
         "deductions": 7.53,
         "forgone_revenue": 265.02
       },
       {
         "month": "2023-03",
         "chargebacks": 100.0,
-        "compliance_fines": 18.92,
+        "compliance_fines": 5.96,
         "deductions": 45.72,
         "forgone_revenue": 115.09
       },
       {
         "month": "2023-04",
         "chargebacks": 100.0,
-        "compliance_fines": 8.1,
+        "compliance_fines": 4.86,
         "deductions": 34.68,
         "forgone_revenue": 154.4
       },
       {
         "month": "2023-05",
         "chargebacks": 150.0,
-        "compliance_fines": 506.48,
+        "compliance_fines": 503.24,
         "deductions": 43.73,
         "forgone_revenue": 276.55
       },
       {
         "month": "2023-06",
         "chargebacks": 50.0,
-        "compliance_fines": 30.54,
+        "compliance_fines": 14.34,
         "deductions": 52.27,
         "forgone_revenue": 394.42
       },
       {
         "month": "2023-07",
         "chargebacks": 50.0,
-        "compliance_fines": 266.55,
+        "compliance_fines": 261.69,
         "deductions": 91.76,
         "forgone_revenue": 280.11
       },
       {
         "month": "2023-08",
         "chargebacks": 90.0,
-        "compliance_fines": 256.48,
+        "compliance_fines": 251.62,
         "deductions": 54.39,
         "forgone_revenue": 178.84
       },
       {
         "month": "2023-09",
         "chargebacks": 50.0,
-        "compliance_fines": 18.8,
+        "compliance_fines": 12.32,
         "deductions": 49.04,
         "forgone_revenue": 191.21
       },
       {
         "month": "2023-10",
         "chargebacks": 100.0,
-        "compliance_fines": 22.04,
+        "compliance_fines": 15.56,
         "deductions": 38.96,
         "forgone_revenue": 347.2
       },
       {
         "month": "2023-11",
         "chargebacks": 290.0,
-        "compliance_fines": 41.31,
+        "compliance_fines": 29.97,
         "deductions": 59.65,
         "forgone_revenue": 812.03
       },
       {
         "month": "2023-12",
         "chargebacks": 50.0,
-        "compliance_fines": 23.14,
+        "compliance_fines": 13.42,
         "deductions": 178.72,
         "forgone_revenue": 364.35
       },
@@ -2578,21 +2578,21 @@
       {
         "month": "2024-02",
         "chargebacks": 100.0,
-        "compliance_fines": 15.55,
+        "compliance_fines": 5.83,
         "deductions": 30.43,
         "forgone_revenue": 139.56
       },
       {
         "month": "2024-03",
         "chargebacks": 50.0,
-        "compliance_fines": 513.4,
+        "compliance_fines": 508.54,
         "deductions": 41.19,
         "forgone_revenue": 184.66
       },
       {
         "month": "2024-04",
         "chargebacks": 100.0,
-        "compliance_fines": 9.72,
+        "compliance_fines": 3.24,
         "deductions": 23.77,
         "forgone_revenue": 104.66
       },
@@ -2605,54 +2605,54 @@
       {
         "month": "2024-06",
         "chargebacks": 214.19,
-        "compliance_fines": 513.08,
+        "compliance_fines": 509.84,
         "deductions": 37.21,
         "forgone_revenue": 675.61
       },
       {
         "month": "2024-07",
         "chargebacks": 160.59,
-        "compliance_fines": 40.18,
+        "compliance_fines": 38.56,
         "deductions": 66.16,
         "forgone_revenue": 1101.14
       },
       {
         "month": "2024-08",
         "chargebacks": 50.0,
-        "compliance_fines": 9.72,
+        "compliance_fines": 3.24,
         "deductions": 65.96,
         "forgone_revenue": 129.06
       },
       {
         "month": "2024-09",
         "chargebacks": 100.0,
-        "compliance_fines": 254.86,
+        "compliance_fines": 251.62,
         "deductions": 27.75,
         "forgone_revenue": 173.64
       },
       {
         "month": "2024-10",
-        "compliance_fines": 12.23,
+        "compliance_fines": 7.37,
         "deductions": 72.87,
         "forgone_revenue": 77.68
       },
       {
         "month": "2024-11",
-        "compliance_fines": 15.0,
+        "compliance_fines": 10.14,
         "deductions": 39.79,
         "forgone_revenue": 266.5
       },
       {
         "month": "2024-12",
         "chargebacks": 50.0,
-        "compliance_fines": 286.99,
+        "compliance_fines": 274.03,
         "deductions": 36.69,
         "forgone_revenue": 411.53
       },
       {
         "month": "2025-01",
         "chargebacks": 50.0,
-        "compliance_fines": 257.32,
+        "compliance_fines": 255.7,
         "deductions": 91.73,
         "forgone_revenue": 275.97
       },
@@ -2666,20 +2666,20 @@
       {
         "month": "2025-03",
         "chargebacks": 100.0,
-        "compliance_fines": 253.24,
+        "compliance_fines": 251.62,
         "deductions": 44.02,
         "forgone_revenue": 95.64
       },
       {
         "month": "2025-04",
-        "compliance_fines": 11.41,
+        "compliance_fines": 6.55,
         "deductions": 18.37,
         "forgone_revenue": 177.86
       },
       {
         "month": "2025-05",
         "chargebacks": 50.0,
-        "compliance_fines": 9.72,
+        "compliance_fines": 3.24,
         "deductions": 18.04,
         "forgone_revenue": 100.87
       },
@@ -2693,20 +2693,20 @@
       {
         "month": "2025-07",
         "chargebacks": 100.0,
-        "compliance_fines": 275.25,
+        "compliance_fines": 259.05,
         "deductions": 44.68,
         "forgone_revenue": 259.5
       },
       {
         "month": "2025-08",
-        "compliance_fines": 263.78,
+        "compliance_fines": 257.3,
         "deductions": 52.16,
         "forgone_revenue": 316.26
       },
       {
         "month": "2025-09",
         "chargebacks": 50.0,
-        "compliance_fines": 4.09,
+        "compliance_fines": 2.47,
         "deductions": 50.75,
         "forgone_revenue": 131.59
       },
@@ -2720,14 +2720,14 @@
       {
         "month": "2025-11",
         "chargebacks": 100.0,
-        "compliance_fines": 38.7,
+        "compliance_fines": 27.36,
         "deductions": 62.36,
         "forgone_revenue": 455.35
       },
       {
         "month": "2025-12",
         "chargebacks": 242.2,
-        "compliance_fines": 531.65,
+        "compliance_fines": 526.79,
         "deductions": 75.68,
         "forgone_revenue": 1238.94
       },
@@ -2741,10 +2741,10 @@
     "sku": "CHP-DG-007",
     "product_name": "Trail Mix Premium",
     "product_line": "Dried Goods",
-    "total_cost": 22220.04,
+    "total_cost": 22011.96,
     "by_dimension": {
       "chargebacks": 2406.69,
-      "compliance_fines": 5095.0,
+      "compliance_fines": 4886.92,
       "deductions": 1874.89,
       "forgone_revenue": 12843.46
     },
@@ -2756,21 +2756,21 @@
       "Regional": 1456.49,
       "Sprouts": 1769.84,
       "UNFI": 1224.89,
-      "Walmart": 3368.01,
+      "Walmart": 3159.93,
       "Whole Foods": 2377.5
     },
     "by_month": [
       {
         "month": "2023-02",
         "chargebacks": 140.0,
-        "compliance_fines": 28.81,
+        "compliance_fines": 20.42,
         "deductions": 1.16,
         "forgone_revenue": 248.52
       },
       {
         "month": "2023-03",
         "chargebacks": 50.0,
-        "compliance_fines": 32.73,
+        "compliance_fines": 21.03,
         "deductions": 47.17,
         "forgone_revenue": 234.84
       },
@@ -2784,92 +2784,92 @@
       {
         "month": "2023-05",
         "chargebacks": 50.0,
-        "compliance_fines": 25.51,
+        "compliance_fines": 20.47,
         "deductions": 47.76,
         "forgone_revenue": 332.43
       },
       {
         "month": "2023-06",
         "chargebacks": 50.0,
-        "compliance_fines": 261.64,
+        "compliance_fines": 254.94,
         "deductions": 34.16,
         "forgone_revenue": 141.12
       },
       {
         "month": "2023-07",
-        "compliance_fines": 265.09,
+        "compliance_fines": 258.39,
         "deductions": 44.43,
         "forgone_revenue": 223.3
       },
       {
         "month": "2023-08",
-        "compliance_fines": 13.17,
+        "compliance_fines": 4.86,
         "deductions": 11.37,
         "forgone_revenue": 184.01
       },
       {
         "month": "2023-09",
         "chargebacks": 150.0,
-        "compliance_fines": 27.46,
+        "compliance_fines": 14.03,
         "deductions": 47.86,
         "forgone_revenue": 710.51
       },
       {
         "month": "2023-10",
         "chargebacks": 50.0,
-        "compliance_fines": 15.63,
+        "compliance_fines": 7.32,
         "deductions": 75.01,
         "forgone_revenue": 475.41
       },
       {
         "month": "2023-11",
         "chargebacks": 130.0,
-        "compliance_fines": 27.59,
+        "compliance_fines": 27.52,
         "deductions": 59.39,
         "forgone_revenue": 1170.31
       },
       {
         "month": "2023-12",
         "chargebacks": 100.0,
-        "compliance_fines": 20.95,
+        "compliance_fines": 14.26,
         "deductions": 122.45,
         "forgone_revenue": 350.41
       },
       {
         "month": "2024-01",
-        "compliance_fines": 23.36,
+        "compliance_fines": 18.32,
         "deductions": 102.48,
         "forgone_revenue": 320.89
       },
       {
         "month": "2024-02",
-        "compliance_fines": 261.43,
+        "compliance_fines": 256.43,
         "deductions": 62.28,
         "forgone_revenue": 345.42
       },
       {
         "month": "2024-03",
-        "compliance_fines": 23.51,
+        "compliance_fines": 10.16,
         "deductions": 55.24,
         "forgone_revenue": 215.27
       },
       {
         "month": "2024-04",
         "chargebacks": 100.0,
-        "compliance_fines": 3.31,
+        "compliance_fines": 1.62,
         "deductions": 48.93,
         "forgone_revenue": 176.09
       },
       {
         "month": "2024-05",
-        "compliance_fines": 14.9,
+        "compliance_fines": 4.86,
         "deductions": 36.72,
         "forgone_revenue": 133.23
       },
       {
         "month": "2024-06",
         "chargebacks": 50.0,
-        "compliance_fines": 512.53,
+        "compliance_fines": 509.18,
         "deductions": 30.98,
         "forgone_revenue": 448.36
       },
@@ -2882,42 +2882,42 @@
       },
       {
         "month": "2024-08",
-        "compliance_fines": 12.44,
+        "compliance_fines": 5.71,
         "deductions": 35.95,
         "forgone_revenue": 124.33
       },
       {
         "month": "2024-09",
         "chargebacks": 150.0,
-        "compliance_fines": 30.47,
+        "compliance_fines": 17.12,
         "deductions": 56.04,
         "forgone_revenue": 877.85
       },
       {
         "month": "2024-10",
         "chargebacks": 100.0,
-        "compliance_fines": 14.33,
+        "compliance_fines": 12.6,
         "deductions": 71.57,
         "forgone_revenue": 240.4
       },
       {
         "month": "2024-11",
         "chargebacks": 200.0,
-        "compliance_fines": 288.31,
+        "compliance_fines": 263.29,
         "deductions": 87.84,
         "forgone_revenue": 422.71
       },
       {
         "month": "2024-12",
         "chargebacks": 100.0,
-        "compliance_fines": 519.78,
+        "compliance_fines": 514.74,
         "deductions": 64.47,
         "forgone_revenue": 602.72
       },
       {
         "month": "2025-01",
         "chargebacks": 100.0,
-        "compliance_fines": 256.62,
+        "compliance_fines": 251.62,
         "deductions": 133.01,
         "forgone_revenue": 200.43
       },
@@ -2937,7 +2937,7 @@
       {
         "month": "2025-04",
         "chargebacks": 50.0,
-        "compliance_fines": 13.86,
+        "compliance_fines": 10.4,
         "deductions": 69.11,
         "forgone_revenue": 164.04
       },
@@ -2950,56 +2950,56 @@
       {
         "month": "2025-06",
         "chargebacks": 50.0,
-        "compliance_fines": 10.11,
+        "compliance_fines": 6.76,
         "deductions": 23.88,
         "forgone_revenue": 243.38
       },
       {
         "month": "2025-07",
         "chargebacks": 150.0,
-        "compliance_fines": 525.78,
+        "compliance_fines": 512.35,
         "deductions": 34.6,
         "forgone_revenue": 307.58
       },
       {
         "month": "2025-08",
         "chargebacks": 40.0,
-        "compliance_fines": 256.06,
+        "compliance_fines": 252.71,
         "deductions": 57.94,
         "forgone_revenue": 259.3
       },
       {
         "month": "2025-09",
         "chargebacks": 50.0,
-        "compliance_fines": 15.99,
+        "compliance_fines": 10.95,
         "deductions": 52.18,
         "forgone_revenue": 610.06
       },
       {
         "month": "2025-10",
         "chargebacks": 40.0,
-        "compliance_fines": 19.09,
+        "compliance_fines": 15.71,
         "deductions": 44.49,
         "forgone_revenue": 220.19
       },
       {
         "month": "2025-11",
         "chargebacks": 40.0,
-        "compliance_fines": 274.48,
+        "compliance_fines": 274.44,
         "deductions": 41.85,
         "forgone_revenue": 399.03
       },
       {
         "month": "2025-12",
         "chargebacks": 166.69,
-        "compliance_fines": 519.16,
+        "compliance_fines": 522.22,
         "deductions": 76.47,
         "forgone_revenue": 1316.72
       },
       {
         "month": "2026-01",
         "chargebacks": 100.0,
-        "compliance_fines": 13.25,
+        "compliance_fines": 4.86,
         "deductions": 7.35,
         "forgone_revenue": 81.0
       }
@@ -3009,10 +3009,10 @@
     "sku": "CHP-AS-006",
     "product_name": "Balsamic Fig Glaze",
     "product_line": "Artisan Sauces",
-    "total_cost": 21887.66,
+    "total_cost": 21772.39,
     "by_dimension": {
       "chargebacks": 2969.76,
-      "compliance_fines": 3380.72,
+      "compliance_fines": 3265.45,
       "deductions": 2021.7,
       "forgone_revenue": 13515.48
     },
@@ -3024,7 +3024,7 @@
       "Regional": 1102.19,
       "Sprouts": 1654.72,
       "UNFI": 1399.43,
-      "Walmart": 5958.25,
+      "Walmart": 5842.98,
       "Whole Foods": 2191.67
     },
     "by_month": [
@@ -3036,41 +3036,41 @@
       {
         "month": "2023-02",
         "chargebacks": 50.0,
-        "compliance_fines": 7.57,
+        "compliance_fines": 7.64,
         "deductions": 3.08,
         "forgone_revenue": 118.6
       },
       {
         "month": "2023-03",
-        "compliance_fines": 15.52,
+        "compliance_fines": 8.82,
         "deductions": 49.32,
         "forgone_revenue": 144.5
       },
       {
         "month": "2023-04",
         "chargebacks": 150.0,
-        "compliance_fines": 8.04,
+        "compliance_fines": 6.39,
         "deductions": 13.48,
         "forgone_revenue": 151.76
       },
       {
         "month": "2023-05",
         "chargebacks": 155.34,
-        "compliance_fines": 261.83,
+        "compliance_fines": 267.52,
         "deductions": 66.12,
         "forgone_revenue": 810.66
       },
       {
         "month": "2023-06",
         "chargebacks": 50.0,
-        "compliance_fines": 12.73,
+        "compliance_fines": 7.69,
         "deductions": 72.81,
         "forgone_revenue": 267.16
       },
       {
         "month": "2023-07",
         "chargebacks": 50.0,
-        "compliance_fines": 12.1,
+        "compliance_fines": 3.6,
         "deductions": 19.02,
         "forgone_revenue": 224.25
       },
@@ -3084,35 +3084,35 @@
       {
         "month": "2023-09",
         "chargebacks": 59.05,
-        "compliance_fines": 267.05,
+        "compliance_fines": 278.29,
         "deductions": 93.7,
         "forgone_revenue": 1233.03
       },
       {
         "month": "2023-10",
         "chargebacks": 150.0,
-        "compliance_fines": 518.92,
+        "compliance_fines": 515.61,
         "deductions": 79.2,
         "forgone_revenue": 343.88
       },
       {
         "month": "2023-11",
         "chargebacks": 400.0,
-        "compliance_fines": 47.04,
+        "compliance_fines": 48.19,
         "deductions": 81.6,
         "forgone_revenue": 1187.28
       },
       {
         "month": "2023-12",
         "chargebacks": 90.0,
-        "compliance_fines": 278.13,
+        "compliance_fines": 273.09,
         "deductions": 148.19,
         "forgone_revenue": 426.9
       },
       {
         "month": "2024-01",
         "chargebacks": 209.7,
-        "compliance_fines": 17.7,
+        "compliance_fines": 12.59,
         "deductions": 108.87,
         "forgone_revenue": 979.92
       },
@@ -3125,21 +3125,21 @@
       },
       {
         "month": "2024-03",
-        "compliance_fines": 26.96,
+        "compliance_fines": 21.92,
         "deductions": 24.34,
         "forgone_revenue": 206.94
       },
       {
         "month": "2024-04",
         "chargebacks": 50.0,
-        "compliance_fines": 10.37,
+        "compliance_fines": 3.6,
         "deductions": 24.7,
         "forgone_revenue": 95.57
       },
       {
         "month": "2024-05",
         "chargebacks": 50.0,
-        "compliance_fines": 11.52,
+        "compliance_fines": 9.87,
         "deductions": 25.3,
         "forgone_revenue": 329.14
       },
@@ -3158,35 +3158,35 @@
       {
         "month": "2024-08",
         "chargebacks": 150.0,
-        "compliance_fines": 278.73,
+        "compliance_fines": 273.69,
         "deductions": 20.2,
         "forgone_revenue": 447.59
       },
       {
         "month": "2024-09",
         "chargebacks": 100.0,
-        "compliance_fines": 270.81,
+        "compliance_fines": 262.39,
         "deductions": 90.14,
         "forgone_revenue": 202.82
       },
       {
         "month": "2024-10",
         "chargebacks": 50.0,
-        "compliance_fines": 13.34,
+        "compliance_fines": 8.3,
         "deductions": 102.51,
         "forgone_revenue": 173.76
       },
       {
         "month": "2024-11",
         "chargebacks": 150.0,
-        "compliance_fines": 37.39,
+        "compliance_fines": 27.31,
         "deductions": 52.42,
         "forgone_revenue": 731.41
       },
       {
         "month": "2024-12",
         "chargebacks": 170.42,
-        "compliance_fines": 292.82,
+        "compliance_fines": 283.39,
         "deductions": 98.98,
         "forgone_revenue": 892.48
       },
@@ -3199,27 +3199,27 @@
       {
         "month": "2025-02",
         "chargebacks": 50.0,
-        "compliance_fines": 8.04,
+        "compliance_fines": 4.73,
         "deductions": 61.07,
         "forgone_revenue": 166.75
       },
       {
         "month": "2025-03",
-        "compliance_fines": 6.32,
+        "compliance_fines": 4.74,
         "deductions": 39.82,
         "forgone_revenue": 133.98
       },
       {
         "month": "2025-04",
         "chargebacks": 50.0,
-        "compliance_fines": 16.38,
+        "compliance_fines": 9.61,
         "deductions": 38.71,
         "forgone_revenue": 206.03
       },
       {
         "month": "2025-05",
         "chargebacks": 50.0,
-        "compliance_fines": 13.04,
+        "compliance_fines": 6.28,
         "deductions": 41.84,
         "forgone_revenue": 238.74
       },
@@ -3232,48 +3232,48 @@
       },
       {
         "month": "2025-07",
-        "compliance_fines": 13.37,
+        "compliance_fines": 6.6,
         "deductions": 28.67,
         "forgone_revenue": 152.38
       },
       {
         "month": "2025-08",
         "chargebacks": 150.0,
-        "compliance_fines": 17.66,
+        "compliance_fines": 12.62,
         "deductions": 32.42,
         "forgone_revenue": 228.64
       },
       {
         "month": "2025-09",
         "chargebacks": 50.0,
-        "compliance_fines": 11.82,
+        "compliance_fines": 15.63,
         "deductions": 54.12,
         "forgone_revenue": 435.97
       },
       {
         "month": "2025-10",
         "chargebacks": 140.0,
-        "compliance_fines": 11.97,
+        "compliance_fines": 6.93,
         "deductions": 52.95,
         "forgone_revenue": 208.21
       },
       {
         "month": "2025-11",
         "chargebacks": 100.0,
-        "compliance_fines": 293.15,
+        "compliance_fines": 284.72,
         "deductions": 66.28,
         "forgone_revenue": 622.7
       },
       {
         "month": "2025-12",
         "chargebacks": 50.0,
-        "compliance_fines": 279.1,
+        "compliance_fines": 277.51,
         "deductions": 90.28,
         "forgone_revenue": 745.41
       },
       {
         "month": "2026-01",
-        "compliance_fines": 6.91,
+        "compliance_fines": 1.8,
         "deductions": 6.67,
         "forgone_revenue": 35.0
       }
@@ -3283,10 +3283,10 @@
     "sku": "CHP-SC-002",
     "product_name": "Caramelized Onion Spread",
     "product_line": "Specialty Condiments",
-    "total_cost": 21790.07,
+    "total_cost": 21608.78,
     "by_dimension": {
       "chargebacks": 2447.1,
-      "compliance_fines": 4572.77,
+      "compliance_fines": 4391.47,
       "deductions": 1899.93,
       "forgone_revenue": 12870.27
     },
@@ -3298,24 +3298,24 @@
       "Regional": 1432.67,
       "Sprouts": 1477.75,
       "UNFI": 1855.72,
-      "Walmart": 4252.98,
+      "Walmart": 4071.68,
       "Whole Foods": 1677.95
     },
     "by_month": [
       {
         "month": "2023-01",
-        "compliance_fines": 3.1,
+        "compliance_fines": 1.53,
         "forgone_revenue": 85.25
       },
       {
         "month": "2023-02",
-        "compliance_fines": 257.74,
+        "compliance_fines": 253.06,
         "deductions": 33.39,
         "forgone_revenue": 129.41
       },
       {
         "month": "2023-03",
-        "compliance_fines": 24.88,
+        "compliance_fines": 17.1,
         "deductions": 51.79,
         "forgone_revenue": 221.72
       },
@@ -3328,76 +3328,76 @@
       {
         "month": "2023-05",
         "chargebacks": 140.0,
-        "compliance_fines": 266.19,
+        "compliance_fines": 263.07,
         "deductions": 22.03,
         "forgone_revenue": 362.51
       },
       {
         "month": "2023-06",
         "chargebacks": 50.0,
-        "compliance_fines": 3.78,
+        "compliance_fines": 2.22,
         "deductions": 29.41,
         "forgone_revenue": 198.74
       },
       {
         "month": "2023-07",
         "chargebacks": 50.0,
-        "compliance_fines": 11.07,
+        "compliance_fines": 9.5,
         "deductions": 47.55,
         "forgone_revenue": 171.68
       },
       {
         "month": "2023-08",
         "chargebacks": 50.0,
-        "compliance_fines": 14.37,
+        "compliance_fines": 8.15,
         "deductions": 36.5,
         "forgone_revenue": 325.88
       },
       {
         "month": "2023-09",
         "chargebacks": 150.0,
-        "compliance_fines": 23.7,
+        "compliance_fines": 14.33,
         "deductions": 58.09,
         "forgone_revenue": 804.81
       },
       {
         "month": "2023-10",
         "chargebacks": 150.0,
-        "compliance_fines": 267.29,
+        "compliance_fines": 259.5,
         "deductions": 76.84,
         "forgone_revenue": 192.5
       },
       {
         "month": "2023-11",
         "chargebacks": 100.0,
-        "compliance_fines": 14.93,
+        "compliance_fines": 7.12,
         "deductions": 60.43,
         "forgone_revenue": 151.73
       },
       {
         "month": "2023-12",
         "chargebacks": 50.0,
-        "compliance_fines": 45.68,
+        "compliance_fines": 36.34,
         "deductions": 37.34,
         "forgone_revenue": 1540.62
       },
       {
         "month": "2024-01",
         "chargebacks": 50.0,
-        "compliance_fines": 9.1,
+        "compliance_fines": 4.42,
         "deductions": 116.85,
         "forgone_revenue": 238.25
       },
       {
         "month": "2024-02",
         "chargebacks": 50.0,
-        "compliance_fines": 10.33,
+        "compliance_fines": 5.66,
         "deductions": 30.42,
         "forgone_revenue": 71.32
       },
       {
         "month": "2024-03",
-        "compliance_fines": 18.24,
+        "compliance_fines": 15.12,
         "deductions": 60.37,
         "forgone_revenue": 222.7
       },
@@ -3416,47 +3416,47 @@
       {
         "month": "2024-06",
         "chargebacks": 100.0,
-        "compliance_fines": 511.43,
+        "compliance_fines": 511.41,
         "deductions": 37.28,
         "forgone_revenue": 371.49
       },
       {
         "month": "2024-07",
-        "compliance_fines": 8.13,
+        "compliance_fines": 3.47,
         "deductions": 58.79,
         "forgone_revenue": 89.33
       },
       {
         "month": "2024-08",
         "chargebacks": 50.0,
-        "compliance_fines": 10.78,
+        "compliance_fines": 9.21,
         "deductions": 52.45,
         "forgone_revenue": 214.89
       },
       {
         "month": "2024-09",
         "chargebacks": 140.0,
-        "compliance_fines": 18.58,
+        "compliance_fines": 7.65,
         "deductions": 74.5,
         "forgone_revenue": 197.48
       },
       {
         "month": "2024-10",
-        "compliance_fines": 522.81,
+        "compliance_fines": 515.0,
         "deductions": 35.05,
         "forgone_revenue": 842.35
       },
       {
         "month": "2024-11",
         "chargebacks": 100.0,
-        "compliance_fines": 41.25,
+        "compliance_fines": 28.77,
         "deductions": 104.3,
         "forgone_revenue": 573.93
       },
       {
         "month": "2024-12",
         "chargebacks": 150.0,
-        "compliance_fines": 524.25,
+        "compliance_fines": 513.36,
         "deductions": 94.26,
         "forgone_revenue": 650.52
       },
@@ -3476,27 +3476,27 @@
       {
         "month": "2025-03",
         "chargebacks": 100.0,
-        "compliance_fines": 11.16,
+        "compliance_fines": 8.05,
         "deductions": 39.35,
         "forgone_revenue": 201.37
       },
       {
         "month": "2025-04",
         "chargebacks": 100.0,
-        "compliance_fines": 6.19,
+        "compliance_fines": 3.06,
         "deductions": 72.6,
         "forgone_revenue": 109.38
       },
       {
         "month": "2025-05",
         "chargebacks": 152.63,
-        "compliance_fines": 276.94,
+        "compliance_fines": 269.13,
         "deductions": 20.15,
         "forgone_revenue": 1706.28
       },
       {
         "month": "2025-06",
-        "compliance_fines": 263.31,
+        "compliance_fines": 260.18,
         "deductions": 88.22,
         "forgone_revenue": 134.45
       },
@@ -3509,14 +3509,14 @@
       {
         "month": "2025-08",
         "chargebacks": 50.0,
-        "compliance_fines": 6.19,
+        "compliance_fines": 3.06,
         "deductions": 25.17,
         "forgone_revenue": 117.3
       },
       {
         "month": "2025-09",
         "chargebacks": 50.0,
-        "compliance_fines": 8.66,
+        "compliance_fines": 5.51,
         "deductions": 40.27,
         "forgone_revenue": 78.5
       },
@@ -3529,20 +3529,20 @@
       {
         "month": "2025-11",
         "chargebacks": 250.0,
-        "compliance_fines": 36.22,
+        "compliance_fines": 26.84,
         "deductions": 27.76,
         "forgone_revenue": 428.65
       },
       {
         "month": "2025-12",
         "chargebacks": 264.47,
-        "compliance_fines": 327.81,
+        "compliance_fines": 308.79,
         "deductions": 100.06,
         "forgone_revenue": 1551.77
       },
       {
         "month": "2026-01",
-        "compliance_fines": 12.38,
+        "compliance_fines": 4.59,
         "deductions": 8.61,
         "forgone_revenue": 63.75
       }
@@ -3552,10 +3552,10 @@
     "sku": "CHP-PS-002",
     "product_name": "Wildflower Honey",
     "product_line": "Pantry Staples",
-    "total_cost": 20887.31,
+    "total_cost": 20618.46,
     "by_dimension": {
       "chargebacks": 3002.66,
-      "compliance_fines": 3957.39,
+      "compliance_fines": 3688.54,
       "deductions": 2047.17,
       "forgone_revenue": 11880.09
     },
@@ -3567,7 +3567,7 @@
       "Regional": 1558.77,
       "Sprouts": 1771.97,
       "UNFI": 1560.49,
-      "Walmart": 4236.89,
+      "Walmart": 3968.04,
       "Whole Foods": 2365.5
     },
     "by_month": [
@@ -3580,41 +3580,41 @@
       },
       {
         "month": "2023-02",
-        "compliance_fines": 2.02,
+        "compliance_fines": 1.8,
         "deductions": 28.21,
         "forgone_revenue": 65.56
       },
       {
         "month": "2023-03",
         "chargebacks": 50.0,
-        "compliance_fines": 8.74,
+        "compliance_fines": 4.27,
         "deductions": 22.81,
         "forgone_revenue": 52.5
       },
       {
         "month": "2023-04",
-        "compliance_fines": 12.1,
+        "compliance_fines": 5.4,
         "deductions": 16.3,
         "forgone_revenue": 106.33
       },
       {
         "month": "2023-05",
         "chargebacks": 100.0,
-        "compliance_fines": 8.06,
+        "compliance_fines": 3.6,
         "deductions": 59.27,
         "forgone_revenue": 224.56
       },
       {
         "month": "2023-06",
         "chargebacks": 50.0,
-        "compliance_fines": 5.79,
+        "compliance_fines": 3.56,
         "deductions": 48.91,
         "forgone_revenue": 498.87
       },
       {
         "month": "2023-07",
         "chargebacks": 50.0,
-        "compliance_fines": 14.45,
+        "compliance_fines": 5.95,
         "deductions": 35.64,
         "forgone_revenue": 108.35
       },
@@ -3628,34 +3628,34 @@
       {
         "month": "2023-09",
         "chargebacks": 100.0,
-        "compliance_fines": 18.89,
+        "compliance_fines": 18.68,
         "deductions": 40.41,
         "forgone_revenue": 418.6
       },
       {
         "month": "2023-10",
         "chargebacks": 50.0,
-        "compliance_fines": 20.55,
+        "compliance_fines": 13.85,
         "deductions": 79.21,
         "forgone_revenue": 168.06
       },
       {
         "month": "2023-11",
         "chargebacks": 200.0,
-        "compliance_fines": 288.13,
+        "compliance_fines": 273.15,
         "deductions": 50.01,
         "forgone_revenue": 564.48
       },
       {
         "month": "2023-12",
         "chargebacks": 50.0,
-        "compliance_fines": 1020.59,
+        "compliance_fines": 1018.35,
         "deductions": 102.09,
         "forgone_revenue": 325.77
       },
       {
         "month": "2024-01",
-        "compliance_fines": 16.78,
+        "compliance_fines": 8.07,
         "deductions": 85.81,
         "forgone_revenue": 310.28
       },
@@ -3669,7 +3669,7 @@
       {
         "month": "2024-03",
         "chargebacks": 150.0,
-        "compliance_fines": 29.11,
+        "compliance_fines": 10.32,
         "deductions": 81.08,
         "forgone_revenue": 254.79
       },
@@ -3682,62 +3682,62 @@
       },
       {
         "month": "2024-05",
-        "compliance_fines": 19.69,
+        "compliance_fines": 11.19,
         "deductions": 35.5,
         "forgone_revenue": 164.8
       },
       {
         "month": "2024-06",
         "chargebacks": 50.0,
-        "compliance_fines": 10.08,
+        "compliance_fines": 3.6,
         "deductions": 62.17,
         "forgone_revenue": 131.9
       },
       {
         "month": "2024-07",
-        "compliance_fines": 10.46,
+        "compliance_fines": 10.25,
         "deductions": 35.77,
         "forgone_revenue": 453.04
       },
       {
         "month": "2024-08",
         "chargebacks": 90.0,
-        "compliance_fines": 22.65,
+        "compliance_fines": 11.71,
         "deductions": 27.43,
         "forgone_revenue": 144.47
       },
       {
         "month": "2024-09",
         "chargebacks": 50.0,
-        "compliance_fines": 268.77,
+        "compliance_fines": 260.28,
         "deductions": 37.75,
         "forgone_revenue": 283.46
       },
       {
         "month": "2024-10",
         "chargebacks": 200.0,
-        "compliance_fines": 276.61,
+        "compliance_fines": 259.62,
         "deductions": 92.31,
         "forgone_revenue": 292.97
       },
       {
         "month": "2024-11",
         "chargebacks": 50.0,
-        "compliance_fines": 274.84,
+        "compliance_fines": 270.16,
         "deductions": 68.82,
         "forgone_revenue": 436.57
       },
       {
         "month": "2024-12",
         "chargebacks": 50.0,
-        "compliance_fines": 68.52,
+        "compliance_fines": 43.25,
         "deductions": 116.87,
         "forgone_revenue": 542.62
       },
       {
         "month": "2025-01",
         "chargebacks": 90.0,
-        "compliance_fines": 20.66,
+        "compliance_fines": 16.41,
         "deductions": 109.7,
         "forgone_revenue": 282.39
       },
@@ -3755,63 +3755,63 @@
       {
         "month": "2025-04",
         "chargebacks": 40.0,
-        "compliance_fines": 15.23,
+        "compliance_fines": 8.75,
         "deductions": 12.37,
         "forgone_revenue": 288.01
       },
       {
         "month": "2025-05",
         "chargebacks": 150.0,
-        "compliance_fines": 265.93,
+        "compliance_fines": 261.68,
         "deductions": 56.72,
         "forgone_revenue": 248.69
       },
       {
         "month": "2025-06",
         "chargebacks": 140.0,
-        "compliance_fines": 59.69,
+        "compliance_fines": 48.96,
         "deductions": 8.86,
         "forgone_revenue": 489.79
       },
       {
         "month": "2025-07",
         "chargebacks": 150.0,
-        "compliance_fines": 25.6,
+        "compliance_fines": 12.64,
         "deductions": 94.29,
         "forgone_revenue": 307.22
       },
       {
         "month": "2025-08",
         "chargebacks": 100.0,
-        "compliance_fines": 28.64,
+        "compliance_fines": 11.43,
         "deductions": 74.09,
         "forgone_revenue": 830.27
       },
       {
         "month": "2025-09",
         "chargebacks": 202.28,
-        "compliance_fines": 261.78,
+        "compliance_fines": 255.51,
         "deductions": 47.09,
         "forgone_revenue": 886.55
       },
       {
         "month": "2025-10",
         "chargebacks": 150.0,
-        "compliance_fines": 33.16,
+        "compliance_fines": 18.18,
         "deductions": 58.48,
         "forgone_revenue": 298.29
       },
       {
         "month": "2025-11",
         "chargebacks": 150.0,
-        "compliance_fines": 37.39,
+        "compliance_fines": 22.42,
         "deductions": 81.92,
         "forgone_revenue": 488.31
       },
       {
         "month": "2025-12",
         "chargebacks": 150.0,
-        "compliance_fines": 524.82,
+        "compliance_fines": 507.83,
         "deductions": 132.93,
         "forgone_revenue": 342.88
       },
@@ -3827,10 +3827,10 @@
     "sku": "CHP-AS-001",
     "product_name": "Smoky Chipotle BBQ Sauce",
     "product_line": "Artisan Sauces",
-    "total_cost": 20639.59,
+    "total_cost": 20449.08,
     "by_dimension": {
       "chargebacks": 2707.76,
-      "compliance_fines": 2599.58,
+      "compliance_fines": 2409.07,
       "deductions": 1999.44,
       "forgone_revenue": 13332.81
     },
@@ -3842,13 +3842,13 @@
       "Regional": 1420.96,
       "Sprouts": 1663.11,
       "UNFI": 1831.18,
-      "Walmart": 3977.2,
+      "Walmart": 3786.69,
       "Whole Foods": 1882.77
     },
     "by_month": [
       {
         "month": "2023-01",
-        "compliance_fines": 4.89,
+        "compliance_fines": 4.99,
         "forgone_revenue": 82.66
       },
       {
@@ -3859,21 +3859,21 @@
       {
         "month": "2023-03",
         "chargebacks": 50.0,
-        "compliance_fines": 20.25,
+        "compliance_fines": 13.12,
         "deductions": 13.22,
         "forgone_revenue": 569.73
       },
       {
         "month": "2023-04",
         "chargebacks": 100.0,
-        "compliance_fines": 267.43,
+        "compliance_fines": 258.79,
         "deductions": 38.55,
         "forgone_revenue": 236.41
       },
       {
         "month": "2023-05",
         "chargebacks": 50.0,
-        "compliance_fines": 13.15,
+        "compliance_fines": 7.32,
         "deductions": 54.45,
         "forgone_revenue": 362.41
       },
@@ -3901,135 +3901,135 @@
       {
         "month": "2023-09",
         "chargebacks": 100.0,
-        "compliance_fines": 18.43,
+        "compliance_fines": 12.6,
         "deductions": 26.22,
         "forgone_revenue": 453.15
       },
       {
         "month": "2023-10",
-        "compliance_fines": 17.53,
+        "compliance_fines": 16.45,
         "deductions": 61.12,
         "forgone_revenue": 525.13
       },
       {
         "month": "2023-11",
         "chargebacks": 50.0,
-        "compliance_fines": 32.46,
+        "compliance_fines": 20.69,
         "deductions": 54.83,
         "forgone_revenue": 373.95
       },
       {
         "month": "2023-12",
         "chargebacks": 101.49,
-        "compliance_fines": 27.5,
+        "compliance_fines": 20.05,
         "deductions": 63.5,
         "forgone_revenue": 613.54
       },
       {
         "month": "2024-01",
         "chargebacks": 150.0,
-        "compliance_fines": 31.84,
+        "compliance_fines": 15.53,
         "deductions": 102.83,
         "forgone_revenue": 371.08
       },
       {
         "month": "2024-02",
-        "compliance_fines": 3.02,
+        "compliance_fines": 1.62,
         "deductions": 64.46,
         "forgone_revenue": 76.68
       },
       {
         "month": "2024-03",
         "chargebacks": 50.0,
-        "compliance_fines": 17.92,
+        "compliance_fines": 12.09,
         "deductions": 28.07,
         "forgone_revenue": 247.84
       },
       {
         "month": "2024-04",
         "chargebacks": 50.0,
-        "compliance_fines": 22.42,
+        "compliance_fines": 12.27,
         "deductions": 73.85,
         "forgone_revenue": 194.34
       },
       {
         "month": "2024-05",
         "chargebacks": 147.57,
-        "compliance_fines": 257.37,
+        "compliance_fines": 254.45,
         "deductions": 60.82,
         "forgone_revenue": 563.23
       },
       {
         "month": "2024-06",
         "chargebacks": 200.0,
-        "compliance_fines": 16.63,
+        "compliance_fines": 6.48,
         "deductions": 64.11,
         "forgone_revenue": 246.92
       },
       {
         "month": "2024-07",
-        "compliance_fines": 7.56,
+        "compliance_fines": 3.24,
         "deductions": 61.38,
         "forgone_revenue": 221.76
       },
       {
         "month": "2024-08",
-        "compliance_fines": 15.07,
+        "compliance_fines": 9.35,
         "deductions": 32.99,
         "forgone_revenue": 531.63
       },
       {
         "month": "2024-09",
         "chargebacks": 90.0,
-        "compliance_fines": 22.54,
+        "compliance_fines": 13.79,
         "deductions": 37.45,
         "forgone_revenue": 622.13
       },
       {
         "month": "2024-10",
         "chargebacks": 100.0,
-        "compliance_fines": 5.7,
+        "compliance_fines": 5.81,
         "deductions": 60.06,
         "forgone_revenue": 214.96
       },
       {
         "month": "2024-11",
-        "compliance_fines": 22.08,
+        "compliance_fines": 16.25,
         "deductions": 78.42,
         "forgone_revenue": 401.17
       },
       {
         "month": "2024-12",
         "chargebacks": 200.0,
-        "compliance_fines": 289.2,
+        "compliance_fines": 277.75,
         "deductions": 83.1,
         "forgone_revenue": 653.26
       },
       {
         "month": "2025-01",
         "chargebacks": 50.0,
-        "compliance_fines": 257.25,
+        "compliance_fines": 255.85,
         "deductions": 99.99,
         "forgone_revenue": 186.06
       },
       {
         "month": "2025-02",
         "chargebacks": 100.0,
-        "compliance_fines": 12.75,
+        "compliance_fines": 9.94,
         "deductions": 71.71,
         "forgone_revenue": 119.27
       },
       {
         "month": "2025-03",
         "chargebacks": 100.0,
-        "compliance_fines": 254.5,
+        "compliance_fines": 253.1,
         "deductions": 64.68,
         "forgone_revenue": 183.45
       },
       {
         "month": "2025-04",
         "chargebacks": 50.0,
-        "compliance_fines": 255.99,
+        "compliance_fines": 256.32,
         "deductions": 31.53,
         "forgone_revenue": 554.64
       },
@@ -4040,324 +4040,56 @@
       },
       {
         "month": "2025-06",
-        "compliance_fines": 9.48,
+        "compliance_fines": 8.08,
         "deductions": 14.3,
         "forgone_revenue": 113.93
       },
       {
         "month": "2025-07",
         "chargebacks": 50.0,
-        "compliance_fines": 265.73,
+        "compliance_fines": 255.47,
         "deductions": 45.17,
         "forgone_revenue": 131.91
       },
       {
         "month": "2025-08",
         "chargebacks": 190.0,
-        "compliance_fines": 21.18,
+        "compliance_fines": 11.14,
         "deductions": 73.73,
         "forgone_revenue": 491.37
       },
       {
         "month": "2025-09",
-        "compliance_fines": 14.71,
+        "compliance_fines": 7.26,
         "deductions": 63.32,
         "forgone_revenue": 175.79
       },
       {
         "month": "2025-10",
         "chargebacks": 90.0,
-        "compliance_fines": 24.54,
+        "compliance_fines": 21.63,
         "deductions": 48.98,
         "forgone_revenue": 273.17
       },
       {
         "month": "2025-11",
-        "compliance_fines": 52.14,
+        "compliance_fines": 39.07,
         "deductions": 72.37,
         "forgone_revenue": 402.5
       },
       {
         "month": "2025-12",
         "chargebacks": 193.05,
-        "compliance_fines": 291.37,
+        "compliance_fines": 284.57,
         "deductions": 115.49,
         "forgone_revenue": 1333.28
       },
       {
         "month": "2026-01",
         "chargebacks": 100.0,
-        "compliance_fines": 4.54,
+        "compliance_fines": 1.62,
         "deductions": 18.55,
         "forgone_revenue": 119.89
-      }
-    ]
-  },
-  {
-    "sku": "CHP-SB-010",
-    "product_name": "Tahini Date Energy Bites",
-    "product_line": "Snack Bites",
-    "total_cost": 20081.58,
-    "by_dimension": {
-      "chargebacks": 1870.69,
-      "compliance_fines": 4309.02,
-      "deductions": 2094.45,
-      "forgone_revenue": 11807.42
-    },
-    "by_retailer": {
-      "Costco": 5505.23,
-      "DPI Northwest": 670.42,
-      "KeHE": 944.97,
-      "Kroger": 3045.14,
-      "Regional": 701.33,
-      "Sprouts": 2158.39,
-      "UNFI": 966.36,
-      "Walmart": 3595.89,
-      "Whole Foods": 2493.85
-    },
-    "by_month": [
-      {
-        "month": "2023-01",
-        "compliance_fines": 260.46,
-        "forgone_revenue": 139.74
-      },
-      {
-        "month": "2023-02",
-        "chargebacks": 150.0,
-        "compliance_fines": 18.27,
-        "deductions": 26.94,
-        "forgone_revenue": 373.7
-      },
-      {
-        "month": "2023-03",
-        "chargebacks": 50.0,
-        "compliance_fines": 16.16,
-        "deductions": 51.8,
-        "forgone_revenue": 190.35
-      },
-      {
-        "month": "2023-04",
-        "chargebacks": 180.0,
-        "compliance_fines": 517.15,
-        "deductions": 40.78,
-        "forgone_revenue": 306.46
-      },
-      {
-        "month": "2023-05",
-        "compliance_fines": 256.43,
-        "deductions": 71.72,
-        "forgone_revenue": 244.43
-      },
-      {
-        "month": "2023-06",
-        "compliance_fines": 5.56,
-        "deductions": 44.4,
-        "forgone_revenue": 245.83
-      },
-      {
-        "month": "2023-07",
-        "chargebacks": 50.0,
-        "compliance_fines": 260.4,
-        "deductions": 36.25,
-        "forgone_revenue": 132.94
-      },
-      {
-        "month": "2023-08",
-        "chargebacks": 110.69,
-        "compliance_fines": 24.66,
-        "deductions": 52.86,
-        "forgone_revenue": 617.95
-      },
-      {
-        "month": "2023-09",
-        "compliance_fines": 17.18,
-        "deductions": 90.11,
-        "forgone_revenue": 119.84
-      },
-      {
-        "month": "2023-10",
-        "compliance_fines": 11.43,
-        "deductions": 45.99,
-        "forgone_revenue": 92.86
-      },
-      {
-        "month": "2023-11",
-        "compliance_fines": 12.97,
-        "deductions": 66.58,
-        "forgone_revenue": 615.17
-      },
-      {
-        "month": "2023-12",
-        "chargebacks": 50.0,
-        "compliance_fines": 268.47,
-        "deductions": 66.1,
-        "forgone_revenue": 393.35
-      },
-      {
-        "month": "2024-01",
-        "compliance_fines": 12.48,
-        "deductions": 99.91,
-        "forgone_revenue": 658.05
-      },
-      {
-        "month": "2024-02",
-        "chargebacks": 50.0,
-        "compliance_fines": 8.14,
-        "deductions": 54.09,
-        "forgone_revenue": 146.35
-      },
-      {
-        "month": "2024-03",
-        "compliance_fines": 12.4,
-        "deductions": 20.31,
-        "forgone_revenue": 209.04
-      },
-      {
-        "month": "2024-04",
-        "chargebacks": 50.0,
-        "compliance_fines": 14.37,
-        "deductions": 39.55,
-        "forgone_revenue": 89.76
-      },
-      {
-        "month": "2024-05",
-        "chargebacks": 50.0,
-        "compliance_fines": 6.84,
-        "deductions": 75.76,
-        "forgone_revenue": 166.61
-      },
-      {
-        "month": "2024-06",
-        "chargebacks": 50.0,
-        "compliance_fines": 17.28,
-        "deductions": 27.31,
-        "forgone_revenue": 314.66
-      },
-      {
-        "month": "2024-07",
-        "chargebacks": 100.0,
-        "compliance_fines": 522.66,
-        "deductions": 56.28,
-        "forgone_revenue": 401.24
-      },
-      {
-        "month": "2024-08",
-        "chargebacks": 150.0,
-        "compliance_fines": 12.44,
-        "deductions": 66.24,
-        "forgone_revenue": 336.52
-      },
-      {
-        "month": "2024-09",
-        "chargebacks": 50.0,
-        "compliance_fines": 5.84,
-        "deductions": 53.24,
-        "forgone_revenue": 170.1
-      },
-      {
-        "month": "2024-10",
-        "chargebacks": 50.0,
-        "compliance_fines": 278.72,
-        "deductions": 62.88,
-        "forgone_revenue": 789.74
-      },
-      {
-        "month": "2024-11",
-        "chargebacks": 140.0,
-        "compliance_fines": 37.07,
-        "deductions": 68.83,
-        "forgone_revenue": 723.79
-      },
-      {
-        "month": "2024-12",
-        "chargebacks": 100.0,
-        "compliance_fines": 275.8,
-        "deductions": 128.58,
-        "forgone_revenue": 953.11
-      },
-      {
-        "month": "2025-01",
-        "chargebacks": 100.0,
-        "compliance_fines": 258.21,
-        "deductions": 109.03,
-        "forgone_revenue": 246.44
-      },
-      {
-        "month": "2025-02",
-        "compliance_fines": 5.55,
-        "deductions": 101.59,
-        "forgone_revenue": 62.56
-      },
-      {
-        "month": "2025-03",
-        "chargebacks": 50.0,
-        "compliance_fines": 8.66,
-        "deductions": 23.43,
-        "forgone_revenue": 192.48
-      },
-      {
-        "month": "2025-04",
-        "chargebacks": 50.0,
-        "compliance_fines": 31.52,
-        "deductions": 27.88,
-        "forgone_revenue": 321.93
-      },
-      {
-        "month": "2025-05",
-        "chargebacks": 100.0,
-        "compliance_fines": 265.21,
-        "deductions": 83.52,
-        "forgone_revenue": 246.11
-      },
-      {
-        "month": "2025-06",
-        "compliance_fines": 6.52,
-        "deductions": 80.15,
-        "forgone_revenue": 223.52
-      },
-      {
-        "month": "2025-07",
-        "compliance_fines": 271.93,
-        "deductions": 38.41,
-        "forgone_revenue": 785.84
-      },
-      {
-        "month": "2025-08",
-        "compliance_fines": 9.37,
-        "deductions": 50.34,
-        "forgone_revenue": 123.89
-      },
-      {
-        "month": "2025-09",
-        "compliance_fines": 2.62,
-        "deductions": 40.08,
-        "forgone_revenue": 37.35
-      },
-      {
-        "month": "2025-10",
-        "compliance_fines": 257.07,
-        "deductions": 40.22,
-        "forgone_revenue": 211.92
-      },
-      {
-        "month": "2025-11",
-        "chargebacks": 50.0,
-        "compliance_fines": 19.48,
-        "deductions": 52.83,
-        "forgone_revenue": 320.77
-      },
-      {
-        "month": "2025-12",
-        "chargebacks": 140.0,
-        "compliance_fines": 292.87,
-        "deductions": 97.46,
-        "forgone_revenue": 579.02
-      },
-      {
-        "month": "2026-01",
-        "compliance_fines": 6.83,
-        "deductions": 2.99,
-        "forgone_revenue": 24.0
       }
     ]
   },
@@ -4365,10 +4097,10 @@
     "sku": "CHP-SC-009",
     "product_name": "Raspberry Chipotle Glaze",
     "product_line": "Specialty Condiments",
-    "total_cost": 20067.87,
+    "total_cost": 19922.07,
     "by_dimension": {
       "chargebacks": 2877.17,
-      "compliance_fines": 3809.6,
+      "compliance_fines": 3663.8,
       "deductions": 2042.36,
       "forgone_revenue": 11338.74
     },
@@ -4380,40 +4112,40 @@
       "Regional": 1175.55,
       "Sprouts": 1736.49,
       "UNFI": 2609.34,
-      "Walmart": 3949.95,
+      "Walmart": 3804.15,
       "Whole Foods": 1832.08
     },
     "by_month": [
       {
         "month": "2023-01",
         "chargebacks": 150.0,
-        "compliance_fines": 759.54,
+        "compliance_fines": 762.78,
         "forgone_revenue": 519.71
       },
       {
         "month": "2023-02",
-        "compliance_fines": 15.35,
+        "compliance_fines": 12.11,
         "deductions": 49.25,
         "forgone_revenue": 147.67
       },
       {
         "month": "2023-03",
         "chargebacks": 150.0,
-        "compliance_fines": 12.96,
+        "compliance_fines": 19.44,
         "deductions": 28.41,
         "forgone_revenue": 698.97
       },
       {
         "month": "2023-04",
         "chargebacks": 50.0,
-        "compliance_fines": 6.8,
+        "compliance_fines": 5.18,
         "deductions": 71.08,
         "forgone_revenue": 159.5
       },
       {
         "month": "2023-05",
         "chargebacks": 100.0,
-        "compliance_fines": 21.58,
+        "compliance_fines": 18.34,
         "deductions": 51.35,
         "forgone_revenue": 305.66
       },
@@ -4425,7 +4157,7 @@
       },
       {
         "month": "2023-07",
-        "compliance_fines": 18.65,
+        "compliance_fines": 8.93,
         "deductions": 43.23,
         "forgone_revenue": 186.6
       },
@@ -4437,41 +4169,41 @@
       {
         "month": "2023-09",
         "chargebacks": 100.0,
-        "compliance_fines": 14.29,
+        "compliance_fines": 7.81,
         "deductions": 37.16,
         "forgone_revenue": 230.86
       },
       {
         "month": "2023-10",
         "chargebacks": 40.0,
-        "compliance_fines": 62.11,
+        "compliance_fines": 52.39,
         "deductions": 57.69,
         "forgone_revenue": 1635.77
       },
       {
         "month": "2023-11",
         "chargebacks": 150.0,
-        "compliance_fines": 539.68,
+        "compliance_fines": 526.72,
         "deductions": 87.21,
         "forgone_revenue": 486.83
       },
       {
         "month": "2023-12",
         "chargebacks": 350.0,
-        "compliance_fines": 291.94,
+        "compliance_fines": 285.46,
         "deductions": 130.29,
         "forgone_revenue": 705.25
       },
       {
         "month": "2024-01",
         "chargebacks": 100.0,
-        "compliance_fines": 16.94,
+        "compliance_fines": 8.84,
         "deductions": 139.36,
         "forgone_revenue": 125.53
       },
       {
         "month": "2024-02",
-        "compliance_fines": 4.86,
+        "compliance_fines": 3.24,
         "deductions": 63.97,
         "forgone_revenue": 31.5
       },
@@ -4485,61 +4217,61 @@
       {
         "month": "2024-04",
         "chargebacks": 100.0,
-        "compliance_fines": 9.39,
+        "compliance_fines": 6.15,
         "deductions": 54.75,
         "forgone_revenue": 166.87
       },
       {
         "month": "2024-05",
         "chargebacks": 50.0,
-        "compliance_fines": 9.72,
+        "compliance_fines": 3.24,
         "deductions": 40.48,
         "forgone_revenue": 106.22
       },
       {
         "month": "2024-06",
         "chargebacks": 50.0,
-        "compliance_fines": 30.3,
+        "compliance_fines": 25.44,
         "deductions": 36.51,
         "forgone_revenue": 256.48
       },
       {
         "month": "2024-07",
-        "compliance_fines": 6.3,
+        "compliance_fines": 3.06,
         "deductions": 39.49,
         "forgone_revenue": 46.6
       },
       {
         "month": "2024-08",
-        "compliance_fines": 4.82,
+        "compliance_fines": 3.2,
         "deductions": 29.11,
         "forgone_revenue": 54.31
       },
       {
         "month": "2024-09",
         "chargebacks": 50.0,
-        "compliance_fines": 13.37,
+        "compliance_fines": 10.13,
         "deductions": 16.61,
         "forgone_revenue": 223.49
       },
       {
         "month": "2024-10",
         "chargebacks": 200.0,
-        "compliance_fines": 15.09,
+        "compliance_fines": 6.99,
         "deductions": 51.18,
         "forgone_revenue": 341.74
       },
       {
         "month": "2024-11",
         "chargebacks": 50.0,
-        "compliance_fines": 257.74,
+        "compliance_fines": 256.12,
         "deductions": 48.59,
         "forgone_revenue": 342.62
       },
       {
         "month": "2024-12",
         "chargebacks": 50.0,
-        "compliance_fines": 23.78,
+        "compliance_fines": 15.68,
         "deductions": 80.0,
         "forgone_revenue": 333.96
       },
@@ -4560,20 +4292,20 @@
       {
         "month": "2025-03",
         "chargebacks": 50.0,
-        "compliance_fines": 4.86,
+        "compliance_fines": 1.62,
         "deductions": 44.52,
         "forgone_revenue": 146.32
       },
       {
         "month": "2025-04",
         "chargebacks": 50.0,
-        "compliance_fines": 2.59,
+        "compliance_fines": 4.21,
         "deductions": 32.19,
         "forgone_revenue": 267.12
       },
       {
         "month": "2025-05",
-        "compliance_fines": 8.65,
+        "compliance_fines": 5.41,
         "deductions": 35.61,
         "forgone_revenue": 147.13
       },
@@ -4587,14 +4319,14 @@
       {
         "month": "2025-07",
         "chargebacks": 100.0,
-        "compliance_fines": 518.78,
+        "compliance_fines": 515.54,
         "deductions": 61.74,
         "forgone_revenue": 386.33
       },
       {
         "month": "2025-08",
         "chargebacks": 190.0,
-        "compliance_fines": 257.92,
+        "compliance_fines": 256.3,
         "deductions": 59.96,
         "forgone_revenue": 486.99
       },
@@ -4607,30 +4339,298 @@
       {
         "month": "2025-10",
         "chargebacks": 100.0,
-        "compliance_fines": 266.0,
+        "compliance_fines": 257.9,
         "deductions": 68.98,
         "forgone_revenue": 227.73
       },
       {
         "month": "2025-11",
         "chargebacks": 147.17,
-        "compliance_fines": 546.02,
+        "compliance_fines": 536.3,
         "deductions": 69.76,
         "forgone_revenue": 554.53
       },
       {
         "month": "2025-12",
         "chargebacks": 250.0,
-        "compliance_fines": 35.03,
+        "compliance_fines": 20.45,
         "deductions": 126.82,
         "forgone_revenue": 632.51
       },
       {
         "month": "2026-01",
         "chargebacks": 50.0,
-        "compliance_fines": 12.96,
+        "compliance_fines": 3.24,
         "deductions": 9.24,
         "forgone_revenue": 123.66
+      }
+    ]
+  },
+  {
+    "sku": "CHP-SB-010",
+    "product_name": "Tahini Date Energy Bites",
+    "product_line": "Snack Bites",
+    "total_cost": 19910.0,
+    "by_dimension": {
+      "chargebacks": 1870.69,
+      "compliance_fines": 4137.44,
+      "deductions": 2094.45,
+      "forgone_revenue": 11807.42
+    },
+    "by_retailer": {
+      "Costco": 5505.23,
+      "DPI Northwest": 670.42,
+      "KeHE": 944.97,
+      "Kroger": 3045.14,
+      "Regional": 701.33,
+      "Sprouts": 2158.39,
+      "UNFI": 966.36,
+      "Walmart": 3424.31,
+      "Whole Foods": 2493.85
+    },
+    "by_month": [
+      {
+        "month": "2023-01",
+        "compliance_fines": 256.43,
+        "forgone_revenue": 139.74
+      },
+      {
+        "month": "2023-02",
+        "chargebacks": 150.0,
+        "compliance_fines": 10.28,
+        "deductions": 26.94,
+        "forgone_revenue": 373.7
+      },
+      {
+        "month": "2023-03",
+        "chargebacks": 50.0,
+        "compliance_fines": 14.86,
+        "deductions": 51.8,
+        "forgone_revenue": 190.35
+      },
+      {
+        "month": "2023-04",
+        "chargebacks": 180.0,
+        "compliance_fines": 509.09,
+        "deductions": 40.78,
+        "forgone_revenue": 306.46
+      },
+      {
+        "month": "2023-05",
+        "compliance_fines": 255.13,
+        "deductions": 71.72,
+        "forgone_revenue": 244.43
+      },
+      {
+        "month": "2023-06",
+        "compliance_fines": 5.56,
+        "deductions": 44.4,
+        "forgone_revenue": 245.83
+      },
+      {
+        "month": "2023-07",
+        "chargebacks": 50.0,
+        "compliance_fines": 256.44,
+        "deductions": 36.25,
+        "forgone_revenue": 132.94
+      },
+      {
+        "month": "2023-08",
+        "chargebacks": 110.69,
+        "compliance_fines": 20.7,
+        "deductions": 52.86,
+        "forgone_revenue": 617.95
+      },
+      {
+        "month": "2023-09",
+        "compliance_fines": 9.11,
+        "deductions": 90.11,
+        "forgone_revenue": 119.84
+      },
+      {
+        "month": "2023-10",
+        "compliance_fines": 6.17,
+        "deductions": 45.99,
+        "forgone_revenue": 92.86
+      },
+      {
+        "month": "2023-11",
+        "compliance_fines": 14.91,
+        "deductions": 66.58,
+        "forgone_revenue": 615.17
+      },
+      {
+        "month": "2023-12",
+        "chargebacks": 50.0,
+        "compliance_fines": 259.11,
+        "deductions": 66.1,
+        "forgone_revenue": 393.35
+      },
+      {
+        "month": "2024-01",
+        "compliance_fines": 5.72,
+        "deductions": 99.91,
+        "forgone_revenue": 658.05
+      },
+      {
+        "month": "2024-02",
+        "chargebacks": 50.0,
+        "compliance_fines": 5.55,
+        "deductions": 54.09,
+        "forgone_revenue": 146.35
+      },
+      {
+        "month": "2024-03",
+        "compliance_fines": 11.11,
+        "deductions": 20.31,
+        "forgone_revenue": 209.04
+      },
+      {
+        "month": "2024-04",
+        "chargebacks": 50.0,
+        "compliance_fines": 9.19,
+        "deductions": 39.55,
+        "forgone_revenue": 89.76
+      },
+      {
+        "month": "2024-05",
+        "chargebacks": 50.0,
+        "compliance_fines": 2.88,
+        "deductions": 75.76,
+        "forgone_revenue": 166.61
+      },
+      {
+        "month": "2024-06",
+        "chargebacks": 50.0,
+        "compliance_fines": 14.69,
+        "deductions": 27.31,
+        "forgone_revenue": 314.66
+      },
+      {
+        "month": "2024-07",
+        "chargebacks": 100.0,
+        "compliance_fines": 515.97,
+        "deductions": 56.28,
+        "forgone_revenue": 401.24
+      },
+      {
+        "month": "2024-08",
+        "chargebacks": 150.0,
+        "compliance_fines": 12.51,
+        "deductions": 66.24,
+        "forgone_revenue": 336.52
+      },
+      {
+        "month": "2024-09",
+        "chargebacks": 50.0,
+        "compliance_fines": 3.18,
+        "deductions": 53.24,
+        "forgone_revenue": 170.1
+      },
+      {
+        "month": "2024-10",
+        "chargebacks": 50.0,
+        "compliance_fines": 274.76,
+        "deductions": 62.88,
+        "forgone_revenue": 789.74
+      },
+      {
+        "month": "2024-11",
+        "chargebacks": 140.0,
+        "compliance_fines": 33.11,
+        "deductions": 68.83,
+        "forgone_revenue": 723.79
+      },
+      {
+        "month": "2024-12",
+        "chargebacks": 100.0,
+        "compliance_fines": 269.25,
+        "deductions": 128.58,
+        "forgone_revenue": 953.11
+      },
+      {
+        "month": "2025-01",
+        "chargebacks": 100.0,
+        "compliance_fines": 251.44,
+        "deductions": 109.03,
+        "forgone_revenue": 246.44
+      },
+      {
+        "month": "2025-02",
+        "compliance_fines": 5.55,
+        "deductions": 101.59,
+        "forgone_revenue": 62.56
+      },
+      {
+        "month": "2025-03",
+        "chargebacks": 50.0,
+        "compliance_fines": 5.99,
+        "deductions": 23.43,
+        "forgone_revenue": 192.48
+      },
+      {
+        "month": "2025-04",
+        "chargebacks": 50.0,
+        "compliance_fines": 22.23,
+        "deductions": 27.88,
+        "forgone_revenue": 321.93
+      },
+      {
+        "month": "2025-05",
+        "chargebacks": 100.0,
+        "compliance_fines": 259.95,
+        "deductions": 83.52,
+        "forgone_revenue": 246.11
+      },
+      {
+        "month": "2025-06",
+        "compliance_fines": 6.59,
+        "deductions": 80.15,
+        "forgone_revenue": 223.52
+      },
+      {
+        "month": "2025-07",
+        "compliance_fines": 261.27,
+        "deductions": 38.41,
+        "forgone_revenue": 785.84
+      },
+      {
+        "month": "2025-08",
+        "compliance_fines": 8.15,
+        "deductions": 50.34,
+        "forgone_revenue": 123.89
+      },
+      {
+        "month": "2025-09",
+        "compliance_fines": 2.62,
+        "deductions": 40.08,
+        "forgone_revenue": 37.35
+      },
+      {
+        "month": "2025-10",
+        "compliance_fines": 254.47,
+        "deductions": 40.22,
+        "forgone_revenue": 211.92
+      },
+      {
+        "month": "2025-11",
+        "chargebacks": 50.0,
+        "compliance_fines": 10.19,
+        "deductions": 52.83,
+        "forgone_revenue": 320.77
+      },
+      {
+        "month": "2025-12",
+        "chargebacks": 140.0,
+        "compliance_fines": 270.48,
+        "deductions": 97.46,
+        "forgone_revenue": 579.02
+      },
+      {
+        "month": "2026-01",
+        "compliance_fines": 2.79,
+        "deductions": 2.99,
+        "forgone_revenue": 24.0
       }
     ]
   },
@@ -4638,10 +4638,10 @@
     "sku": "CHP-PS-010",
     "product_name": "Raw Agave Nectar",
     "product_line": "Pantry Staples",
-    "total_cost": 19613.94,
+    "total_cost": 19422.71,
     "by_dimension": {
       "chargebacks": 2981.23,
-      "compliance_fines": 3807.94,
+      "compliance_fines": 3616.71,
       "deductions": 1922.15,
       "forgone_revenue": 10902.62
     },
@@ -4653,7 +4653,7 @@
       "Regional": 910.85,
       "Sprouts": 1953.98,
       "UNFI": 1551.45,
-      "Walmart": 3386.06,
+      "Walmart": 3194.83,
       "Whole Foods": 1883.48
     },
     "by_month": [
@@ -4671,88 +4671,88 @@
       },
       {
         "month": "2023-03",
-        "compliance_fines": 13.03,
+        "compliance_fines": 4.82,
         "deductions": 23.37,
         "forgone_revenue": 113.97
       },
       {
         "month": "2023-04",
         "chargebacks": 50.0,
-        "compliance_fines": 15.06,
+        "compliance_fines": 6.71,
         "deductions": 57.07,
         "forgone_revenue": 119.48
       },
       {
         "month": "2023-05",
         "chargebacks": 100.0,
-        "compliance_fines": 259.07,
+        "compliance_fines": 257.2,
         "deductions": 62.57,
         "forgone_revenue": 200.69
       },
       {
         "month": "2023-06",
         "chargebacks": 100.0,
-        "compliance_fines": 256.47,
+        "compliance_fines": 253.16,
         "deductions": 50.28,
         "forgone_revenue": 304.26
       },
       {
         "month": "2023-07",
         "chargebacks": 100.0,
-        "compliance_fines": 19.96,
+        "compliance_fines": 10.02,
         "deductions": 45.11,
         "forgone_revenue": 496.91
       },
       {
         "month": "2023-08",
         "chargebacks": 50.0,
-        "compliance_fines": 271.36,
+        "compliance_fines": 266.46,
         "deductions": 51.3,
         "forgone_revenue": 230.17
       },
       {
         "month": "2023-09",
         "chargebacks": 150.0,
-        "compliance_fines": 19.66,
+        "compliance_fines": 8.0,
         "deductions": 70.76,
         "forgone_revenue": 229.95
       },
       {
         "month": "2023-10",
-        "compliance_fines": 23.52,
+        "compliance_fines": 15.31,
         "deductions": 53.39,
         "forgone_revenue": 226.79
       },
       {
         "month": "2023-11",
         "chargebacks": 150.0,
-        "compliance_fines": 29.19,
+        "compliance_fines": 24.15,
         "deductions": 55.74,
         "forgone_revenue": 572.65
       },
       {
         "month": "2023-12",
         "chargebacks": 90.0,
-        "compliance_fines": 280.81,
+        "compliance_fines": 274.18,
         "deductions": 65.48,
         "forgone_revenue": 752.82
       },
       {
         "month": "2024-01",
-        "compliance_fines": 258.86,
+        "compliance_fines": 257.13,
         "deductions": 90.5,
         "forgone_revenue": 253.94
       },
       {
         "month": "2024-02",
         "chargebacks": 50.0,
-        "compliance_fines": 3.82,
+        "compliance_fines": 2.09,
         "deductions": 56.68,
         "forgone_revenue": 102.63
       },
       {
         "month": "2024-03",
-        "compliance_fines": 3.17,
+        "compliance_fines": 1.44,
         "deductions": 36.98,
         "forgone_revenue": 40.9
       },
@@ -4766,7 +4766,7 @@
       {
         "month": "2024-05",
         "chargebacks": 90.0,
-        "compliance_fines": 4.03,
+        "compliance_fines": 2.3,
         "deductions": 37.09,
         "forgone_revenue": 284.0
       },
@@ -4779,47 +4779,47 @@
       {
         "month": "2024-07",
         "chargebacks": 100.0,
-        "compliance_fines": 8.65,
+        "compliance_fines": 5.33,
         "deductions": 36.56,
         "forgone_revenue": 168.43
       },
       {
         "month": "2024-08",
         "chargebacks": 50.0,
-        "compliance_fines": 15.23,
+        "compliance_fines": 11.63,
         "deductions": 57.48,
         "forgone_revenue": 243.92
       },
       {
         "month": "2024-09",
         "chargebacks": 50.0,
-        "compliance_fines": 255.58,
+        "compliance_fines": 253.85,
         "deductions": 56.82,
         "forgone_revenue": 333.26
       },
       {
         "month": "2024-10",
-        "compliance_fines": 257.92,
+        "compliance_fines": 252.88,
         "deductions": 54.69,
         "forgone_revenue": 74.72
       },
       {
         "month": "2024-11",
         "chargebacks": 390.0,
-        "compliance_fines": 42.2,
+        "compliance_fines": 28.66,
         "deductions": 21.92,
         "forgone_revenue": 813.02
       },
       {
         "month": "2024-12",
         "chargebacks": 440.0,
-        "compliance_fines": 527.31,
+        "compliance_fines": 519.1,
         "deductions": 145.48,
         "forgone_revenue": 665.82
       },
       {
         "month": "2025-01",
-        "compliance_fines": 5.22,
+        "compliance_fines": 1.9,
         "deductions": 112.49,
         "forgone_revenue": 200.88
       },
@@ -4833,69 +4833,69 @@
       {
         "month": "2025-03",
         "chargebacks": 150.0,
-        "compliance_fines": 280.96,
+        "compliance_fines": 269.58,
         "deductions": 35.35,
         "forgone_revenue": 203.7
       },
       {
         "month": "2025-04",
         "chargebacks": 82.74,
-        "compliance_fines": 23.15,
+        "compliance_fines": 21.13,
         "deductions": 62.29,
         "forgone_revenue": 652.4
       },
       {
         "month": "2025-05",
         "chargebacks": 50.0,
-        "compliance_fines": 13.66,
+        "compliance_fines": 8.76,
         "deductions": 34.96,
         "forgone_revenue": 190.56
       },
       {
         "month": "2025-06",
         "chargebacks": 58.49,
-        "compliance_fines": 33.15,
+        "compliance_fines": 24.94,
         "deductions": 43.31,
         "forgone_revenue": 474.15
       },
       {
         "month": "2025-07",
         "chargebacks": 50.0,
-        "compliance_fines": 10.37,
+        "compliance_fines": 7.06,
         "deductions": 54.77,
         "forgone_revenue": 188.27
       },
       {
         "month": "2025-08",
-        "compliance_fines": 257.22,
+        "compliance_fines": 252.32,
         "deductions": 51.52,
         "forgone_revenue": 150.24
       },
       {
         "month": "2025-09",
         "chargebacks": 100.0,
-        "compliance_fines": 11.51,
+        "compliance_fines": 6.47,
         "deductions": 34.85,
         "forgone_revenue": 201.24
       },
       {
         "month": "2025-10",
         "chargebacks": 100.0,
-        "compliance_fines": 11.97,
+        "compliance_fines": 7.07,
         "deductions": 63.34,
         "forgone_revenue": 326.17
       },
       {
         "month": "2025-11",
         "chargebacks": 100.0,
-        "compliance_fines": 291.37,
+        "compliance_fines": 268.48,
         "deductions": 42.55,
         "forgone_revenue": 437.64
       },
       {
         "month": "2025-12",
         "chargebacks": 150.0,
-        "compliance_fines": 30.97,
+        "compliance_fines": 21.04,
         "deductions": 112.97,
         "forgone_revenue": 541.62
       },
@@ -4911,10 +4911,10 @@
     "sku": "CHP-DG-002",
     "product_name": "Quinoa Medley",
     "product_line": "Dried Goods",
-    "total_cost": 19360.39,
+    "total_cost": 19219.45,
     "by_dimension": {
       "chargebacks": 2636.71,
-      "compliance_fines": 3543.53,
+      "compliance_fines": 3402.59,
       "deductions": 1877.97,
       "forgone_revenue": 11302.18
     },
@@ -4926,7 +4926,7 @@
       "Regional": 1749.79,
       "Sprouts": 1477.77,
       "UNFI": 775.22,
-      "Walmart": 3862.73,
+      "Walmart": 3721.79,
       "Whole Foods": 2481.34
     },
     "by_month": [
@@ -4938,114 +4938,114 @@
       {
         "month": "2023-02",
         "chargebacks": 100.0,
-        "compliance_fines": 515.29,
+        "compliance_fines": 506.92,
         "deductions": 17.16,
         "forgone_revenue": 289.36
       },
       {
         "month": "2023-03",
         "chargebacks": 100.0,
-        "compliance_fines": 518.59,
+        "compliance_fines": 510.22,
         "deductions": 33.03,
         "forgone_revenue": 292.3
       },
       {
         "month": "2023-04",
-        "compliance_fines": 4.32,
+        "compliance_fines": 1.53,
         "deductions": 80.7,
         "forgone_revenue": 96.97
       },
       {
         "month": "2023-05",
         "chargebacks": 40.0,
-        "compliance_fines": 26.94,
+        "compliance_fines": 23.25,
         "deductions": 49.18,
         "forgone_revenue": 589.79
       },
       {
         "month": "2023-06",
-        "compliance_fines": 5.76,
+        "compliance_fines": 1.53,
         "deductions": 55.81,
         "forgone_revenue": 87.04
       },
       {
         "month": "2023-07",
-        "compliance_fines": 13.04,
+        "compliance_fines": 10.43,
         "deductions": 41.89,
         "forgone_revenue": 102.38
       },
       {
         "month": "2023-08",
         "chargebacks": 100.0,
-        "compliance_fines": 273.58,
+        "compliance_fines": 265.75,
         "deductions": 40.29,
         "forgone_revenue": 382.77
       },
       {
         "month": "2023-09",
         "chargebacks": 50.0,
-        "compliance_fines": 6.64,
+        "compliance_fines": 3.94,
         "deductions": 53.44,
         "forgone_revenue": 243.65
       },
       {
         "month": "2023-10",
         "chargebacks": 100.0,
-        "compliance_fines": 12.57,
+        "compliance_fines": 12.66,
         "deductions": 57.81,
         "forgone_revenue": 176.22
       },
       {
         "month": "2023-11",
         "chargebacks": 200.0,
-        "compliance_fines": 298.52,
+        "compliance_fines": 281.6,
         "deductions": 29.6,
         "forgone_revenue": 780.45
       },
       {
         "month": "2023-12",
         "chargebacks": 90.0,
-        "compliance_fines": 273.77,
+        "compliance_fines": 272.42,
         "deductions": 64.4,
         "forgone_revenue": 347.86
       },
       {
         "month": "2024-01",
         "chargebacks": 50.0,
-        "compliance_fines": 11.56,
+        "compliance_fines": 8.86,
         "deductions": 105.66,
         "forgone_revenue": 103.37
       },
       {
         "month": "2024-02",
-        "compliance_fines": 8.64,
+        "compliance_fines": 3.06,
         "deductions": 65.23,
         "forgone_revenue": 137.21
       },
       {
         "month": "2024-03",
         "chargebacks": 200.0,
-        "compliance_fines": 259.17,
+        "compliance_fines": 253.59,
         "deductions": 24.22,
         "forgone_revenue": 351.88
       },
       {
         "month": "2024-04",
         "chargebacks": 50.0,
-        "compliance_fines": 5.76,
+        "compliance_fines": 3.06,
         "deductions": 31.87,
         "forgone_revenue": 112.9
       },
       {
         "month": "2024-05",
-        "compliance_fines": 6.49,
+        "compliance_fines": 3.7,
         "deductions": 44.79,
         "forgone_revenue": 201.94
       },
       {
         "month": "2024-06",
         "chargebacks": 100.0,
-        "compliance_fines": 10.48,
+        "compliance_fines": 9.13,
         "deductions": 16.1,
         "forgone_revenue": 180.67
       },
@@ -5058,35 +5058,35 @@
       {
         "month": "2024-08",
         "chargebacks": 50.0,
-        "compliance_fines": 10.76,
+        "compliance_fines": 8.06,
         "deductions": 35.33,
         "forgone_revenue": 180.71
       },
       {
         "month": "2024-09",
         "chargebacks": 50.0,
-        "compliance_fines": 31.39,
+        "compliance_fines": 23.11,
         "deductions": 46.63,
         "forgone_revenue": 339.02
       },
       {
         "month": "2024-10",
         "chargebacks": 100.0,
-        "compliance_fines": 11.7,
+        "compliance_fines": 9.0,
         "deductions": 60.07,
         "forgone_revenue": 293.21
       },
       {
         "month": "2024-11",
         "chargebacks": 150.0,
-        "compliance_fines": 302.91,
+        "compliance_fines": 293.1,
         "deductions": 51.95,
         "forgone_revenue": 966.76
       },
       {
         "month": "2024-12",
         "chargebacks": 150.0,
-        "compliance_fines": 27.51,
+        "compliance_fines": 28.41,
         "deductions": 183.38,
         "forgone_revenue": 1075.95
       },
@@ -5118,14 +5118,14 @@
       {
         "month": "2025-05",
         "chargebacks": 100.0,
-        "compliance_fines": 13.41,
+        "compliance_fines": 7.83,
         "deductions": 36.39,
         "forgone_revenue": 241.26
       },
       {
         "month": "2025-06",
         "chargebacks": 100.0,
-        "compliance_fines": 9.88,
+        "compliance_fines": 7.09,
         "deductions": 60.58,
         "forgone_revenue": 212.92
       },
@@ -5138,41 +5138,41 @@
       {
         "month": "2025-08",
         "chargebacks": 50.0,
-        "compliance_fines": 9.29,
+        "compliance_fines": 3.71,
         "deductions": 48.85,
         "forgone_revenue": 194.69
       },
       {
         "month": "2025-09",
         "chargebacks": 100.0,
-        "compliance_fines": 6.7,
+        "compliance_fines": 2.47,
         "deductions": 35.81,
         "forgone_revenue": 101.25
       },
       {
         "month": "2025-10",
         "chargebacks": 50.0,
-        "compliance_fines": 267.17,
+        "compliance_fines": 258.89,
         "deductions": 50.37,
         "forgone_revenue": 206.87
       },
       {
         "month": "2025-11",
         "chargebacks": 300.0,
-        "compliance_fines": 32.57,
+        "compliance_fines": 25.55,
         "deductions": 39.28,
         "forgone_revenue": 907.33
       },
       {
         "month": "2025-12",
         "chargebacks": 90.0,
-        "compliance_fines": 277.33,
+        "compliance_fines": 274.72,
         "deductions": 97.43,
         "forgone_revenue": 533.26
       },
       {
         "month": "2026-01",
-        "compliance_fines": 4.32,
+        "compliance_fines": 1.53,
         "deductions": 10.47,
         "forgone_revenue": 21.25
       }
@@ -5182,10 +5182,10 @@
     "sku": "CHP-SC-010",
     "product_name": "Lemon Curd",
     "product_line": "Specialty Condiments",
-    "total_cost": 19242.55,
+    "total_cost": 19160.42,
     "by_dimension": {
       "chargebacks": 2137.49,
-      "compliance_fines": 3900.18,
+      "compliance_fines": 3818.04,
       "deductions": 1699.33,
       "forgone_revenue": 11505.56
     },
@@ -5197,7 +5197,7 @@
       "Regional": 605.34,
       "Sprouts": 1859.12,
       "UNFI": 708.88,
-      "Walmart": 3820.1,
+      "Walmart": 3737.97,
       "Whole Foods": 2040.56
     },
     "by_month": [
@@ -5211,48 +5211,48 @@
       {
         "month": "2023-02",
         "chargebacks": 150.0,
-        "compliance_fines": 6.84,
+        "compliance_fines": 11.05,
         "deductions": 23.89,
         "forgone_revenue": 405.48
       },
       {
         "month": "2023-03",
         "chargebacks": 50.0,
-        "compliance_fines": 12.94,
+        "compliance_fines": 9.26,
         "deductions": 36.2,
         "forgone_revenue": 250.32
       },
       {
         "month": "2023-04",
         "chargebacks": 50.0,
-        "compliance_fines": 7.78,
+        "compliance_fines": 2.7,
         "deductions": 28.27,
         "forgone_revenue": 73.84
       },
       {
         "month": "2023-05",
         "chargebacks": 50.0,
-        "compliance_fines": 515.26,
+        "compliance_fines": 515.32,
         "deductions": 56.89,
         "forgone_revenue": 308.43
       },
       {
         "month": "2023-06",
         "chargebacks": 50.0,
-        "compliance_fines": 11.22,
+        "compliance_fines": 6.14,
         "deductions": 73.81,
         "forgone_revenue": 216.69
       },
       {
         "month": "2023-07",
-        "compliance_fines": 14.21,
+        "compliance_fines": 11.67,
         "deductions": 26.77,
         "forgone_revenue": 267.65
       },
       {
         "month": "2023-08",
         "chargebacks": 50.0,
-        "compliance_fines": 12.96,
+        "compliance_fines": 4.05,
         "deductions": 55.57,
         "forgone_revenue": 101.95
       },
@@ -5265,41 +5265,41 @@
       {
         "month": "2023-10",
         "chargebacks": 150.0,
-        "compliance_fines": 513.02,
+        "compliance_fines": 510.53,
         "deductions": 25.38,
         "forgone_revenue": 403.24
       },
       {
         "month": "2023-11",
         "chargebacks": 100.0,
-        "compliance_fines": 275.93,
+        "compliance_fines": 262.05,
         "deductions": 69.81,
         "forgone_revenue": 342.38
       },
       {
         "month": "2023-12",
         "chargebacks": 150.0,
-        "compliance_fines": 36.31,
+        "compliance_fines": 29.99,
         "deductions": 67.32,
         "forgone_revenue": 744.26
       },
       {
         "month": "2024-01",
-        "compliance_fines": 5.58,
+        "compliance_fines": 5.63,
         "deductions": 114.79,
         "forgone_revenue": 75.53
       },
       {
         "month": "2024-02",
         "chargebacks": 50.0,
-        "compliance_fines": 4.42,
+        "compliance_fines": 3.17,
         "deductions": 26.79,
         "forgone_revenue": 138.54
       },
       {
         "month": "2024-03",
         "chargebacks": 50.0,
-        "compliance_fines": 12.22,
+        "compliance_fines": 5.85,
         "deductions": 35.29,
         "forgone_revenue": 170.84
       },
@@ -5317,55 +5317,55 @@
       },
       {
         "month": "2024-06",
-        "compliance_fines": 9.02,
+        "compliance_fines": 6.48,
         "deductions": 22.95,
         "forgone_revenue": 147.82
       },
       {
         "month": "2024-07",
         "chargebacks": 50.0,
-        "compliance_fines": 5.21,
+        "compliance_fines": 3.97,
         "deductions": 45.58,
         "forgone_revenue": 135.23
       },
       {
         "month": "2024-08",
         "chargebacks": 163.67,
-        "compliance_fines": 268.05,
+        "compliance_fines": 277.88,
         "deductions": 45.99,
         "forgone_revenue": 1075.09
       },
       {
         "month": "2024-09",
-        "compliance_fines": 8.67,
+        "compliance_fines": 3.6,
         "deductions": 72.25,
         "forgone_revenue": 165.45
       },
       {
         "month": "2024-10",
         "chargebacks": 50.0,
-        "compliance_fines": 13.84,
+        "compliance_fines": 10.01,
         "deductions": 28.02,
         "forgone_revenue": 266.93
       },
       {
         "month": "2024-11",
         "chargebacks": 50.0,
-        "compliance_fines": 262.98,
+        "compliance_fines": 254.02,
         "deductions": 28.11,
         "forgone_revenue": 1280.8
       },
       {
         "month": "2024-12",
         "chargebacks": 90.0,
-        "compliance_fines": 23.05,
+        "compliance_fines": 15.6,
         "deductions": 117.55,
         "forgone_revenue": 599.6
       },
       {
         "month": "2025-01",
         "chargebacks": 50.0,
-        "compliance_fines": 252.59,
+        "compliance_fines": 251.35,
         "deductions": 80.83,
         "forgone_revenue": 142.3
       },
@@ -5378,14 +5378,14 @@
       {
         "month": "2025-03",
         "chargebacks": 40.0,
-        "compliance_fines": 13.92,
+        "compliance_fines": 10.08,
         "deductions": 48.48,
         "forgone_revenue": 223.01
       },
       {
         "month": "2025-04",
         "chargebacks": 100.0,
-        "compliance_fines": 1.8,
+        "compliance_fines": 3.21,
         "deductions": 36.32,
         "forgone_revenue": 185.57
       },
@@ -5397,7 +5397,7 @@
       {
         "month": "2025-06",
         "chargebacks": 103.82,
-        "compliance_fines": 9.71,
+        "compliance_fines": 9.77,
         "deductions": 56.16,
         "forgone_revenue": 522.74
       },
@@ -5417,27 +5417,27 @@
       {
         "month": "2025-09",
         "chargebacks": 50.0,
-        "compliance_fines": 256.74,
+        "compliance_fines": 254.2,
         "deductions": 23.52,
         "forgone_revenue": 161.47
       },
       {
         "month": "2025-10",
-        "compliance_fines": 262.96,
+        "compliance_fines": 267.55,
         "deductions": 37.71,
         "forgone_revenue": 641.6
       },
       {
         "month": "2025-11",
         "chargebacks": 50.0,
-        "compliance_fines": 270.32,
+        "compliance_fines": 265.24,
         "deductions": 31.47,
         "forgone_revenue": 426.55
       },
       {
         "month": "2025-12",
         "chargebacks": 240.0,
-        "compliance_fines": 274.96,
+        "compliance_fines": 270.0,
         "deductions": 57.84,
         "forgone_revenue": 850.05
       },
@@ -5453,10 +5453,10 @@
     "sku": "Other",
     "product_name": "Other (30 SKUs)",
     "product_line": "Other",
-    "total_cost": 441323.48,
+    "total_cost": 439147.66,
     "by_dimension": {
       "chargebacks": 58031.83,
-      "compliance_fines": 75299.83,
+      "compliance_fines": 73124.01,
       "deductions": 46109.14,
       "forgone_revenue": 261882.68
     },
@@ -5468,266 +5468,266 @@
       "Regional": 23460.15,
       "Sprouts": 42670.83,
       "UNFI": 33248.57,
-      "Walmart": 84125.84,
+      "Walmart": 81950.02,
       "Whole Foods": 45397.38
     },
     "by_month": [
       {
         "month": "2023-01",
         "chargebacks": 520.0,
-        "compliance_fines": 896.06,
+        "compliance_fines": 874.26,
         "deductions": 24.29,
         "forgone_revenue": 3815.6
       },
       {
         "month": "2023-02",
         "chargebacks": 1237.4,
-        "compliance_fines": 748.97,
+        "compliance_fines": 698.05,
         "deductions": 641.12,
         "forgone_revenue": 4966.36
       },
       {
         "month": "2023-03",
         "chargebacks": 941.98,
-        "compliance_fines": 503.02,
+        "compliance_fines": 437.65,
         "deductions": 1023.4,
         "forgone_revenue": 4698.17
       },
       {
         "month": "2023-04",
         "chargebacks": 1418.26,
-        "compliance_fines": 925.0,
+        "compliance_fines": 868.5,
         "deductions": 1078.17,
         "forgone_revenue": 4275.73
       },
       {
         "month": "2023-05",
         "chargebacks": 1452.17,
-        "compliance_fines": 1522.58,
+        "compliance_fines": 1461.13,
         "deductions": 1123.36,
         "forgone_revenue": 6845.72
       },
       {
         "month": "2023-06",
         "chargebacks": 1090.0,
-        "compliance_fines": 1435.0,
+        "compliance_fines": 1405.26,
         "deductions": 1084.65,
         "forgone_revenue": 5092.77
       },
       {
         "month": "2023-07",
         "chargebacks": 1420.0,
-        "compliance_fines": 1257.68,
+        "compliance_fines": 1201.02,
         "deductions": 1077.49,
         "forgone_revenue": 4436.98
       },
       {
         "month": "2023-08",
         "chargebacks": 1370.0,
-        "compliance_fines": 1688.16,
+        "compliance_fines": 1653.37,
         "deductions": 1119.59,
         "forgone_revenue": 5448.87
       },
       {
         "month": "2023-09",
         "chargebacks": 1040.0,
-        "compliance_fines": 2009.5,
+        "compliance_fines": 1947.01,
         "deductions": 993.95,
         "forgone_revenue": 5735.21
       },
       {
         "month": "2023-10",
         "chargebacks": 1355.75,
-        "compliance_fines": 2825.32,
+        "compliance_fines": 2751.29,
         "deductions": 1288.74,
         "forgone_revenue": 6696.2
       },
       {
         "month": "2023-11",
         "chargebacks": 2639.66,
-        "compliance_fines": 3786.85,
+        "compliance_fines": 3760.03,
         "deductions": 1410.02,
         "forgone_revenue": 13503.47
       },
       {
         "month": "2023-12",
         "chargebacks": 2887.17,
-        "compliance_fines": 4310.95,
+        "compliance_fines": 4222.45,
         "deductions": 2397.22,
         "forgone_revenue": 14667.88
       },
       {
         "month": "2024-01",
         "chargebacks": 1570.0,
-        "compliance_fines": 1426.46,
+        "compliance_fines": 1338.51,
         "deductions": 2351.81,
         "forgone_revenue": 6640.42
       },
       {
         "month": "2024-02",
         "chargebacks": 870.0,
-        "compliance_fines": 941.53,
+        "compliance_fines": 914.59,
         "deductions": 1382.03,
         "forgone_revenue": 4326.37
       },
       {
         "month": "2024-03",
         "chargebacks": 1284.78,
-        "compliance_fines": 706.48,
+        "compliance_fines": 663.55,
         "deductions": 838.83,
         "forgone_revenue": 5455.08
       },
       {
         "month": "2024-04",
         "chargebacks": 1100.34,
-        "compliance_fines": 1983.99,
+        "compliance_fines": 1954.4,
         "deductions": 782.33,
         "forgone_revenue": 6233.11
       },
       {
         "month": "2024-05",
         "chargebacks": 1493.9,
-        "compliance_fines": 1307.15,
+        "compliance_fines": 1240.74,
         "deductions": 1041.39,
         "forgone_revenue": 8021.69
       },
       {
         "month": "2024-06",
         "chargebacks": 930.0,
-        "compliance_fines": 1481.74,
+        "compliance_fines": 1444.06,
         "deductions": 1067.31,
         "forgone_revenue": 3766.81
       },
       {
         "month": "2024-07",
         "chargebacks": 1489.57,
-        "compliance_fines": 1515.08,
+        "compliance_fines": 1465.36,
         "deductions": 901.74,
         "forgone_revenue": 6683.2
       },
       {
         "month": "2024-08",
         "chargebacks": 1848.57,
-        "compliance_fines": 1522.58,
+        "compliance_fines": 1479.07,
         "deductions": 1062.49,
         "forgone_revenue": 6179.8
       },
       {
         "month": "2024-09",
         "chargebacks": 1680.32,
-        "compliance_fines": 1597.2,
+        "compliance_fines": 1482.56,
         "deductions": 1208.96,
         "forgone_revenue": 7323.28
       },
       {
         "month": "2024-10",
         "chargebacks": 1656.19,
-        "compliance_fines": 2752.06,
+        "compliance_fines": 2698.22,
         "deductions": 1357.83,
         "forgone_revenue": 5706.68
       },
       {
         "month": "2024-11",
         "chargebacks": 2433.11,
-        "compliance_fines": 5145.86,
+        "compliance_fines": 5006.34,
         "deductions": 1430.9,
         "forgone_revenue": 14880.54
       },
       {
         "month": "2024-12",
         "chargebacks": 3995.1,
-        "compliance_fines": 4406.83,
+        "compliance_fines": 4307.05,
         "deductions": 2439.05,
         "forgone_revenue": 14873.56
       },
       {
         "month": "2025-01",
         "chargebacks": 1485.15,
-        "compliance_fines": 2419.21,
+        "compliance_fines": 2387.84,
         "deductions": 2504.91,
         "forgone_revenue": 6203.41
       },
       {
         "month": "2025-02",
         "chargebacks": 1495.41,
-        "compliance_fines": 678.06,
+        "compliance_fines": 641.73,
         "deductions": 1550.29,
         "forgone_revenue": 4664.9
       },
       {
         "month": "2025-03",
         "chargebacks": 1000.0,
-        "compliance_fines": 733.7,
+        "compliance_fines": 701.48,
         "deductions": 1071.49,
         "forgone_revenue": 5447.88
       },
       {
         "month": "2025-04",
         "chargebacks": 1330.0,
-        "compliance_fines": 2758.34,
+        "compliance_fines": 2664.02,
         "deductions": 1052.76,
         "forgone_revenue": 4654.44
       },
       {
         "month": "2025-05",
         "chargebacks": 890.0,
-        "compliance_fines": 2768.25,
+        "compliance_fines": 2710.67,
         "deductions": 1029.49,
         "forgone_revenue": 5979.87
       },
       {
         "month": "2025-06",
         "chargebacks": 1138.17,
-        "compliance_fines": 2237.77,
+        "compliance_fines": 2211.83,
         "deductions": 1151.45,
         "forgone_revenue": 5057.13
       },
       {
         "month": "2025-07",
         "chargebacks": 1323.48,
-        "compliance_fines": 2040.33,
+        "compliance_fines": 2003.82,
         "deductions": 1053.08,
         "forgone_revenue": 6446.88
       },
       {
         "month": "2025-08",
         "chargebacks": 1449.33,
-        "compliance_fines": 2531.16,
+        "compliance_fines": 2459.97,
         "deductions": 1167.46,
         "forgone_revenue": 6730.18
       },
       {
         "month": "2025-09",
         "chargebacks": 1589.29,
-        "compliance_fines": 760.31,
+        "compliance_fines": 695.64,
         "deductions": 1402.99,
         "forgone_revenue": 6000.93
       },
       {
         "month": "2025-10",
         "chargebacks": 1467.71,
-        "compliance_fines": 1064.93,
+        "compliance_fines": 998.92,
         "deductions": 1245.16,
         "forgone_revenue": 6187.96
       },
       {
         "month": "2025-11",
         "chargebacks": 3388.47,
-        "compliance_fines": 3643.76,
+        "compliance_fines": 3510.6,
         "deductions": 1301.93,
         "forgone_revenue": 13333.88
       },
       {
         "month": "2025-12",
         "chargebacks": 3300.55,
-        "compliance_fines": 6165.19,
+        "compliance_fines": 6078.18,
         "deductions": 2268.38,
         "forgone_revenue": 18642.05
       },
       {
         "month": "2026-01",
         "chargebacks": 450.0,
-        "compliance_fines": 802.79,
+        "compliance_fines": 784.86,
         "deductions": 183.11,
         "forgone_revenue": 2259.67
       }

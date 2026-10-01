@@ -7,8 +7,8 @@
   },
   {
     "dimension": "compliance_fines",
-    "total_cost": 164543.2,
-    "pct_of_shipped": 0.0022,
+    "total_cost": 158068.38,
+    "pct_of_shipped": 0.0021,
     "description": "Contractual OTIF fines applied to real shortfall events. Rates from industry-standard retailer compliance programs."
   },
   {

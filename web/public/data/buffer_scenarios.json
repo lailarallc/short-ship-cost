@@ -3,9 +3,9 @@
     {
       "target_fill_rate": 0.95,
       "achieved_fill_rate": 0.95,
-      "total_cost": 587141.52,
-      "total_recovery": 307032.32,
-      "recovery_pct": 0.3434,
+      "total_cost": 579762.92,
+      "total_recovery": 307936.1,
+      "recovery_pct": 0.3469,
       "by_dimension": {
         "forgone_revenue": {
           "original": 523326.17,
@@ -14,10 +14,10 @@
           "recovery_pct": 0.5673
         },
         "compliance_fines": {
-          "original": 164543.2,
-          "simulated": 154407.02,
-          "recovery": 10136.19,
-          "recovery_pct": 0.0616
+          "original": 158068.38,
+          "simulated": 147028.42,
+          "recovery": 11039.97,
+          "recovery_pct": 0.0698
         },
         "chargebacks": {
           "original": 118813.97,
@@ -36,9 +36,9 @@
     {
       "target_fill_rate": 0.97,
       "achieved_fill_rate": 0.97,
-      "total_cost": 489568.86,
-      "total_recovery": 404604.97,
-      "recovery_pct": 0.4525,
+      "total_cost": 482175.86,
+      "total_recovery": 405523.15,
+      "recovery_pct": 0.4568,
       "by_dimension": {
         "forgone_revenue": {
           "original": 523326.17,
@@ -47,10 +47,10 @@
           "recovery_pct": 0.7515
         },
         "compliance_fines": {
-          "original": 164543.2,
-          "simulated": 153231.1,
-          "recovery": 11312.1,
-          "recovery_pct": 0.0687
+          "original": 158068.38,
+          "simulated": 145838.1,
+          "recovery": 12230.28,
+          "recovery_pct": 0.0774
         },
         "chargebacks": {
           "original": 118813.97,
@@ -69,9 +69,9 @@
     {
       "target_fill_rate": 0.98,
       "achieved_fill_rate": 0.98,
-      "total_cost": 436213.52,
-      "total_recovery": 457960.31,
-      "recovery_pct": 0.5122,
+      "total_cost": 432833.53,
+      "total_recovery": 454865.48,
+      "recovery_pct": 0.5124,
       "by_dimension": {
         "forgone_revenue": {
           "original": 523326.17,
@@ -80,10 +80,10 @@
           "recovery_pct": 0.8403
         },
         "compliance_fines": {
-          "original": 164543.2,
-          "simulated": 146347.34,
-          "recovery": 18195.86,
-          "recovery_pct": 0.1106
+          "original": 158068.38,
+          "simulated": 142967.35,
+          "recovery": 15101.03,
+          "recovery_pct": 0.0955
         },
         "chargebacks": {
           "original": 118813.97,
@@ -102,9 +102,9 @@
     {
       "target_fill_rate": 0.99,
       "achieved_fill_rate": 0.99,
-      "total_cost": 370737.83,
-      "total_recovery": 523436.0,
-      "recovery_pct": 0.5854,
+      "total_cost": 373780.55,
+      "total_recovery": 513918.46,
+      "recovery_pct": 0.5789,
       "by_dimension": {
         "forgone_revenue": {
           "original": 523326.17,
@@ -113,10 +113,10 @@
           "recovery_pct": 0.9261
         },
         "compliance_fines": {
-          "original": 164543.2,
-          "simulated": 125750.0,
-          "recovery": 38793.2,
-          "recovery_pct": 0.2358
+          "original": 158068.38,
+          "simulated": 128792.72,
+          "recovery": 29275.66,
+          "recovery_pct": 0.1852
         },
         "chargebacks": {
           "original": 118813.97,

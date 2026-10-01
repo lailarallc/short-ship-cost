@@ -1,10 +1,10 @@
 {
   "baseline_totals": {
     "forgone_revenue": 523326.17,
-    "compliance_fines": 164543.2,
+    "compliance_fines": 158068.38,
     "chargebacks": 118813.97,
     "deductions": 87490.49,
-    "total": 894173.83
+    "total": 887699.01
   },
   "shipped_revenue": 75543979.99,
   "overall_fill_rate": 0.9931

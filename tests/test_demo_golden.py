@@ -19,9 +19,9 @@ import pytest
 DATA = Path(__file__).resolve().parent.parent / "web" / "public" / "data"
 
 GOLDEN = {
-    "cost_summary": "67ad75dd5aa7a1b2143040e58b09e277a8de841ff28aa3aad8bcd4167b0d61fb",
-    "cost_by_retailer": "2857cf784fea4985a30ecb208a90b5325ad1277f5958f65e46759b8068dc6bb7",
-    "meta": "8f70393bd091d97837a33f815a0d64a8dc0a95ad608aa2e9e73ec89261cf03f7",
+    "cost_summary": "13b877fd90b125b698e9bb7fc5dcb58c31a3099997d0476affcd98ba63b17f03",
+    "cost_by_retailer": "8371f7a3b471c9b3dcfcdbaf407d49e77d744087ccafd7b04919ec5c11a9ed7a",
+    "meta": "ba2960af1378a967dcc19d2ded40d192c50ad47b7fa4162c28cc7dd9be1ec411",
 }
 
 

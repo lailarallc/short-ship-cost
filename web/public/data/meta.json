@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T19:55:14.934123+00:00",
+  "last_updated": "2026-09-30T22:47:07.556042+00:00",
   "time_window": {
     "start": "2023-01-02",
     "end": "2026-01-07"
@@ -17,8 +17,8 @@
     "fine_walmart": {
       "value": 0.03,
       "unit": "fraction",
-      "basis": "line_cogs",
-      "level": "line",
+      "basis": "short_cases_wholesale",
+      "level": "case",
       "description": "Walmart compliance fine schedule"
     },
     "fine_costco": {

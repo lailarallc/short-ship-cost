@@ -7,7 +7,7 @@
   {
     "month": "2023-01",
     "dimension": "compliance_fines",
-    "cost": 3008.79
+    "cost": 2986.39
   },
   {
     "month": "2023-01",
@@ -27,7 +27,7 @@
   {
     "month": "2023-02",
     "dimension": "compliance_fines",
-    "cost": 3259.46
+    "cost": 3111.48
   },
   {
     "month": "2023-02",
@@ -47,7 +47,7 @@
   {
     "month": "2023-03",
     "dimension": "compliance_fines",
-    "cost": 1849.8
+    "cost": 1636.16
   },
   {
     "month": "2023-03",
@@ -67,7 +67,7 @@
   {
     "month": "2023-04",
     "dimension": "compliance_fines",
-    "cost": 3359.69
+    "cost": 3221.22
   },
   {
     "month": "2023-04",
@@ -87,7 +87,7 @@
   {
     "month": "2023-05",
     "dimension": "compliance_fines",
-    "cost": 4792.85
+    "cost": 4670.7
   },
   {
     "month": "2023-05",
@@ -107,7 +107,7 @@
   {
     "month": "2023-06",
     "dimension": "compliance_fines",
-    "cost": 3749.38
+    "cost": 3600.27
   },
   {
     "month": "2023-06",
@@ -127,7 +127,7 @@
   {
     "month": "2023-07",
     "dimension": "compliance_fines",
-    "cost": 3788.28
+    "cost": 3610.71
   },
   {
     "month": "2023-07",
@@ -147,7 +147,7 @@
   {
     "month": "2023-08",
     "dimension": "compliance_fines",
-    "cost": 4423.38
+    "cost": 4300.22
   },
   {
     "month": "2023-08",
@@ -167,7 +167,7 @@
   {
     "month": "2023-09",
     "dimension": "compliance_fines",
-    "cost": 3886.1
+    "cost": 3691.11
   },
   {
     "month": "2023-09",
@@ -187,7 +187,7 @@
   {
     "month": "2023-10",
     "dimension": "compliance_fines",
-    "cost": 5545.56
+    "cost": 5308.96
   },
   {
     "month": "2023-10",
@@ -207,7 +207,7 @@
   {
     "month": "2023-11",
     "dimension": "compliance_fines",
-    "cost": 7258.59
+    "cost": 7003.03
   },
   {
     "month": "2023-11",
@@ -227,7 +227,7 @@
   {
     "month": "2023-12",
     "dimension": "compliance_fines",
-    "cost": 8194.13
+    "cost": 7992.17
   },
   {
     "month": "2023-12",
@@ -247,7 +247,7 @@
   {
     "month": "2024-01",
     "dimension": "compliance_fines",
-    "cost": 3526.04
+    "cost": 3302.52
   },
   {
     "month": "2024-01",
@@ -267,7 +267,7 @@
   {
     "month": "2024-02",
     "dimension": "compliance_fines",
-    "cost": 2127.09
+    "cost": 2026.47
   },
   {
     "month": "2024-02",
@@ -287,7 +287,7 @@
   {
     "month": "2024-03",
     "dimension": "compliance_fines",
-    "cost": 2256.65
+    "cost": 2094.38
   },
   {
     "month": "2024-03",
@@ -307,7 +307,7 @@
   {
     "month": "2024-04",
     "dimension": "compliance_fines",
-    "cost": 3176.63
+    "cost": 3063.9
   },
   {
     "month": "2024-04",
@@ -327,7 +327,7 @@
   {
     "month": "2024-05",
     "dimension": "compliance_fines",
-    "cost": 2840.76
+    "cost": 2646.34
   },
   {
     "month": "2024-05",
@@ -347,7 +347,7 @@
   {
     "month": "2024-06",
     "dimension": "compliance_fines",
-    "cost": 5020.8
+    "cost": 4908.78
   },
   {
     "month": "2024-06",
@@ -367,7 +367,7 @@
   {
     "month": "2024-07",
     "dimension": "compliance_fines",
-    "cost": 3114.4
+    "cost": 2948.69
   },
   {
     "month": "2024-07",
@@ -387,7 +387,7 @@
   {
     "month": "2024-08",
     "dimension": "compliance_fines",
-    "cost": 3076.44
+    "cost": 2930.28
   },
   {
     "month": "2024-08",
@@ -407,7 +407,7 @@
   {
     "month": "2024-09",
     "dimension": "compliance_fines",
-    "cost": 4201.5
+    "cost": 3956.63
   },
   {
     "month": "2024-09",
@@ -427,7 +427,7 @@
   {
     "month": "2024-10",
     "dimension": "compliance_fines",
-    "cost": 5398.9
+    "cost": 5185.2
   },
   {
     "month": "2024-10",
@@ -447,7 +447,7 @@
   {
     "month": "2024-11",
     "dimension": "compliance_fines",
-    "cost": 9109.18
+    "cost": 8730.98
   },
   {
     "month": "2024-11",
@@ -467,7 +467,7 @@
   {
     "month": "2024-12",
     "dimension": "compliance_fines",
-    "cost": 10154.06
+    "cost": 9838.75
   },
   {
     "month": "2024-12",
@@ -487,7 +487,7 @@
   {
     "month": "2025-01",
     "dimension": "compliance_fines",
-    "cost": 5087.53
+    "cost": 5006.78
   },
   {
     "month": "2025-01",
@@ -507,7 +507,7 @@
   {
     "month": "2025-02",
     "dimension": "compliance_fines",
-    "cost": 2538.52
+    "cost": 2493.81
   },
   {
     "month": "2025-02",
@@ -527,7 +527,7 @@
   {
     "month": "2025-03",
     "dimension": "compliance_fines",
-    "cost": 2724.47
+    "cost": 2601.31
   },
   {
     "month": "2025-03",
@@ -547,7 +547,7 @@
   {
     "month": "2025-04",
     "dimension": "compliance_fines",
-    "cost": 3788.43
+    "cost": 3590.27
   },
   {
     "month": "2025-04",
@@ -567,7 +567,7 @@
   {
     "month": "2025-05",
     "dimension": "compliance_fines",
-    "cost": 5352.64
+    "cost": 5205.35
   },
   {
     "month": "2025-05",
@@ -587,7 +587,7 @@
   {
     "month": "2025-06",
     "dimension": "compliance_fines",
-    "cost": 3552.62
+    "cost": 3456.7
   },
   {
     "month": "2025-06",
@@ -607,7 +607,7 @@
   {
     "month": "2025-07",
     "dimension": "compliance_fines",
-    "cost": 5205.15
+    "cost": 5036.4
   },
   {
     "month": "2025-07",
@@ -627,7 +627,7 @@
   {
     "month": "2025-08",
     "dimension": "compliance_fines",
-    "cost": 5050.43
+    "cost": 4860.5
   },
   {
     "month": "2025-08",
@@ -647,7 +647,7 @@
   {
     "month": "2025-09",
     "dimension": "compliance_fines",
-    "cost": 1964.79
+    "cost": 1846.72
   },
   {
     "month": "2025-09",
@@ -667,7 +667,7 @@
   {
     "month": "2025-10",
     "dimension": "compliance_fines",
-    "cost": 3177.76
+    "cost": 2971.71
   },
   {
     "month": "2025-10",
@@ -687,7 +687,7 @@
   {
     "month": "2025-11",
     "dimension": "compliance_fines",
-    "cost": 6600.44
+    "cost": 6275.93
   },
   {
     "month": "2025-11",
@@ -707,7 +707,7 @@
   {
     "month": "2025-12",
     "dimension": "compliance_fines",
-    "cost": 11226.57
+    "cost": 10872.62
   },
   {
     "month": "2025-12",
@@ -727,7 +727,7 @@
   {
     "month": "2026-01",
     "dimension": "compliance_fines",
-    "cost": 1155.4
+    "cost": 1084.93
   },
   {
     "month": "2026-01",
