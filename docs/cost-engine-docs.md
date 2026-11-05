@@ -260,7 +260,7 @@ a direct sum.
 Retailer-specific fines per the schedule in
 `docs/cost-engine-benchmarks.md`:
 - Walmart: 3% of wholesale price on every short case (shorts rounded up to whole cases, capped at units ordered), every month with no fill threshold — a modeling assumption per registry A5.17. Parameter `otif_walmart_rate`.
-- Costco: $250 flat per PO with any short. Parameter `otif_costco_flat_fee`.
+- Costco: $250 flat per PO with any short. Parameter `otif_costco_flat_fee`. <!-- label-ok: published fine schedule -->
 - Whole Foods: 2% of PO COGS when PO fill < 95%. Parameter `otif_whole_foods_rate`.
 - UNFI: 3% of **shorted goods value** when PO fill < 95%. Parameter `otif_unfi_rate`. (Different basis than the others.)
 - KeHE: 2% of PO COGS when PO fill < 95%. Parameter `otif_kehe_rate`.

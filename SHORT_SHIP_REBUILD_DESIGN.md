@@ -149,8 +149,8 @@ explanatory context in the narrative, not as a dollar dimension.
 
 #### 3. otif_fines → RELABEL as "compliance_fines"
 
-**What it was:** Retailer-specific fine schedules (Walmart 3% of
-line COGS below 98% fill, Costco $250 flat per shorted PO, etc.)
+**What it was:** Retailer-specific fine schedules (national mass retailer 3% of
+line COGS below 98% fill, club retailer $250 flat per shorted PO, etc.)
 applied to every PO in the synthetic order data. Produced $2.1M
 (6.3% of total) — $690K/yr. The canonical OTIF figure says
 $136K/yr fines — a 5× contradiction the plausibility audit flagged.
@@ -177,8 +177,8 @@ industry norms.
 
 **What changes at 92% fill:**
 At 92% average fill, individual POs cluster around 92% with
-variance. Walmart's 98% line-level threshold still catches many
-lines. Whole Foods / UNFI / KeHE at 95% catch some POs. Regional
+variance. The national mass retailer's 98% line-level threshold still catches many
+lines. Natural grocer / distributor A / distributor B at 95% catch some POs. Regional
 at 90% catches fewer. Rough estimate: **$200K–400K over 3yr**
 ($70–130K/yr), which is much closer to the canonical's $136K/yr
 OTIF figure than the old $690K/yr. The 5× contradiction resolves.
@@ -231,7 +231,7 @@ Produced $464K (1.4% of total).
 
 #### 6. chargebacks → KEEP (actual event-driven amounts)
 
-**What it was:** Estimated chargeback rates (0.5% Walmart/Costco,
+**What it was:** Estimated chargeback rates (0.5% national mass retailer / club retailer,
 0.3% other) applied to shorted goods value. Produced $78K (0.24%).
 The old model explicitly noted it was a "fallback rate" because
 the historical chargebacks table wasn't generated from its
@@ -319,7 +319,7 @@ In CPG operations these are distinct financial instruments:
 - **Compliance fines** are contractual OTIF penalties — the
   retailer's compliance program levies a fine when fill falls below
   a threshold. Rates are per the retailer's published program
-  (Walmart 3% of COGS, Costco $250 flat, etc.).
+  (Walmart 3% of COGS, Costco $250 flat, etc.). <!-- label-ok: published fine schedules -->
 - **Chargebacks** are per-event penalty charges — the retailer's
   AP team debits the supplier for each shorted shipment at the
   retailer's chargeback rate. Assessment is probabilistic (not
@@ -451,7 +451,7 @@ Fine logic applied in Python (not in SQL — the schedules are
 configuration, not data):
 - Walmart: 3% of line COGS where line fill < 98%
   (Superseded 2026-09-30: Walmart fine is now 3% of wholesale price on short cases, rounded to whole cases, no threshold — see 431e644.)
-- Costco: $250 flat per PO where PO fill < 95%
+- Costco: $250 flat per PO where PO fill < 95% <!-- label-ok: published fine schedule -->
 - Whole Foods: 2% of PO COGS where PO fill < 95%
 - UNFI: 3% of shorted value where PO fill < 95%
 - KeHE: 2% of PO COGS where PO fill < 95%

@@ -77,7 +77,7 @@ not exist.
    forgone contribution margin at 52% of forgone revenue
 2. Compliance fines — contractual OTIF fines applied to actual
    shortfall events, modeled from published retailer fine schedules
-   (Walmart 3% of COGS, Costco $250 flat per any-short PO, etc.)
+   (Walmart 3% of COGS, Costco $250 flat per any-short PO, etc.) <!-- label-ok: published fine schedules -->
 3. Chargebacks — event-driven chargebacks for short_ship reason,
    actual amounts from platform
 4. Deductions — event-driven deductions for short_ship type, actual
