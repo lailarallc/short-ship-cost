@@ -18,7 +18,7 @@ Platform (Postgres).
   compliance fines, chargebacks, and deductions — directly from
   platform shipment, chargeback, and deduction records
 - Models compliance fines from published retailer schedules
-  (Walmart 3% of the wholesale price on each short case, Costco $250 flat fee per any-short PO, etc.)
+  (Walmart 3% of the wholesale price on each short case, Costco $250 flat fee per any-short PO, etc.) <!-- label-ok: published fee schedule, no Cinderhaven figure -->
   applied to real shortfall events
 - Simulates line-level fill-floor buffers (95–99%) and recomputes
   all four dimensions to show what a fill-rate lift recovers
@@ -43,10 +43,11 @@ $91K/yr, roughly 52% of the forgone revenue figure.
 
 Two findings a fill-rate KPI alone would miss:
 
-- **Fine structure beats fill rate.** Costco generates 89% of all
-  compliance fines ($140K of $158K) because its $250 flat fee fires
-  on any shorted line, even at 99%+ fill. Costco is also the largest
-  single-retailer cost contributor at $212K (24% of total).
+- **Fine structure beats fill rate.** The club retailer generates 89%
+  of all compliance fines ($140K of $158K) because its $250 flat fee
+  fires on any shorted line, even at 99%+ fill. The club retailer is
+  also the largest single-retailer cost contributor at $212K (24% of
+  total).
 - **The floor matters more than the average.** At 99.3% average
   fill, individual lines still fall short. Lifting the line-level
   floor to 99% recovers $514K — 57.9% of total shortfall cost:

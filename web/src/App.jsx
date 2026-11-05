@@ -16,6 +16,7 @@ import {
   summaryFromMonthly,
   validateBaseline,
 } from './utils/costEngine.js'
+import { DISTRIBUTOR_LABELS, RETAILER_LABELS } from './lib/partnerLabels.js'
 import './App.css'
 
 const RetailerDrilldown = lazy(() => import('./components/RetailerDrilldown.jsx'))
@@ -250,9 +251,10 @@ function AppShell({ data }) {
             <p>
               This analysis uses order and shipment data from the Cinderhaven
               Provisions data platform, covering a ~$25M annual revenue
-              specialty food brand operating across retail channels (Walmart,
-              Costco, Whole Foods, Kroger, Sprouts, and regional grocers) and
-              distributors (UNFI, KeHE, DPI Northwest). The dataset covers{' '}
+              specialty food brand operating across retail channels (
+              {RETAILER_LABELS.map((l) => `a ${l}`).join(', ')}, and regional
+              grocers) and distributors ({DISTRIBUTOR_LABELS.join(', ')}). The
+              dataset covers{' '}
               {data.meta.total_orders.toLocaleString()} orders and{' '}
               {data.meta.total_lines.toLocaleString()} shipment lines over a{' '}
               {Math.round((new Date(data.meta.time_window.end) - new Date(data.meta.time_window.start)) / (365.25 * 86400000))}-year window.

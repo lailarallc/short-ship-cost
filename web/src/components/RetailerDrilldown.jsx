@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react'
 
 import { DIMENSION_COLOR, DIMENSION_LABEL, DIMENSION_LABEL_SHORT, DIMENSION_ORDER } from '../lib/dimensions.js'
 import { fmtCompact, fmtPct, hexToRgba } from '../lib/format.js'
+import { partnerLabel, partnerLabelCap } from '../lib/partnerLabels.js'
 import { useTimeRange } from '../lib/timeRange.jsx'
 import PinnedCallout from './PinnedCallout.jsx'
 import styles from './RetailerDrilldown.module.css'
@@ -108,9 +109,9 @@ function sortSkuRows(rows, sortBy) {
 // ---- Retailer chart (custom SVG) ------------------------------------------
 
 const VB_W = 800
-const LABEL_X = 110
-const BAR_X = 120
-const MAX_BAR_W = 560
+const LABEL_X = 170 // room for the longest partner label ("Regional natural grocer")
+const BAR_X = 180
+const MAX_BAR_W = 500
 const BAR_H = 30
 const ROW_GAP = 18
 const ROW_H = BAR_H + ROW_GAP
@@ -155,7 +156,7 @@ function RetailerChart({ rows, dims, selectedRetailer, onSelect }) {
   const topDim = dims
     .map((d) => ({ dim: d, cost: top[d] || 0 }))
     .sort((a, b) => b.cost - a.cost)[0]
-  const titleParts = [`${top.retailer} bears the largest cost burden`]
+  const titleParts = [`${partnerLabelCap(top.retailer)} bears the largest cost burden`]
   if (topDim && topDim.cost > 0) {
     titleParts.push(
       `${fmtCompact(top.total)}, driven by ${DIMENSION_LABEL[topDim.dim].toLowerCase()}`,
@@ -189,7 +190,7 @@ function RetailerChart({ rows, dims, selectedRetailer, onSelect }) {
 
       {pinnedRow && (
         <PinnedCallout
-          title={pinnedRow.retailer}
+          title={partnerLabelCap(pinnedRow.retailer)}
           subtitle={`${fmtCompact(pinnedRow.total)} · ${fmtPct(pinnedRow.total / grandTotal)} of all retailers`}
           breakdown={pinnedBreakdown}
           onUnpin={() => onSelect(null)}
@@ -236,7 +237,7 @@ function RetailerChart({ rows, dims, selectedRetailer, onSelect }) {
                 y={rowTop + BAR_H / 2 + 4}
                 textAnchor="end"
               >
-                {r.retailer}
+                {partnerLabelCap(r.retailer)}
               </text>
 
               {segs.map((s) => (
@@ -347,7 +348,7 @@ function SkuTable({
         <div className={styles.retailerFilterRow}>
           <span>
             Showing SKUs with cost attributed to{' '}
-            <strong>{selectedRetailer}</strong>
+            <strong>{partnerLabel(selectedRetailer)}</strong>
             {rows.length > 0 &&
               ` (${rows.filter((r) => !r.isOther).length} SKUs)`}
           </span>
@@ -364,7 +365,7 @@ function SkuTable({
       {rows.length === 0 ? (
         <p className={styles.tableEmpty}>
           {selectedRetailer
-            ? `No SKUs with cost attributed to ${selectedRetailer} in this range.`
+            ? `No SKUs with cost attributed to ${partnerLabel(selectedRetailer)} in this range.`
             : 'No SKU-level cost data for the current filters.'}
         </p>
       ) : (
@@ -521,7 +522,7 @@ export default function RetailerDrilldown({ costByRetailer, costBySku }) {
 
       {insight && (
         <p className={styles.insightLine}>
-          {insight.retailer} accounts for {fmtPct(insight.pct)} of all
+          {partnerLabelCap(insight.retailer)} accounts for {fmtPct(insight.pct)} of all
           retailer costs&mdash;{fmtCompact(insight.total)}&mdash;with{' '}
           {insight.topDim.label.toLowerCase()} as the primary driver. The
           triage process that routes every order through manual review cannot
